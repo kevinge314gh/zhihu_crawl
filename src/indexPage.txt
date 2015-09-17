@@ -1,0 +1,2272 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title> 李楠 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://people/linan">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/linan">
+<meta id="znonce" name="znonce" content="e2fa1d0a3cc74e22a50a3c83323dd3e8">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/24691b2354863f3185eab56a98efcc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<style>
+.zm-item-top-container{
+display:none;
+}
+.zm-profile-section-head .goog-menu{
+display:none;!important;
+}
+</style>
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-wrap zu-main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner" id="zh-pm-page-wrap">
+
+<div class="zm-profile-header">
+<div class="zm-profile-header-main">
+<div class="top">
+
+<div class='weibo-wrap'>
+
+<a class="zm-profile-header-user-weibo" target="_blank" href="http://weibo.com/newkhonsou" data-tip="s$b$新浪微博"><i class="zm-profile-header-icon sina"></i></a>
+
+</div>
+
+<div class="title-section ellipsis">
+
+<span class="name">李楠</span>，<span class="bio" title="魅族营销中心招募设计师">魅族营销中心招募设计师</span>
+</div>
+</div>
+<div class="body clearfix">
+<div class="zm-profile-header-avatar-container ">
+<img class="avatar avatar-l" alt="李楠" src="//pic4.zhimg.com/24f3a654b_l.jpg" srcset="//pic4.zhimg.com/24f3a654b_xl.jpg 2x" />
+
+</div>
+<div class="zm-profile-header-info">
+<div class="zm-profile-header-user-describe">
+<div class="items">
+<div class="item editable-group" data-name="location">
+
+<i class="icon icon-profile-location"></i>
+
+<span class="info-wrap">
+
+<span class="location item" title="珠海"><a href="/topic/19557398" title="珠海" class="topic-link" data-token="19557398" data-topicid="2404">珠海</a></span>
+
+
+
+<span class="item gender" ><i class="icon icon-profile-male"></i></span>
+
+
+</span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="location" value="珠海" class="zg-form-text-input location" placeholder="居住地"/></span>
+<div class="business-selection">
+<select name="business">
+<option value="">选择行业</option>
+
+
+<option value="高新科技">高新科技</option>
+
+<option value="互联网">&nbsp;&nbsp;&nbsp;互联网</option>
+
+<option value="电子商务">&nbsp;&nbsp;&nbsp;电子商务</option>
+
+<option value="电子游戏">&nbsp;&nbsp;&nbsp;电子游戏</option>
+
+<option value="计算机软件">&nbsp;&nbsp;&nbsp;计算机软件</option>
+
+<option value="计算机硬件">&nbsp;&nbsp;&nbsp;计算机硬件</option>
+
+
+
+
+<option value="信息传媒">信息传媒</option>
+
+<option value="出版业">&nbsp;&nbsp;&nbsp;出版业</option>
+
+<option value="电影录音">&nbsp;&nbsp;&nbsp;电影录音</option>
+
+<option value="广播电视">&nbsp;&nbsp;&nbsp;广播电视</option>
+
+<option value="通信">&nbsp;&nbsp;&nbsp;通信</option>
+
+
+
+
+<option value="金融">金融</option>
+
+<option value="银行">&nbsp;&nbsp;&nbsp;银行</option>
+
+<option value="资本投资">&nbsp;&nbsp;&nbsp;资本投资</option>
+
+<option value="证券投资">&nbsp;&nbsp;&nbsp;证券投资</option>
+
+<option value="保险">&nbsp;&nbsp;&nbsp;保险</option>
+
+<option value="信贷">&nbsp;&nbsp;&nbsp;信贷</option>
+
+<option value="财务">&nbsp;&nbsp;&nbsp;财务</option>
+
+<option value="审计">&nbsp;&nbsp;&nbsp;审计</option>
+
+
+
+
+<option value="服务业">服务业</option>
+
+<option value="法律">&nbsp;&nbsp;&nbsp;法律</option>
+
+<option value="餐饮">&nbsp;&nbsp;&nbsp;餐饮</option>
+
+<option value="酒店">&nbsp;&nbsp;&nbsp;酒店</option>
+
+<option value="旅游">&nbsp;&nbsp;&nbsp;旅游</option>
+
+<option value="广告">&nbsp;&nbsp;&nbsp;广告</option>
+
+<option value="公关">&nbsp;&nbsp;&nbsp;公关</option>
+
+<option value="景观">&nbsp;&nbsp;&nbsp;景观</option>
+
+<option value="咨询分析">&nbsp;&nbsp;&nbsp;咨询分析</option>
+
+<option value="市场推广">&nbsp;&nbsp;&nbsp;市场推广</option>
+
+<option value="人力资源">&nbsp;&nbsp;&nbsp;人力资源</option>
+
+<option value="社工服务">&nbsp;&nbsp;&nbsp;社工服务</option>
+
+<option value="养老服务">&nbsp;&nbsp;&nbsp;养老服务</option>
+
+
+
+
+<option value="教育">教育</option>
+
+<option value="高等教育">&nbsp;&nbsp;&nbsp;高等教育</option>
+
+<option value="基础教育">&nbsp;&nbsp;&nbsp;基础教育</option>
+
+<option value="职业教育">&nbsp;&nbsp;&nbsp;职业教育</option>
+
+<option value="幼儿教育">&nbsp;&nbsp;&nbsp;幼儿教育</option>
+
+<option value="特殊教育">&nbsp;&nbsp;&nbsp;特殊教育</option>
+
+<option value="培训">&nbsp;&nbsp;&nbsp;培训</option>
+
+
+
+
+<option value="医疗服务">医疗服务</option>
+
+<option value="临床医疗">&nbsp;&nbsp;&nbsp;临床医疗</option>
+
+<option value="制药">&nbsp;&nbsp;&nbsp;制药</option>
+
+<option value="保健">&nbsp;&nbsp;&nbsp;保健</option>
+
+<option value="美容">&nbsp;&nbsp;&nbsp;美容</option>
+
+<option value="医疗器材">&nbsp;&nbsp;&nbsp;医疗器材</option>
+
+<option value="生物工程">&nbsp;&nbsp;&nbsp;生物工程</option>
+
+<option value="疗养服务">&nbsp;&nbsp;&nbsp;疗养服务</option>
+
+<option value="护理服务">&nbsp;&nbsp;&nbsp;护理服务</option>
+
+
+
+
+<option value="艺术娱乐">艺术娱乐</option>
+
+<option value="创意艺术">&nbsp;&nbsp;&nbsp;创意艺术</option>
+
+<option value="体育健身">&nbsp;&nbsp;&nbsp;体育健身</option>
+
+<option value="娱乐休闲">&nbsp;&nbsp;&nbsp;娱乐休闲</option>
+
+<option value="图书馆">&nbsp;&nbsp;&nbsp;图书馆</option>
+
+<option value="博物馆">&nbsp;&nbsp;&nbsp;博物馆</option>
+
+<option value="策展">&nbsp;&nbsp;&nbsp;策展</option>
+
+<option value="博彩">&nbsp;&nbsp;&nbsp;博彩</option>
+
+
+
+
+<option value="制造加工">制造加工</option>
+
+<option value="食品饮料业">&nbsp;&nbsp;&nbsp;食品饮料业</option>
+
+<option value="纺织皮革业">&nbsp;&nbsp;&nbsp;纺织皮革业</option>
+
+<option value="服装业">&nbsp;&nbsp;&nbsp;服装业</option>
+
+<option value="烟草业">&nbsp;&nbsp;&nbsp;烟草业</option>
+
+<option value="造纸业">&nbsp;&nbsp;&nbsp;造纸业</option>
+
+<option value="印刷业">&nbsp;&nbsp;&nbsp;印刷业</option>
+
+<option value="化工业">&nbsp;&nbsp;&nbsp;化工业</option>
+
+<option value="汽车">&nbsp;&nbsp;&nbsp;汽车</option>
+
+<option value="家具">&nbsp;&nbsp;&nbsp;家具</option>
+
+<option value="电子电器">&nbsp;&nbsp;&nbsp;电子电器</option>
+
+<option value="机械设备">&nbsp;&nbsp;&nbsp;机械设备</option>
+
+<option value="塑料工业">&nbsp;&nbsp;&nbsp;塑料工业</option>
+
+<option value="金属加工">&nbsp;&nbsp;&nbsp;金属加工</option>
+
+<option value="军火">&nbsp;&nbsp;&nbsp;军火</option>
+
+
+
+
+<option value="地产建筑">地产建筑</option>
+
+<option value="房地产">&nbsp;&nbsp;&nbsp;房地产</option>
+
+<option value="装饰装潢">&nbsp;&nbsp;&nbsp;装饰装潢</option>
+
+<option value="物业服务">&nbsp;&nbsp;&nbsp;物业服务</option>
+
+<option value="特殊建造">&nbsp;&nbsp;&nbsp;特殊建造</option>
+
+<option value="建筑设备">&nbsp;&nbsp;&nbsp;建筑设备</option>
+
+
+
+
+<option value="贸易零售">贸易零售</option>
+
+<option value="零售">&nbsp;&nbsp;&nbsp;零售</option>
+
+<option value="大宗交易">&nbsp;&nbsp;&nbsp;大宗交易</option>
+
+<option value="进出口贸易">&nbsp;&nbsp;&nbsp;进出口贸易</option>
+
+
+
+
+<option value="公共服务">公共服务</option>
+
+<option value="政府">&nbsp;&nbsp;&nbsp;政府</option>
+
+<option value="国防军事">&nbsp;&nbsp;&nbsp;国防军事</option>
+
+<option value="航天">&nbsp;&nbsp;&nbsp;航天</option>
+
+<option value="科研">&nbsp;&nbsp;&nbsp;科研</option>
+
+<option value="给排水">&nbsp;&nbsp;&nbsp;给排水</option>
+
+<option value="水利能源">&nbsp;&nbsp;&nbsp;水利能源</option>
+
+<option value="电力电网">&nbsp;&nbsp;&nbsp;电力电网</option>
+
+<option value="公共管理">&nbsp;&nbsp;&nbsp;公共管理</option>
+
+<option value="环境保护">&nbsp;&nbsp;&nbsp;环境保护</option>
+
+<option value="非营利组织">&nbsp;&nbsp;&nbsp;非营利组织</option>
+
+
+
+
+<option value="开采冶金">开采冶金</option>
+
+<option value="煤炭工业">&nbsp;&nbsp;&nbsp;煤炭工业</option>
+
+<option value="石油工业">&nbsp;&nbsp;&nbsp;石油工业</option>
+
+<option value="黑色金属">&nbsp;&nbsp;&nbsp;黑色金属</option>
+
+<option value="有色金属">&nbsp;&nbsp;&nbsp;有色金属</option>
+
+<option value="土砂石开采">&nbsp;&nbsp;&nbsp;土砂石开采</option>
+
+<option value="地热开采">&nbsp;&nbsp;&nbsp;地热开采</option>
+
+
+
+
+<option value="交通仓储">交通仓储</option>
+
+<option value="邮政">&nbsp;&nbsp;&nbsp;邮政</option>
+
+<option value="物流递送">&nbsp;&nbsp;&nbsp;物流递送</option>
+
+<option value="地面运输">&nbsp;&nbsp;&nbsp;地面运输</option>
+
+<option value="铁路运输">&nbsp;&nbsp;&nbsp;铁路运输</option>
+
+<option value="管线运输">&nbsp;&nbsp;&nbsp;管线运输</option>
+
+<option value="航运业">&nbsp;&nbsp;&nbsp;航运业</option>
+
+<option value="民用航空业">&nbsp;&nbsp;&nbsp;民用航空业</option>
+
+
+
+
+<option value="农林牧渔">农林牧渔</option>
+
+<option value="种植业">&nbsp;&nbsp;&nbsp;种植业</option>
+
+<option value="畜牧养殖业">&nbsp;&nbsp;&nbsp;畜牧养殖业</option>
+
+<option value="林业">&nbsp;&nbsp;&nbsp;林业</option>
+
+<option value="渔业">&nbsp;&nbsp;&nbsp;渔业</option>
+
+
+
+</select>
+</div>
+<span class="zg-bull">|</span>
+<input type="radio" name="gender" value="1" checked="checked" class="male"/> 男&nbsp;&nbsp;
+<input type="radio" name="gender" value="0"  class="female"/> 女
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+
+
+<a class="zm-profile-header-user-detail zg-link-litblue-normal" href="/people/linan/about">
+<i class="zm-profile-header-icon"></i>
+<span>查看详细资料</span>
+</a>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-header-operation zg-clear ">
+<div class="zm-profile-header-info-list">
+<span class="zm-profile-header-info-title">获得</span>
+<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>145483</strong>赞同</span>
+<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>25703</strong>感谢</span>
+
+</div>
+
+<div class="zm-profile-header-op-btns clearfix">
+
+
+<button data-follow="m:button" data-id="29c3654588fd4246bb90cbd345242d65" class="zg-btn zg-btn-follow zm-rich-follow-btn">关注他</button>
+
+
+
+<a href="/inbox/7413324000" class="zg-btn-white zm-profile-header-pm-btn" id="zm-profile-header-pm-btn"><i class="zg-icon">私信</i></a>
+
+
+</div>
+
+</div>
+<div class="profile-navbar clearfix">
+<a class="item home first active"
+href="/people/linan">
+<i class="icon icon-profile-tab-home"></i><span class="hide-text">主页</span>
+</a>
+<a class="item "
+href="/people/linan/asks">
+提问
+<span class="num">410</span>
+</a>
+<a class="item "
+href="/people/linan/answers">
+回答
+<span class="num">1108</span>
+</a>
+<a class="item "
+href="/people/linan/posts">
+专栏文章
+<span class="num">51</span>
+</a>
+<a class="item "
+href="/people/linan/collections">
+收藏
+<span class="num">0</span>
+</a>
+<a class="item "
+href="/people/linan/logs">
+公共编辑
+<span class="num">2550</span>
+</a>
+</div>
+
+</div>
+
+
+<div class="zm-profile-section-wrap skilled-topics">
+<div class="zm-profile-section-head">
+
+<span class="zm-profile-section-title">
+<h2 class="zm-profile-section-name" style="color:#666;">擅长话题</h2>
+</span>
+</div>
+<div class="inner zg-clear">
+<div class="zm-profile-section-list zg-clear">
+
+<div tabindex="-1" class="item" data-url-token="19550228" data-active="1" data-href="/people/linan/topic/19550228/answers" data-id="2" title="李楠在知乎下的回答">
+<span class="avatar"><img src="//pic1.zhimg.com/2e33f063f1bd9221df967219167b5de0_m.jpg" /></span>
+
+<a href="/topic/19550228" title="知乎"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/linan/topic/19550228/answers" class="zg-gray-darker">知乎 </a>
+</h3>
+
+<p class="description">
+<span class="zg-gray-normal des">第20号用户</span>
+
+<p class="description-edit" style="display:none;">
+<input type="text" class="zg-form-text-input" value="第20号用户" autocomplete="off" />
+<span class="command">
+<a href="javascript:void(0);" class="zm-command-cancel" name="cancel">取消</a>
+<a href="javascript:void(0);" class="zg-btn-blue" name="save">保存</a>
+</span>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>1980</span>
+<span><i class="zg-icon comment"></i>48</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19551762" data-active="1" data-href="/people/linan/topic/19551762/answers" data-id="520" title="李楠在苹果公司 (Apple Inc.)下的回答">
+<span class="avatar"><img src="//pic3.zhimg.com/39420a7da_m.jpg" /></span>
+
+<a href="/topic/19551762" title="苹果公司 (Apple Inc.)"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/linan/topic/19551762/answers" class="zg-gray-darker">苹果公司 (Apple Inc.) </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>6685</span>
+<span><i class="zg-icon comment"></i>64</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19550917" data-active="1" data-href="/people/linan/topic/19550917/answers" data-id="229" title="李楠在日本下的回答">
+<span class="avatar"><img src="//pic1.zhimg.com/81e37f610_m.jpg" /></span>
+
+<a href="/topic/19550917" title="日本"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/linan/topic/19550917/answers" class="zg-gray-darker">日本 </a>
+</h3>
+
+<p class="description">
+<span class="zg-gray-normal des">混迹日本职场十年</span>
+
+<p class="description-edit" style="display:none;">
+<input type="text" class="zg-form-text-input" value="混迹日本职场十年" autocomplete="off" />
+<span class="command">
+<a href="javascript:void(0);" class="zm-command-cancel" name="cancel">取消</a>
+<a href="javascript:void(0);" class="zg-btn-blue" name="save">保存</a>
+</span>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>10949</span>
+<span><i class="zg-icon comment"></i>67</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19550246" data-active="1" data-href="/people/linan/topic/19550246/answers" data-id="11" title="李楠在史蒂夫·乔布斯（Steve Jobs）下的回答">
+<span class="avatar"><img src="//pic4.zhimg.com/564077033_m.jpg" /></span>
+
+<a href="/topic/19550246" title="史蒂夫·乔布斯（Steve Jobs）"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/linan/topic/19550246/answers" class="zg-gray-darker">史蒂夫·乔布斯（Steve Jobs） </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>839</span>
+<span><i class="zg-icon comment"></i>22</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19550292" data-active="1" data-href="/people/linan/topic/19550292/answers" data-id="25" title="李楠在iPhone下的回答">
+<span class="avatar"><img src="//pic2.zhimg.com/bd6b19fc1_m.jpg" /></span>
+
+<a href="/topic/19550292" title="iPhone"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/linan/topic/19550292/answers" class="zg-gray-darker">iPhone </a>
+</h3>
+
+<p class="description">
+<span class="zg-gray-normal des">写了：iPhone 可有设计哲学？</span>
+
+<p class="description-edit" style="display:none;">
+<input type="text" class="zg-form-text-input" value="写了：iPhone 可有设计哲学？" autocomplete="off" />
+<span class="command">
+<a href="javascript:void(0);" class="zm-command-cancel" name="cancel">取消</a>
+<a href="javascript:void(0);" class="zg-btn-blue" name="save">保存</a>
+</span>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>9026</span>
+<span><i class="zg-icon comment"></i>42</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19603145" data-active="1" data-href="/people/linan/topic/19603145/answers" data-id="17686" title="李楠在Android下的回答">
+<span class="avatar"><img src="//pic1.zhimg.com/1ab029e14_m.jpg" /></span>
+
+<a href="/topic/19603145" title="Android"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/linan/topic/19603145/answers" class="zg-gray-darker">Android </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>6106</span>
+<span><i class="zg-icon comment"></i>48</span>
+</p>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-wrap">
+<div class="zm-profile-section-head">
+<a class="zm-profile-section-title" href="/people/linan/answers">
+<h2 class="zm-profile-section-name">回答</h2>
+<i class="zg-right zg-icon zm-profile-section-more-btn"></i>
+</a>
+</div>
+<div class="zm-profile-section-list" id="zh-profile-answers-inner-list">
+
+<div class="zm-profile-section-item zg-clear">
+<a class="zm-profile-vote-count" href="javascript:void(0);">
+<div class="zm-profile-vote-num">170</div>
+<div class="zm-profile-vote-type">赞同</div>
+</a>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" href="/question/22178601/answer/63405276">你为什么买日本车？</a>
+</h2>
+
+<p class="zm-profile-item-text">因为马自达有一辆车叫 MX5</p>
+
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<a class="zm-profile-vote-count" href="javascript:void(0);">
+<div class="zm-profile-vote-num">37</div>
+<div class="zm-profile-vote-type">赞同</div>
+</a>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" href="/question/35487017/answer/63039904">如何评价 2015 年 9 月 9 日 Apple 秋季发布会？</a>
+</h2>
+
+<p class="zm-profile-item-text">这次发布会会影响行业的三个科技进步<b>1 Siri</b>Siri 不是新东西，但是有可能是命令行，…</p>
+
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<a class="zm-profile-vote-count" href="javascript:void(0);">
+<div class="zm-profile-vote-num">50</div>
+<div class="zm-profile-vote-type">赞同</div>
+</a>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" href="/question/35504182/answer/63037797">如何评价 Apple 在 2015 年 9 月发布的 iPad Pro ？</a>
+</h2>
+
+<p class="zm-profile-item-text">大就是美。多任务不错。笔和键盘是小众配件，尤其是键盘带着强烈的 Surface 气息。…</p>
+
+</div>
+</div>
+
+
+</div>
+</div>
+<div class="zm-profile-section-wrap zm-profile-ask-wrap" id="zh-profile-ask-wrap">
+<div class="zm-profile-section-head">
+<a class="zm-profile-section-title" href="/people/linan/asks">
+<h2 class="zm-profile-section-name">提问</h2>
+<i class="zg-right zg-icon zm-profile-section-more-btn" href="/people/linan/asks"></i>
+</a>
+</div>
+<div class="zm-profile-section-list" id="zh-profile-ask-inner-list">
+
+<div class="zm-profile-section-item zg-clear">
+<span class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">438K</div>
+<div class="zm-profile-vote-type">浏览</div>
+</span>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" target="_blank" href="/question/30550437">如何看待两个中国人之间用英文微信沟通？</a>
+</h2>
+<div class="meta zg-gray">
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4402607"><i class="z-icon-follow"></i>关注问题</a>
+<span class="zg-bull">&bull;</span>
+430 个回答
+<span class="zg-bull">&bull;</span>
+906 人关注
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<span class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">786K</div>
+<div class="zm-profile-vote-type">浏览</div>
+</span>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" target="_blank" href="/question/29316907">魅族是如何掉队的？</a>
+</h2>
+<div class="meta zg-gray">
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-3909599"><i class="z-icon-follow"></i>关注问题</a>
+<span class="zg-bull">&bull;</span>
+669 个回答
+<span class="zg-bull">&bull;</span>
+2327 人关注
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<span class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">68K</div>
+<div class="zm-profile-vote-type">浏览</div>
+</span>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" target="_blank" href="/question/26818213">我们点击一次微信朋友圈的广告创造了多少价值？</a>
+</h2>
+<div class="meta zg-gray">
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-2910239"><i class="z-icon-follow"></i>关注问题</a>
+<span class="zg-bull">&bull;</span>
+33 个回答
+<span class="zg-bull">&bull;</span>
+562 人关注
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+<div class="zm-profile-section-wrap" id="zh-profile-activity-wrap">
+<div class="zm-profile-section-head">
+<h2 class="zm-profile-section-title" style="color:#666;">最新动态</h2>
+</a>
+</div>
+<div class="zm-profile-section-list profile-feed-wrap">
+<div id="zh-profile-activity-page-list">
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442405153" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/35513719/answer/63124282">如何评价魅族 9 月 23 号 Pro 新品发布会的邀请函设计？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="20663794"
+data-atoken="63124282"
+data-collapsed="0"
+data-created="1441878240"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-20663794"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="256">256</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">256</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$xiao-pi-xiu-22"
+class="zm-item-link-avatar"
+href="/people/xiao-pi-xiu-22">
+<img src="//pic4.zhimg.com/2048b8257_s.jpg"
+class="zm-list-avatar"
+data-source="//pic4.zhimg.com/2048b8257_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$xiao-pi-xiu-22" href="/people/xiao-pi-xiu-22">小貔貅</a>，<strong title="人生这么多过客，希望下一个可以是一辈子。" class="zu-question-my-bio">人生这么多过客，希望下一个可以是一辈子。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="256">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$sthch" href="http://www.zhihu.com/people/sthch" class="zg-link" title="黄诚浩">黄诚浩</a>、</span><span class="user-block"><a data-tip="p$t$hou-zong-zong" href="http://www.zhihu.com/people/hou-zong-zong" class="zg-link" title="侯宗宗">侯宗宗</a>、</span><span class="user-block"><a data-tip="p$t$shu-qing-yang-2" href="http://www.zhihu.com/people/shu-qing-yang-2" class="zg-link" title="舒庆阳">舒庆阳</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="6412153" data-action="/answer/content">
+
+<textarea class="content hidden">
+首先声明并不算魅友，只是入手MX5的普通用户而已！&lt;br&gt;在我看来， 魅族如此大手笔的邀请函，展现出来的是对新产品的自信;通过邀请函引发吾等普罗大众的关注，是想说明公司由一个小众品牌转向大众产品的肯定！&lt;br&gt;看了几个路人黑，1.有说是为了炒作。我只想说人家花了这么大手笔，如果一点营销效果都没有那才叫失败呢！但是这不是炒作！2.有说花心思做邀请函，不如修复bugme。首先，一个优秀的公司，在发布自己的产品时应该注重每一个细节(想到坚果总觉得诚意不够有木有)，所以邀请函也是必不可少的一部分，一个优秀的邀请函也能起到很好宣传作用！然后再说说bugme:我不知道各位吐槽flyme系统的知友是不是天天都在用手机创造历史造福人类，所以对手机的要求那么高，作为一个普通用户，我觉得搭载在mx5的flyme完全满足我的需求，并没有发现什么bug。&lt;br&gt;综上，我觉得人家有钱任性，大手笔做邀请函，本就轮不到我们评头品足。人家通过这么土豪的邀请函，也展现了对新发布手机的自信。各种吐槽flyme系统，说明早起flyme可能确实做的不够，但是到我入手魅族接触flyme并没有发现太多bug，说明人家也确实在认真做手机！
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/35513719/answer/63124282">发布于 2015-09-10</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+首先声明并不算魅友，只是入手MX5的普通用户而已！在我看来， 魅族如此大手笔的邀请函，展现出来的是对新产品的自信;通过邀请函引发吾等普罗大众的关注，是想说明公司由一个小众品牌转向大众产品的肯定！看了几个路人黑，1.有说是为了炒作。我只想说人家花…
+
+<a href="/question/35513719/answer/63124282" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6412153"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>142 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442405133" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/35513719/answer/63402887">如何评价魅族 9 月 23 号 Pro 新品发布会的邀请函设计？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="20775414"
+data-atoken="63402887"
+data-collapsed="0"
+data-created="1442069844"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-20775414"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="31">31</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">31</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lin-mu-bai-34"
+class="zm-item-link-avatar"
+href="/people/lin-mu-bai-34">
+<img src="//pic4.zhimg.com/46a66c93c0cdeda9c7c727d1603951d7_s.jpg"
+class="zm-list-avatar"
+data-source="//pic4.zhimg.com/46a66c93c0cdeda9c7c727d1603951d7_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lin-mu-bai-34" href="/people/lin-mu-bai-34">林慕白</a>，<strong title="江湖夜雨不熄灯(公众号：jhyybxd)" class="zu-question-my-bio">江湖夜雨不熄灯(公众号：jhyybxd)</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="31">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$wang-kang-73-27" href="http://www.zhihu.com/people/wang-kang-73-27" class="zg-link" title="王康">王康</a>、</span><span class="user-block"><a data-tip="p$t$mu-yi-si-si" href="http://www.zhihu.com/people/mu-yi-si-si" class="zg-link" title="木易肆肆">木易肆肆</a>、</span><span class="user-block"><a data-tip="p$t$zhu14098" href="http://www.zhihu.com/people/zhu14098" class="zg-link" title="李安留">李安留</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="6412153" data-action="/answer/content">
+
+<textarea class="content hidden">
+我觉得魅族这样设计，绝对不是简单粗暴地“变相行贿”或是“主打摄像”功能，绝对是经过一番考虑，不管他们目的是“一石二鸟”还是“一箭三雕”，最起码达到了下面几个效果：&lt;br&gt;&lt;br&gt;1、制造话题，巧妙营销&lt;br&gt;送上Gopro，让接到邀请函的人，特别是记者朋友们自动发微博、发文章，来介绍这一个不常见的邀请函。为媒体提供“新闻点”和“炒作点”，这比传统请公关公司发PR通稿、给红包效果好，多么物美价廉的一次营销。&lt;br&gt;从现在的效果来看，魅族已经成功了。&lt;br&gt;&lt;br&gt;2、预示功能，引发好奇&lt;br&gt;Gopro到底代表了什么，是go pro（继续向pro进发）的意思吗？暗示MX4 Pro 之后，MX 5 会&quot;PRO&quot;到底？是新手机会像Gopro一样“防水防震”？&lt;br&gt;&lt;br&gt;3、投其所好，远交近攻&lt;br&gt;既然要给媒体朋友们点“甜头”，当然要新奇、酷一点的玩意儿了（科技报道同行也是gadget控吧）。送东西可以，同业竞争对手的产品断然不行，既跨界又能捎带脚给自己制造话题的Gopro无疑是理想选择。
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-12" target="_blank" href="/question/35513719/answer/63402887">编辑于 2015-09-12</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+我觉得魅族这样设计，绝对不是简单粗暴地“变相行贿”或是“主打摄像”功能，绝对是经过一番考虑，不管他们目的是“一石二鸟”还是“一箭三雕”，最起码达到了下面几个效果：1、制造话题，巧妙营销送上Gopro，让接到邀请函的人，特别是记者朋友们自动发微博…
+
+<a href="/question/35513719/answer/63402887" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6412153"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>10 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442320256" data-type="" >
+<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 关注了问题
+
+<a class="question_link" href="/question/35508813">为何会编造出德国难民的假新闻？</a>
+</div>
+
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442215025" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">3 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/31871242/answer/63589079">为什么当女朋友或女性朋友向我抱怨一件事儿时，我却总觉得错在她身上？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="20850039"
+data-atoken="63589079"
+data-collapsed="0"
+data-created="1442211510"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-20850039"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2204">2204</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2204</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$527hao-xiao-guai-shou"
+class="zm-item-link-avatar"
+href="/people/527hao-xiao-guai-shou">
+<img src="//pic2.zhimg.com/31fe4a0508c0d267928f955b31733f99_s.jpg"
+class="zm-list-avatar"
+data-source="//pic2.zhimg.com/31fe4a0508c0d267928f955b31733f99_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$527hao-xiao-guai-shou" href="/people/527hao-xiao-guai-shou">527号小怪兽</a>，<strong title="微信公众号：sylvia_527。" class="zu-question-my-bio">微信公众号：sylvia_527。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="2204">
+
+<span class="voters">
+<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$wang-yan-zhe-34" href="http://www.zhihu.com/people/wang-yan-zhe-34" class="zg-link" title="王演喆">王演喆</a>、</span><span class="user-block"><a data-tip="p$t$xia-tian-tian-12" href="http://www.zhihu.com/people/xia-tian-tian-12" class="zg-link" title="夏甜甜">夏甜甜</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="4947749" data-action="/answer/content">
+
+<textarea class="content hidden">
+别争了，根本与性别无关，这个问题几十年前心理学家就有了答案。&lt;br&gt;&lt;br&gt;&lt;br&gt;为什么当别人抱怨一件事情的时候，我们总觉得问题出在他们自身？&lt;br&gt;&lt;br&gt;然而，为什么当我们自己遇到不如意的时候，我们却觉得错的是他人或是环境？&lt;br&gt;&lt;br&gt;&lt;br&gt;这种现象叫做&lt;b&gt;基本归因谬论（&lt;/b&gt;&lt;b&gt;fundamental attribution error），它普遍地存在于大多数人身上。&lt;/b&gt;我们倾向于用内因解释他人的行为，而忽略环境的影响。但是当我们尝试理解自身行为的时候，外因变得格外明显，因此我们会过分强调环境的影响而忽视自身的因素——这就是所谓的&lt;b&gt;行动者-观察者偏误（actor-observer bias）&lt;/b&gt;。&lt;br&gt;&lt;br&gt;Jones and Harris在1967年做了一个实验。他们找了一群学生，让学生们读一篇反对或是支持菲德尔卡斯特罗（古巴前领导人）的文章，然后评价文章作者对卡斯特罗的态度。第一组学生被告知文章的作者是自由选择文章的立场，这组学生很自然地认为支持卡斯特罗的文章作者对卡斯特罗的态度更正面。第二组学生被告知&lt;b&gt;文章作者的立场是由抛硬币决定的&lt;/b&gt;，换而言之，文章的立场与作者本人的态度无关。遵循逻辑来说，&lt;b&gt;这第二组的学生应该无法判断作者的态度&lt;/b&gt;，可是实验结果却显示，学生们&lt;b&gt;依旧认为由抛硬币决定撰写支持卡斯特罗立场的文章作者对卡斯特罗抱有更加正面的态度&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;br&gt;为什么会有这种现象？并不是因为我们都是自私爱推脱责任的坏人，只是&lt;b&gt;我们的注意力有局限&lt;/b&gt;罢了。当我们观察和分析他人的时候，我们的注意力集中在那个人身上，很容易会忽视周围的环境。而当我们自己做一件事的时候，一定会有更多地注意力放在周围的环境上。因此我们在给行为归因的时候，就倾向于选择我们注意力关注到的一方。&lt;br&gt;&lt;br&gt;另外，&lt;b&gt;我们在对待他人的事情上，是相当懒惰的&lt;/b&gt;。由于我们的认知系统会自动地用内因解释他人的行为，纵使我们意识到了他人行为受到环境的限制，我们的认知系统还需要清醒地商榷调整之前所做的解释。尤其是在认知系统非常繁忙的情况下，我们没有足够的认知资源去为他人的行为辩解。&lt;br&gt;&lt;br&gt;最后一个原因，或许有些人听说过——&lt;b&gt;正义世界现象（Just-world Phenomenon）&lt;/b&gt;。&lt;b&gt;我们更愿意相信自己生存的世界是正义的、是我们能够掌控的，只要我们努力就能得到我们想要的&lt;/b&gt;。如果我们把他人的失败归因于其自身，那么这个无法改变也无法控制的世界在我们眼中便还是好的、公正的。相信世界是好的，失败都是因为他人自己的过错，这样的想法满足了我们内心底的安全感。&lt;br&gt;&lt;br&gt;&lt;br&gt;朋友抱怨的时候，请学会换位思考。即使无法提供帮助，至少不要妄下定论。&lt;br&gt;&lt;br&gt;至于题主强调女性，这件事，确确实实与性别没有关系。&lt;br&gt;&lt;br&gt;----------------------------------------------------------------------------------------&lt;br&gt;我的回答里之所以会提到性别，是因为多数高票答案是从单一性别的角度出发，并且题主的问题描述：“&lt;b&gt;不一定只针对女朋友，在许多情况下有人向我倾诉的时候我却会觉得错的其实是他们自己&lt;/b&gt;。发生这种情况究竟是我自身的自大骄傲所导致的，还是由于我与朋友对待问题的理性和感性程度不同所导致的呢？ 如果我所认为的是正确的，那么我该如何对朋友做出合适的回应呢？&lt;b&gt;大部分情况下是女性朋友&lt;/b&gt;。”&lt;br&gt;&lt;br&gt;说我是为了给女性洗地，政治正确的，这个回答哪里不客观了？全都是可以找到reference的学术论文。&lt;br&gt;&lt;br&gt;如果这篇回答帮助到了你，我很开心，谢谢：）
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-14" target="_blank" href="/question/31871242/answer/63589079">编辑于 2015-09-16</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+别争了，根本与性别无关，这个问题几十年前心理学家就有了答案。为什么当别人抱怨一件事情的时候，我们总觉得问题出在他们自身？然而，为什么当我们自己遇到不如意的时候，我们却觉得错的是他人或是环境？这种现象叫做<b>基本归因谬论（</b><b>fundamental attributio…</b>
+
+<a href="/question/31871242/answer/63589079" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4947749"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>157 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442212537" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">3 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/20728438/answer/63581503">为什么美国学术界和文艺界都这么左？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="20847016"
+data-atoken="63581503"
+data-collapsed="0"
+data-created="1442207858"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-20847016"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="261">261</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">261</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$feifeimao"
+class="zm-item-link-avatar"
+href="/people/feifeimao">
+<img src="//pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg"
+class="zm-list-avatar"
+data-source="//pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$feifeimao" href="/people/feifeimao">肥肥猫</a>，<strong title="懂事长" class="zu-question-my-bio">懂事长</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="261">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$li-da-fu-27" href="http://www.zhihu.com/people/li-da-fu-27" class="zg-link" title="李大夫">李大夫</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$tan-hua-dong-3" href="http://www.zhihu.com/people/tan-hua-dong-3" class="zg-link" title="谭华东">谭华东</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="471858" data-action="/answer/content">
+
+<textarea class="content hidden">
+学术界要靠实名反对主流观点才能扬名。&lt;br&gt;&lt;br&gt;艺术界要靠草根群众点赞买单才能获利。&lt;br&gt;&lt;br&gt;这都决定了他们具有天然的左翼倾向。&lt;br&gt;&lt;br&gt;以republican为代表的美国的右势力，其价值观是偏保守主义的，其经济观是鼓励强者愈强的。保守主义主张没事别瞎折腾，可是不折腾如何体现学术界那群时代先锋的价值？&lt;br&gt;&lt;br&gt;鼓励强者的经济观必遭占人口多数的底层反感。有艺术作品为自己出头发声，草根阶级自然大有共鸣。而得民心者得实惠，得屌丝者得天下，这早已是商业铁律。往左站实在是个strictly business choice。&lt;br&gt;&lt;br&gt;我知道这个视角很庸俗，但是我觉得这就是本质。没人放到台面上来讲罢了。
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-14" target="_blank" href="/question/20728438/answer/63581503">编辑于 2015-09-15</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+学术界要靠实名反对主流观点才能扬名。艺术界要靠草根群众点赞买单才能获利。这都决定了他们具有天然的左翼倾向。以republican为代表的美国的右势力，其价值观是偏保守主义的，其经济观是鼓励强者愈强的。保守主义主张没事别瞎折腾，可是不折腾如何体现学术…
+
+<a href="/question/20728438/answer/63581503" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-471858"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>27 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442203723" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">3 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/35356218/answer/62375057">3 岁偷渡的溺亡小孩，为什么不是个小事件？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="20363603"
+data-atoken="62375057"
+data-collapsed="0"
+data-created="1441435084"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-20363603"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="6490">6490</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">6490</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+
+<div class="zm-item-vote-info " data-votecount="6490">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$cai-cai-79-48" href="http://www.zhihu.com/people/cai-cai-79-48" class="zg-link" title="Cai Cai">Cai Cai</a>、</span><span class="user-block"><a data-tip="p$t$you-suo-wei-39" href="http://www.zhihu.com/people/you-suo-wei-39" class="zg-link" title="游所为">游所为</a>、</span><span class="user-block"><a data-tip="p$t$shi-song-98-5" href="http://www.zhihu.com/people/shi-song-98-5" class="zg-link" title="旧时光柠檬">旧时光柠檬</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="6349078" data-action="/answer/content">
+
+<textarea class="content hidden">
+   
+   三叔认为世上有一种人是可怕的物种：首先，他们爱心泛滥；其次，他们除了有爱啥都不懂。因为他们有爱心，所以容易感动。因为容易感动，所以但凡他们看到旁人有什么悲惨痛苦不幸，他们就鼻子一酸，一哄而上。那劲头，跟村民争抢公路上侧翻的运瓜车似的。同时，因为他们啥都不懂，所以容易在情绪失禁时干出些没脑的傻事。犹如涕泪俱下的看客，在法庭上把原告和被告、强奸犯和受害者搂在一起相拥而泣。大头的爱心天使，最爱干的傻事是点蜡烛。看到哪儿地震哪儿房塌了，他们点蜡烛；看到哪儿洪水哪儿泥石流了，他们点蜡烛；看到哪儿海啸哪儿核泄漏了，他们点蜡烛；看到哪儿打仗哪儿死人，自然，还是点蜡烛。时间长了，你只要在电脑留言栏、微信朋友圈里看到蜡烛，你就知道：又有人倒霉了。 
+&lt;br&gt;&lt;br&gt;&lt;br&gt;     
+   叙利亚男孩在跟随家人偷渡的过程中不幸溺亡。昨晚三叔手机被海难中遇难的叙利亚3岁小男孩的新闻刷屏，新闻跟帖的表情符一概是爱心、哭泣、献花，必不可少的是点蜡烛。作为媒体人士，三叔看到此类事件，断不会急着掉眼泪——任何悲催的事，都有不为人知、或未被充分揭示的前因后果、来龙去脉。而出于对点蜡烛本能的反感，三叔相信，表情符之类，于还原事情的真相，没有一根毛的益处。 
+&lt;br&gt;&lt;br&gt;     
+   相关消息披露，事情果然如此。海难中遇难小男孩，其实是欧美媒体关于中东难民潮系列报道中被挖掘出的新闻。据说，孩子遗体倒扑在海滩上的画面“深深刺痛了欧美人道主义者柔软的内心”。于是，此事在社交媒体上迅速传播，蔚为大观。“蔚为大观”这个词其实很不妥当。但细究新闻伦理，照片上对孩子遗体不加任何的遮掩处理方式，才是真正的丧德。不过，对于渴望感动的人道主义者而言，已经顾不得那许多了。那些慈悲的老女人，特意寻来，要听祥林嫂说儿子阿毛被狼掏空五脏的故事。然后呢？然后，流下那停在眼角上的眼泪，叹息一番，满足地去了…… 
+&lt;br&gt;&lt;br&gt;     
+   味道不太对？要的就是这个效果。至于掉眼泪与点蜡烛背后那些不足与外人道的隐情，没多少人关心。好在三叔重口，越是严肃的场合越想八卦，越是掉眼泪的时候越想听段子。也的确是听到了好段子，是这么说的：上街游行强迫自己国家支持所谓的阿拉伯之春，把中东本土世俗化政府推翻，放出了极端原教旨主义的恶魔，然后回家再换件衣服出门给因为自己支持而出炉的ISIS逼死的小孩点蜡烛，这就是西方圣母的日常。 
+&lt;br&gt;&lt;br&gt;        妙！段子手总能平衡被无脑爱心族拉低的智商。 &lt;br&gt;&lt;br&gt;     
+   脑补一下：遇难的小男孩其实出自叙利亚一个库尔德族家庭，这个家庭里，与孩子一同遇难的还有他的妈妈和哥哥。当然，妈妈和哥哥没有弟弟幸运，连遗体都没有找到。西方圣母，就是三叔开头提到的那种可怕的物种。他们干过的事包括：一、真把阿拉伯之春当成了民主运动，当初这么认为，现在仍嘴硬不改口；二、真把ISIS当成了一股民主势力，当初这么认为，现在不好意思再提了；三、他们之所以对ISIS抱有好感，只是因为一个可笑的逻辑——敌人的敌人就是朋友，ISIS是反世俗政权阿萨德的。平心而论，这种逻辑，比之十字军东征时代，没有半根毛的进步。 
+&lt;br&gt;&lt;br&gt;     
+   强调一点，三叔这么说，也没有舔阿萨德的意思。阿萨德政权算不得民主政权，也谈不上保护人权，更无善待库尔德人之举，对库尔德人文化上的歧视和经济上压迫从不缺乏案例。但阿萨德政权却是中东为数不多的严格实行政教分离的世俗政权。在阿萨德治下，库尔德人虽苦，却好歹能保命。可到了ISIS当道，在他们统治的地区，对库尔德人则纯粹是赶尽杀绝。不幸的是，遇难小男孩的家乡就在叙利亚的ISIS控制区。在他来到人世的那一年，如今为他点蜡烛的那些人，正在街头游行，强烈要求自己的政府“不惜采取任何手段推翻阿萨德”。当初“响应民意”要扳倒阿萨德政府有：美国、英国、法国、德国。在欧盟国家中，德国政府的人道主义立场尤其鲜明，默克尔跟阿萨德更是一副有你没我的腔调。 
+&lt;br&gt;&lt;br&gt;     
+   现在的事，大家都看到了，德国成了中东难民逃亡的目的地，包括遇难小男孩的家庭。有句话大致是这么说的：听话的笨蛋还能当炮灰，而有立场的笨蛋连炮灰都当不了。圣母、人道主义者、广义上的西方白人左翼人士的所作所为，往往就是一些于己不利于人更有害的事情。有时，因为他们无脑之举所造成的恶劣后果，甚至让人怀疑，他们的爱意是一种隐藏甚深的恶毒，或是一种无从解释的自虐。&lt;strong&gt;美国芝加哥有一位激进的人权捍卫者，据说反对一切种族歧视、宗教歧视、性别歧视和性取向歧视，谁不认同他的观念就同谁急。结果，被一个黑人鸡奸，爆头。&lt;/strong&gt;&lt;br&gt;&lt;br&gt;     
+   毛泽东在世时对尼克松说过，我不喜欢你们美国的左派，喜欢跟你这样的右派打交道。原因不消多说，有立场的笨蛋，就是一堆无用的激情，还透着十分的假。譬如这一次，他们围绕遇难小男孩事件的唱念做打，细一品评，尤让人生厌。说句题外话，三叔在微信朋友圈里看到的那些爱心、哭泣、献花、点蜡烛的，其实比西方圣母还低一个版本。他们像华强北的山寨货，音量大但音质差、电池大但待机短，只能供人闲极无聊时刷刷屏了。 
+
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/35356218/answer/62375057">发布于 2015-09-05</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+三叔认为世上有一种人是可怕的物种：首先，他们爱心泛滥；其次，他们除了有爱啥都不懂。因为他们有爱心，所以容易感动。因为容易感动，所以但凡他们看到旁人有什么悲惨痛苦不幸，他们就鼻子一酸，一哄而上。那劲头，跟村民争抢公路上侧翻的运瓜车似的。同时…
+
+<a href="/question/35356218/answer/62375057" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6349078"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>659 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442071023" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">5 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a title="李楠"
+data-tip="p$t$linan"
+class="zm-item-link-avatar"
+href="/people/linan">
+<img src="//pic4.zhimg.com/24f3a654b_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 回答了问题
+
+<a class="question_link" target="_blank" href="/question/22178601/answer/63405276">你为什么买日本车？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="20776364"
+data-atoken="63405276"
+data-collapsed="0"
+data-created="1442071023"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-20776364"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="170">170</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">170</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$linan"
+class="zm-item-link-avatar"
+href="/people/linan">
+<img src="//pic4.zhimg.com/24f3a654b_s.jpg"
+class="zm-list-avatar"
+data-source="//pic4.zhimg.com/24f3a654b_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$linan" href="/people/linan">李楠</a>，<strong title="混迹日本职场十年" class="zu-question-my-bio">混迹日本职场十年</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="170">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$shu-li-fu" href="http://www.zhihu.com/people/shu-li-fu" class="zg-link" title="束立夫">束立夫</a>、</span><span class="user-block"><a data-tip="p$t$jie-zhong-min" href="http://www.zhihu.com/people/jie-zhong-min" class="zg-link" title="解钟敏">解钟敏</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1052291" data-action="/answer/content">
+
+<textarea class="content hidden">
+因为马自达有一辆车叫 MX5
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/22178601/answer/63405276">发布于 2015-09-12</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+因为马自达有一辆车叫 MX5
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-1052291"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>85 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442070790" data-type="" >
+<span class="zm-profile-setion-time zg-gray zg-right">5 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 关注了问题
+
+<a class="question_link" href="/question/30811277">如何看待 Path 被 Kakao 收购？</a>
+</div>
+
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1441976813" data-type="p" >
+<span class="zm-profile-setion-time zg-gray zg-right">6 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了 <a class="column_link" href="http://zhuanlan.zhihu.com/bigertech" data-tip="c$t$bigertech">笔戈科技</a> 中的文章
+
+<a target='_blank' class="post-link" href="http://zhuanlan.zhihu.com/bigertech/20184123">在知乎，如何写一篇烂答案？</a>
+</div>
+<div tabindex="-1" class="zm-item-feed zm-item-post" data-type="p">
+<meta itemprop="post-id" content="254539">
+<meta itemprop="post-url-token" content="20184123">
+<a class="zg-anchor-hidden" name="post-20184123"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2584">2584</a>
+</div>
+
+
+<div class="post-head">
+<div class="author-info">
+
+<a href="/people/Jasonhau" data-tip="p$t$Jasonhau" class="name">Jason Hau</a>，我说我是果粉你信吗……
+
+</div>
+<div class="zm-item-vote-info " data-votecount="2584">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$hticestorm" href="http://www.zhihu.com/people/hticestorm" class="zg-link" title="火花尾随">火花尾随</a>、</span><span class="user-block"><a data-tip="p$t$zheng-yi-82-78" href="http://www.zhihu.com/people/zheng-yi-82-78" class="zg-link" title="郑一">郑一</a>、</span><span class="user-block"><a data-tip="p$t$wu-shi-87-63" href="http://www.zhihu.com/people/wu-shi-87-63" class="zg-link" title="五是">五是</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="entry-body">
+<div class="zm-item-rich-text" data-resourceid="254539">
+<div class="post-content">
+<textarea class="content hidden">&lt;img src=&quot;http://pic4.zhimg.com/ef15e161503e3c4c011ed78c1f87cf3b_b.jpg&quot; class=&quot;content_image&quot;&gt;&lt;p&gt;1）&lt;/p&gt;&lt;p&gt;辛苦写完答案后，利用知乎的流量给自己导粉丝倒也无可厚非，但是如果在写答案的结尾处还打上一个图形反人类的「二维码」，这感觉就像喝完一碗汤之后发现碗没刷干净，额，就算这汤煲的再美味，恐怕顾客还是想将厨师拉出来暴打一顿。&lt;/p&gt;&lt;p&gt;&lt;b&gt;烂答案秘方之一，在文章的尾部加个反人类的图形二维码。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2）&lt;/p&gt;&lt;p&gt;一个作者在站外写的文章，原模样再贴回知乎让人觉得似乎有些莫名其妙，但文章写的特好倒也引不起反感。不过如果在文章的顶部加上：【文/（作者）】的字样。就真的有点大煞风景了。&lt;/p&gt;&lt;p&gt;&lt;b&gt;烂答案秘方之二：在别地原封不动搬运自己的文章填补一个关联微弱的问题，请注意，在此本人强调的是问题与答案的弱关联。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;3）&lt;/p&gt;&lt;p&gt;在知乎拿赞不易，但也有时突然灵光乍现你写的或短或长的答案在第二天获得了1千个赞，注意——&lt;/p&gt;&lt;p&gt;请不要惶恐，安静的得意就好，千万不要在原答案上在加一条分割线，写上诸如「啊，没想到我竟然拿了这么多的赞，其实……」或者「没想到这个抖机灵答案竟然拿了这么多赞，其实我的真实想法是……」&lt;/p&gt;&lt;p&gt;&lt;b&gt;烂答案秘方之三：不断的对原答案用分割线进行update。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;4）&lt;/p&gt;&lt;p&gt;如果看一个答案兴致处，发现未完待续的愤怒指数是50，那么看一个答案看到兴致处却发现作者告诉你「如果赞数过N，我就XX，赞数过NN，我就XXX」的愤怒指数绝对在500以上，这感觉就好像我裤子都脱了你还让我再投币，想通关还得再投币投币投币……What the f**……&lt;/p&gt;&lt;p&gt;你的答案就是你的作品，半成品还请回炉锻造好再出锅，&lt;/p&gt;&lt;p&gt;&lt;b&gt;烂答案秘方之四：吊胃口来骗赞。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;5）&lt;/p&gt;&lt;p&gt;图片本身增加了回答的趣味性，但我有一个疑问，所谓「图侵删」是否等同于图片可能存在侵权，如果被证实了，再删除吗……如果是这样，那这逻辑和「我拿了你的东西，如果对你的利益造成了损害，我再还给你」有什么区别？&lt;/p&gt;&lt;p&gt;&lt;b&gt;烂答案秘方之五：「图侵删」。&lt;/b&gt;请注意，并非反对贴图，也并非反对侵权后删除图片这种行为本身，反对的是这三个字背后代表的&lt;b&gt;在风险下行事&lt;/b&gt;。&lt;/p&gt;&lt;p&gt;6）&lt;/p&gt;&lt;p&gt;什么样的行为得到鼓励，什么样的行为就会猖獗，作为读者而言，我们如何让知乎变成我们理想中的样子？&lt;/p&gt;&lt;p&gt;其实答案就在作为用户的你，每一次Vote Up之中。&lt;/p&gt;</textarea>
+<div class="zh-summary summary clearfix">
+<img src="http://pic4.zhimg.com/ef15e161503e3c4c011ed78c1f87cf3b_xld.jpg" class="content_image inline-img">1）辛苦写完答案后，利用知乎的流量给自己导粉丝倒也无可厚非，但是如果在写答案的结尾处还打上一个图形反人类的「二维码」，这感觉就像喝完一碗汤之后发现碗没刷干净，额，就算这汤煲的再美味，恐怕顾客还是想将厨师拉出来暴打一顿。<b>烂答案秘方之一，在文…</b>
+
+<a href="http://zhuanlan.zhihu.com/bigertech/20184123" class="toggle-expand">显示全部</a>
+
+</div>
+</div>
+</div>
+</div>
+<div class="zm-item-meta clearfix">
+<div class="zm-meta-panel">
+
+
+<a data-follow="c:link" class="zg-follow meta-item" href="#" id="cl-3518"><i class="z-icon-follow"></i>关注专栏</a>
+
+<a href="#" name="toggle-comment" class="meta-item toggle-comment">
+<i class="z-icon-comment"></i>227 条评论</a>
+<a href="#" class="meta-item zu-autohide" name="share"><i class="z-icon-share"></i>分享</a>
+<span class="zg-bull zu-autohide">•</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1441896002" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">1 周前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/30557033/answer/63139798">如何评价侯孝贤电影《刺客聂隐娘》？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="20669964"
+data-atoken="63139798"
+data-collapsed="0"
+data-created="1441886671"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-20669964"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="136">136</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">136</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a class="zm-item-link-avatar"
+href="javascript:void(0);">
+<img src="//pic1.zhimg.com/da8e974dc_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/da8e974dc_s.jpg" />
+</a>
+
+
+
+知乎用户，<strong title="World Builder" class="zu-question-my-bio">World Builder</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="136">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$ku-nu-ya-lu" href="http://www.zhihu.com/people/ku-nu-ya-lu" class="zg-link" title="苦怒牙路">苦怒牙路</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$discopeople" href="http://www.zhihu.com/people/discopeople" class="zg-link" title="discopeople">discopeople</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="4405220" data-action="/answer/content">
+
+<textarea class="content hidden">
+评价一部电影，不需要看眼下随着社交媒体发达而铺天盖地的热闹程度，大凡一个电影是否是经典，只看以后多少年，有多少次人们会不由自主地提起它。&lt;br&gt;这种电影承前启后，开一时之先，同类型的电影会不自觉地去偷师，去借鉴。这种行为几乎是下意识的，并且是绕不开的。开一个类型也好，开一个美学意境也好，开一个叙事模式也好，总之在于创造。&lt;br&gt;比如《卧虎藏龙》，《侠女》，比如《Bourne 2/3》，比如《黑鹰坠落》。&lt;br&gt;所以我说，任何好的电影，都是『新』的电影。&lt;br&gt;&lt;br&gt; 我认为，这部《聂隐娘》会随着时间的流逝， 正常地淡出人们的视野，它既不是经典也不是烂片，只是一个维持大师功力和水准的用心作品而已。它没有任何创新，只不过做得比较好而已。&lt;br&gt;&lt;br&gt;论画面，很用心，但是一看就知道是胡金铨《空山灵雨》的路子；论叙事，我看到阿城的署名，我就全知道了，就是那些东西，都能想到；论技术层面，无甚奇怪之处。&lt;br&gt;&lt;br&gt;再无《悲情城市》那种雷霆万钧的气势和浑厚内力，在廖庆松的护持之下，还剩下一些淡淡的痕迹而已。几乎可以肯定地说，他是想找回胡金铨的那种意境的，已经不可能。实在要弄，找杨德昌或者更好些。&lt;br&gt;&lt;br&gt;一个 片子的 谈论点是已经是有多少场戏被剪没用，有多少戏是重拍，拍了多久，画面多漂亮的时候，证明没什么可说的了。&lt;br&gt;&lt;br&gt;PS：新一期《硬影像》会谈论地比较细一点。
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-10" target="_blank" href="/question/30557033/answer/63139798">编辑于 2015-09-11</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+评价一部电影，不需要看眼下随着社交媒体发达而铺天盖地的热闹程度，大凡一个电影是否是经典，只看以后多少年，有多少次人们会不由自主地提起它。这种电影承前启后，开一时之先，同类型的电影会不自觉地去偷师，去借鉴。这种行为几乎是下意识的，并且是绕不…
+
+<a href="/question/30557033/answer/63139798" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4405220"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>26 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="zu-main-sidebar">
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<!-- <span>·</span><a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a> -->
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+<a id="js-reg-with-qq-in-top" href="#" class="zg-btn-blue"><span class="icon-big-white-qq"></span>使用 QQ 登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-side-following zg-clear">
+<a class="item" href="/people/linan/followees">
+<span class="zg-gray-normal">关注了</span><br />
+<strong>309</strong><label> 人</label>
+</a>
+<a class="item" href="/people/linan/followers">
+<span class="zg-gray-normal">关注者</span><br />
+<strong>401771</strong><label> 人</label>
+</a>
+</div>
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="zm-profile-side-section-title">
+关注了 <a href="/people/linan/columns/followed" class="zg-link-litblue"><strong>7 个专栏</strong></a>
+</div>
+<div class="zm-profile-side-columns">
+
+<a href="http://zhuanlan.zhihu.com/lleiou" data-tip="c$t$lleiou" class="link" target="_blank">
+<img src="http://pic3.zhimg.com/0b56bdc3a_l.jpg" title="LeoLiu's Tiny Corner" class="avatar">
+</a>
+
+<a href="http://zhuanlan.zhihu.com/taiyilaile" data-tip="c$t$taiyilaile" class="link" target="_blank">
+<img src="http://pic4.zhimg.com/8746e3b32e6afbf06eda1a4d69d2bb5b_l.jpg" title="太医来了" class="avatar">
+</a>
+
+<a href="http://zhuanlan.zhihu.com/huckleberry" data-tip="c$t$huckleberry" class="link" target="_blank">
+<img src="http://pic4.zhimg.com/3342d7fe763a5318fe26a4a213a04f4f_l.jpg" title="美而无用" class="avatar">
+</a>
+
+<a href="http://zhuanlan.zhihu.com/happypills" data-tip="c$t$happypills" class="link" target="_blank">
+<img src="http://pic4.zhimg.com/3f63da56b_l.jpg" title="happy pills" class="avatar">
+</a>
+
+<a href="http://zhuanlan.zhihu.com/lawrencelry" data-tip="c$t$lawrencelry" class="link" target="_blank">
+<img src="http://pic2.zhimg.com/875404735_l.jpg" title="Shī Huò" class="avatar">
+</a>
+
+<a href="http://zhuanlan.zhihu.com/manman" data-tip="c$t$manman" class="link" target="_blank">
+<img src="http://pic4.zhimg.com/762f3c51f_l.jpg" title="概念街22号" class="avatar">
+</a>
+
+<a href="http://zhuanlan.zhihu.com/designers" data-tip="c$t$designers" class="link" target="_blank">
+<img src="http://pic2.zhimg.com/52b31727b60cd7d87fda50a724bcd6e5_l.jpg" title="一周一位设计师" class="avatar">
+</a>
+
+</div>
+</div>
+</div>
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="zm-profile-side-section-title">
+关注了 <a href="/people/linan/topics" class="zg-link-litblue"><strong>55 个话题</strong></a>
+</div>
+<div class="zm-profile-side-topics" id="zh-profile-following-topic">
+
+<a class="link" data-tip="t$t$19552917" href="/topic/19552917">
+<img class="avatar" src="//pic4.zhimg.com/396a9a8f5a195b649f7501f2c49f81d7_m.jpg" title="魅族科技">
+</a>
+
+<a class="link" data-tip="t$t$19551762" href="/topic/19551762">
+<img class="avatar" src="//pic3.zhimg.com/39420a7da_m.jpg" title="苹果公司 (Apple Inc.)">
+</a>
+
+<a class="link" data-tip="t$t$19550228" href="/topic/19550228">
+<img class="avatar" src="//pic1.zhimg.com/2e33f063f1bd9221df967219167b5de0_m.jpg" title="知乎">
+</a>
+
+<a class="link" data-tip="t$t$19603145" href="/topic/19603145">
+<img class="avatar" src="//pic1.zhimg.com/1ab029e14_m.jpg" title="Android">
+</a>
+
+<a class="link" data-tip="t$t$19550292" href="/topic/19550292">
+<img class="avatar" src="//pic2.zhimg.com/bd6b19fc1_m.jpg" title="iPhone">
+</a>
+
+<a class="link" data-tip="t$t$19554470" href="/topic/19554470">
+<img class="avatar" src="//pic3.zhimg.com/857c460a6f2e75535110958abc344262_m.jpg" title="微信">
+</a>
+
+<a class="link" data-tip="t$t$19550547" href="/topic/19550547">
+<img class="avatar" src="//pic3.zhimg.com/a5488c5ea_m.jpg" title="移动互联网">
+</a>
+
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner">
+<span class="zg-gray-normal">个人主页被 <strong>62340</strong> 人浏览</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="current_people">["\u674e\u6960","linan","\/\/pic4.zhimg.com\/24f3a654b_s.jpg","29c3654588fd4246bb90cbd345242d65"]</script>
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+</div>
+<div class="zg-clear"></div>
+</div>
+
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1442514124000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/3cbe28cddc27ef29b4d36207016800c5.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/66b3bfca635b212b0b61198ce07348d8.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/84ae3a5e9e3192e17b4606feaa5d7343.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/00f3f893168e2c2bc94a73250c2bf283.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="e2fa1d0a3cc74e22a50a3c83323dd3e8">
+ZH.entryP();
+</script>
+
+<input type="hidden" name="_xsrf" value="65c94c40a83ba5a973f2334f3448c27e"/>
+</body>
+</html>

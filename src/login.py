@@ -42,7 +42,7 @@ class login_zhihu():
         captchaurl = self.captcha_pre + str(int(time.time() * 1000))
         print captchaurl
         data = urllib2.urlopen(captchaurl).read()
-        f = file('captcha.gif', "wb")
+        f = open('captcha.gif', "wb")
         f.write(data)
         f.close()
         captcha = raw_input( 'captcha is: ')
