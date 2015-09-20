@@ -19,11 +19,12 @@ from db import mongo
 
 
 URL = 'http://www.zhihu.com'
-url_linan = 'http://www.zhihu.com/people/linan'
+url_people = 'http://www.zhihu.com/people/'
 headers = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1',
                    'Referer' : 'http:www.zhihu.com'}
 
-def getUserinfos(url= ''):
+def getUserinfos(p_name):
+    url = url_people + p_name
     request = urllib2.Request(url= url , headers=headers)
     response = urllib2.urlopen(request)
     html = response.read()
@@ -33,7 +34,6 @@ def getUserinfos(url= ''):
    
     userinfo = {}
     userinfo['user_url'] = url
-    p_name = re.findall(r'.*people/(.*)', url)[0]
     userinfo['p_name']= p_name
     name = re.findall( r'<span class="name">(.*?)</span>' , html)
     userinfo['user_name'] = name
@@ -55,14 +55,17 @@ def getUserinfos(url= ''):
         print k, ':', v
     return userinfo
 
-def compare(userinfo):
+# def compare(userinfo):
     
     
 
     
 if __name__ == '__main__':
-    DB = mongo.mongo_connection().spider
-    userinfo = getUserinfos(url_linan)
-    mongo.save_userinfo(userinfo, DB)
+    p_name = 'linan'
+    db = mongo.mongo_connection().spider
+    userinfo = getUserinfos(p_name)
+    cond = {'p_name':p_name}
+    msg = mongo.update_userinfo(db, cond, **userinfo)
+    print msg
    
 
