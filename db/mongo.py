@@ -39,7 +39,7 @@ def update_userinfo(db, cond, **data):
         #if changed, update db and return message
         if v:
             db.user_infos.update(cond, {'$set':{'agree':agree, 'thank':thank, \
-                                                'followees':followees, ';followers':followers}})
+                                                'followees.num':followees, ';followers.num':followers}})
             return change
         continue
     return 1

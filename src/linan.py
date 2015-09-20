@@ -12,10 +12,12 @@ import re
 import pymongo
 import time
 import base64
+import sys
 
 from login import login_zhihu
 from urllib import localhost
 from db import mongo
+from src.sendEmail import send_163mail
 
 
 URL = 'http://www.zhihu.com'
@@ -66,6 +68,22 @@ if __name__ == '__main__':
     userinfo = getUserinfos(p_name)
     cond = {'p_name':p_name}
     msg = mongo.update_userinfo(db, cond, **userinfo)
+#     msg = {'agree_change':2, 'thank_change':66, 'followees_change':0, 'followers_change':-20}
     print msg
+    #send email
+    if msg not in [0,1]:
+        content = '%s的数据变化：\n赞同：%s\n感谢：%s\n关注：%s\n被关注：%s'\
+        %(p_name, msg['agree_change'], msg['thank_change'], msg['followees_change'], msg['followers_change'])
+        subject = '%s的知乎有更新'%p_name
+        rt = send_163mail(subject, content)
+        print 'Successfull!'
+        sys.exit()
+    elif msg in [0,1]:
+        rt = send_163mail('nothing数据变化', 'nothing changed')
+        print 'nothing changed'
+        sys.exit()
+    print 'error'
+    sys.exit()
+    
    
 
