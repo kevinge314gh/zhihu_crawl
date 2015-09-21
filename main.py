@@ -22,7 +22,8 @@ if __name__ == '__main__':
         %(p_name, msg['agree_change'], msg['thank_change'], msg['followees_change'], msg['followers_change'])
         subject = '%s的知乎有更新'%p_name
         rt = send_163mail(subject, content)
-        print 'Successfull!'
+	print content
+        print 'send email successfull!'
         sys.exit()
     elif msg == 0:
         rt = send_163mail('you watched a new zhihu user', 'you add %s in your followees, \nyou will get email if he/her has any changes\n\
