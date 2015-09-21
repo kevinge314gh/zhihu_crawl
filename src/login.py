@@ -11,23 +11,23 @@ import urllib2
 import cookielib
 import re
 import time
+from config import ROOT_PATH,HEADERS
 
 
+#set cookie
+def set_cookie():
+    cj = cookielib.CookieJar()
+    cookie_support = urllib2.HTTPCookieProcessor(cj)
+    opener = urllib2.build_opener(cookie_support, urllib2.HTTPHandler)
+    urllib2.install_opener(opener)
+    
 class login_zhihu():
     hosturl = 'http://www.zhihu.com'
     posturl = 'http://www.zhihu.com/login/email'
     captcha_pre = 'http://www.zhihu.com/captcha.gif?r='
-    headers = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1',
-                   'Referer' : 'http:www.zhihu.com'}
+    headers = HEADERS
     email = 'kevinge314wy@163.com'
     password = '123456'
-    
-    #set cookie
-    def set_cookie(self):
-        cj = cookielib.CookieJar()
-        cookie_support = urllib2.HTTPCookieProcessor(cj)
-        opener = urllib2.build_opener(cookie_support, urllib2.HTTPHandler)
-        urllib2.install_opener(opener)
     
     #get xsrf
     def get_xsrf(self):
@@ -42,7 +42,7 @@ class login_zhihu():
         captchaurl = self.captcha_pre + str(int(time.time() * 1000))
         print captchaurl
         data = urllib2.urlopen(captchaurl).read()
-        f = open('../data/captcha.gif', "wb")
+        f = open( '%s/data/captcha.gif'%ROOT_PATH, 'w')
         f.write(data)
         f.close()
         captcha = raw_input( 'captcha is: ')
@@ -66,7 +66,7 @@ class login_zhihu():
     
     def login_zhihu(self):
         #set cookie
-        self.set_cookie()
+        set_cookie()
         #post it
         captcha=self.get_captcha()
         xsrf = self.get_xsrf()
@@ -77,10 +77,18 @@ class login_zhihu():
         #index page
         request = urllib2.Request(url='http://www.zhihu.com', headers=self.headers)
         response = urllib2.urlopen(request)
-        return response.read()
+        html =  response.read()
+        name = re.findall( r'<span class="name">(.*?)</span>', html)
+        if name == ['kevin']:
+            return True
+        else:
+            return False
         
 if __name__ == '__main__':
     cls = login_zhihu()
-    html = cls.login_zhihu()
-    print html
+    rt = cls.login_zhihu()
+    if rt:
+        print 'login successful'
+    else:
+        print 'login fial'
     

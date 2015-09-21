@@ -8,17 +8,19 @@ Created on 2015年9月15日
 
 import urllib2
 import re
+import login
 
-from config import ROOT_PATH
+from config import ROOT_PATH,HEADERS
 
 
 URL = 'http://www.zhihu.com'
 url_people = 'http://www.zhihu.com/people/'
-headers = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1',
-                   'Referer' : 'http:www.zhihu.com'}
 
 def get_html(url):
-    request = urllib2.Request(url= url , headers=headers)
+    #set cookie
+    login.set_cookie()
+    
+    request = urllib2.Request(url= url , headers=HEADERS)
     response = urllib2.urlopen(request)
     html = response.read()
     f = open( '%s/data/indexPage.txt'%ROOT_PATH, 'w')
@@ -58,7 +60,7 @@ def getUserinfos(p_name):
     
 if __name__ == '__main__':
     html = get_html(url_people+'linan')
-    name = re.findall( r'<span class="name">(.*?)</span>，<span' , html)
+    name = re.findall( r'<span class="name">(.*?)</span>', html)
     print name
 
     
