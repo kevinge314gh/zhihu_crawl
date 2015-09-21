@@ -6,15 +6,15 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <meta name="renderer" content="webkit" />
 
-<title> 李楠 - 知乎</title>
+<title> 张佳玮 - 知乎</title>
 
-<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://people/linan">
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://people/zhang-jia-wei">
 
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/linan">
-<meta id="znonce" name="znonce" content="8266b4674ecf429983be98753fec159a">
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/zhang-jia-wei">
+<meta id="znonce" name="znonce" content="a4779d5779e74ad5aa2fa59be3d55216">
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
@@ -186,20 +186,14 @@ display:none;!important;
 <div class="zm-profile-header-main">
 <div class="top">
 
-<div class='weibo-wrap'>
-
-<a class="zm-profile-header-user-weibo" target="_blank" href="http://weibo.com/newkhonsou" data-tip="s$b$新浪微博"><i class="zm-profile-header-icon sina"></i></a>
-
-</div>
-
 <div class="title-section ellipsis">
 
-<span class="name">李楠</span>，<span class="bio" title="魅族营销中心招募设计师">魅族营销中心招募设计师</span>
+<span class="name">张佳玮</span>，<span class="bio" title="公众号：张佳玮写字的地方">公众号：张佳玮写字的地方</span>
 </div>
 </div>
 <div class="body clearfix">
 <div class="zm-profile-header-avatar-container ">
-<img class="avatar avatar-l" alt="李楠" src="https://pic4.zhimg.com/24f3a654b_l.jpg" srcset="https://pic4.zhimg.com/24f3a654b_xl.jpg 2x" />
+<img class="avatar avatar-l" alt="张佳玮" src="https://pic2.zhimg.com/424c70919_l.jpg" srcset="https://pic2.zhimg.com/424c70919_xl.jpg 2x" />
 
 </div>
 <div class="zm-profile-header-info">
@@ -207,11 +201,7 @@ display:none;!important;
 <div class="items">
 <div class="item editable-group" data-name="location">
 
-<i class="icon icon-profile-location"></i>
-
 <span class="info-wrap">
-
-<span class="location item" title="珠海"><a href="/topic/19557398" title="珠海" class="topic-link" data-token="19557398" data-topicid="2404">珠海</a></span>
 
 
 
@@ -220,7 +210,7 @@ display:none;!important;
 
 </span>
 <span class="edit-wrap" style="display:none;">
-<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="location" value="珠海" class="zg-form-text-input location" placeholder="居住地"/></span>
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="location" value="" class="zg-form-text-input location" placeholder="居住地"/></span>
 <div class="business-selection">
 <select name="business">
 <option value="">选择行业</option>
@@ -502,7 +492,7 @@ display:none;!important;
 
 
 
-<a class="zm-profile-header-user-detail zg-link-litblue-normal" href="/people/linan/about">
+<a class="zm-profile-header-user-detail zg-link-litblue-normal" href="/people/zhang-jia-wei/about">
 <i class="zm-profile-header-icon"></i>
 <span>查看详细资料</span>
 </a>
@@ -518,19 +508,19 @@ display:none;!important;
 <div class="zm-profile-header-operation zg-clear ">
 <div class="zm-profile-header-info-list">
 <span class="zm-profile-header-info-title">获得</span>
-<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>145700</strong>赞同</span>
-<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>25750</strong>感谢</span>
+<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>1357212</strong>赞同</span>
+<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>253562</strong>感谢</span>
 
 </div>
 
 <div class="zm-profile-header-op-btns clearfix">
 
 
-<button data-follow="m:button" data-id="29c3654588fd4246bb90cbd345242d65" class="zg-btn zg-btn-follow zm-rich-follow-btn">关注他</button>
+<button data-follow="m:button" data-id="f9de84865e3e8455a09af78bfe4d1da5" class="zg-btn zg-btn-follow zm-rich-follow-btn">关注他</button>
 
 
 
-<a href="/inbox/7413324000" class="zg-btn-white zm-profile-header-pm-btn" id="zm-profile-header-pm-btn"><i class="zg-icon">私信</i></a>
+<a href="/inbox/1346424000" class="zg-btn-white zm-profile-header-pm-btn" id="zm-profile-header-pm-btn"><i class="zg-icon">私信</i></a>
 
 
 </div>
@@ -538,206 +528,44 @@ display:none;!important;
 </div>
 <div class="profile-navbar clearfix">
 <a class="item home first active"
-href="/people/linan">
+href="/people/zhang-jia-wei">
 <i class="icon icon-profile-tab-home"></i><span class="hide-text">主页</span>
 </a>
 <a class="item "
-href="/people/linan/asks">
+href="/people/zhang-jia-wei/asks">
 提问
-<span class="num">410</span>
+<span class="num">0</span>
 </a>
 <a class="item "
-href="/people/linan/answers">
+href="/people/zhang-jia-wei/answers">
 回答
-<span class="num">1108</span>
+<span class="num">2398</span>
 </a>
 <a class="item "
-href="/people/linan/posts">
+href="/people/zhang-jia-wei/posts">
 专栏文章
-<span class="num">51</span>
+<span class="num">381</span>
 </a>
 <a class="item "
-href="/people/linan/collections">
+href="/people/zhang-jia-wei/collections">
 收藏
 <span class="num">0</span>
 </a>
 <a class="item "
-href="/people/linan/logs">
+href="/people/zhang-jia-wei/logs">
 公共编辑
-<span class="num">2550</span>
+<span class="num">3</span>
 </a>
 </div>
 
 </div>
 
 
-<div class="zm-profile-section-wrap skilled-topics">
-<div class="zm-profile-section-head">
 
-<span class="zm-profile-section-title">
-<h2 class="zm-profile-section-name" style="color:#666;">擅长话题</h2>
-</span>
-</div>
-<div class="inner zg-clear">
-<div class="zm-profile-section-list zg-clear">
-
-<div tabindex="-1" class="item" data-url-token="19550228" data-active="1" data-href="/people/linan/topic/19550228/answers" data-id="2" title="李楠在知乎下的回答">
-<span class="avatar"><img src="https://pic1.zhimg.com/2e33f063f1bd9221df967219167b5de0_m.jpg" /></span>
-
-<a href="/topic/19550228" title="知乎"><div class="arrow zg-icon">&gt;</div></a>
-
-<div class="content">
-<div class="content-inner">
-<h3 class="ellipsis">
-<a href="/people/linan/topic/19550228/answers" class="zg-gray-darker">知乎 </a>
-</h3>
-
-<p class="description">
-<span class="zg-gray-normal des">第20号用户</span>
-
-<p class="description-edit" style="display:none;">
-<input type="text" class="zg-form-text-input" value="第20号用户" autocomplete="off" />
-<span class="command">
-<a href="javascript:void(0);" class="zm-command-cancel" name="cancel">取消</a>
-<a href="javascript:void(0);" class="zg-btn-blue" name="save">保存</a>
-</span>
-
-</p>
-<p class="meta">
-<span><i class="zg-icon vote"></i>1981</span>
-<span><i class="zg-icon comment"></i>48</span>
-</p>
-</div>
-</div>
-</div>
-
-<div tabindex="-1" class="item" data-url-token="19551762" data-active="1" data-href="/people/linan/topic/19551762/answers" data-id="520" title="李楠在苹果公司 (Apple Inc.)下的回答">
-<span class="avatar"><img src="https://pic3.zhimg.com/39420a7da_m.jpg" /></span>
-
-<a href="/topic/19551762" title="苹果公司 (Apple Inc.)"><div class="arrow zg-icon">&gt;</div></a>
-
-<div class="content">
-<div class="content-inner">
-<h3 class="ellipsis">
-<a href="/people/linan/topic/19551762/answers" class="zg-gray-darker">苹果公司 (Apple Inc.) </a>
-</h3>
-
-</p>
-<p class="meta">
-<span><i class="zg-icon vote"></i>6688</span>
-<span><i class="zg-icon comment"></i>64</span>
-</p>
-</div>
-</div>
-</div>
-
-<div tabindex="-1" class="item" data-url-token="19550917" data-active="1" data-href="/people/linan/topic/19550917/answers" data-id="229" title="李楠在日本下的回答">
-<span class="avatar"><img src="https://pic1.zhimg.com/81e37f610_m.jpg" /></span>
-
-<a href="/topic/19550917" title="日本"><div class="arrow zg-icon">&gt;</div></a>
-
-<div class="content">
-<div class="content-inner">
-<h3 class="ellipsis">
-<a href="/people/linan/topic/19550917/answers" class="zg-gray-darker">日本 </a>
-</h3>
-
-<p class="description">
-<span class="zg-gray-normal des">混迹日本职场十年</span>
-
-<p class="description-edit" style="display:none;">
-<input type="text" class="zg-form-text-input" value="混迹日本职场十年" autocomplete="off" />
-<span class="command">
-<a href="javascript:void(0);" class="zm-command-cancel" name="cancel">取消</a>
-<a href="javascript:void(0);" class="zg-btn-blue" name="save">保存</a>
-</span>
-
-</p>
-<p class="meta">
-<span><i class="zg-icon vote"></i>11049</span>
-<span><i class="zg-icon comment"></i>67</span>
-</p>
-</div>
-</div>
-</div>
-
-<div tabindex="-1" class="item" data-url-token="19550246" data-active="1" data-href="/people/linan/topic/19550246/answers" data-id="11" title="李楠在史蒂夫·乔布斯（Steve Jobs）下的回答">
-<span class="avatar"><img src="https://pic4.zhimg.com/564077033_m.jpg" /></span>
-
-<a href="/topic/19550246" title="史蒂夫·乔布斯（Steve Jobs）"><div class="arrow zg-icon">&gt;</div></a>
-
-<div class="content">
-<div class="content-inner">
-<h3 class="ellipsis">
-<a href="/people/linan/topic/19550246/answers" class="zg-gray-darker">史蒂夫·乔布斯（Steve Jobs） </a>
-</h3>
-
-</p>
-<p class="meta">
-<span><i class="zg-icon vote"></i>839</span>
-<span><i class="zg-icon comment"></i>22</span>
-</p>
-</div>
-</div>
-</div>
-
-<div tabindex="-1" class="item" data-url-token="19550292" data-active="1" data-href="/people/linan/topic/19550292/answers" data-id="25" title="李楠在iPhone下的回答">
-<span class="avatar"><img src="https://pic2.zhimg.com/bd6b19fc1_m.jpg" /></span>
-
-<a href="/topic/19550292" title="iPhone"><div class="arrow zg-icon">&gt;</div></a>
-
-<div class="content">
-<div class="content-inner">
-<h3 class="ellipsis">
-<a href="/people/linan/topic/19550292/answers" class="zg-gray-darker">iPhone </a>
-</h3>
-
-<p class="description">
-<span class="zg-gray-normal des">写了：iPhone 可有设计哲学？</span>
-
-<p class="description-edit" style="display:none;">
-<input type="text" class="zg-form-text-input" value="写了：iPhone 可有设计哲学？" autocomplete="off" />
-<span class="command">
-<a href="javascript:void(0);" class="zm-command-cancel" name="cancel">取消</a>
-<a href="javascript:void(0);" class="zg-btn-blue" name="save">保存</a>
-</span>
-
-</p>
-<p class="meta">
-<span><i class="zg-icon vote"></i>9029</span>
-<span><i class="zg-icon comment"></i>42</span>
-</p>
-</div>
-</div>
-</div>
-
-<div tabindex="-1" class="item" data-url-token="19603145" data-active="1" data-href="/people/linan/topic/19603145/answers" data-id="17686" title="李楠在Android下的回答">
-<span class="avatar"><img src="https://pic1.zhimg.com/1ab029e14_m.jpg" /></span>
-
-<a href="/topic/19603145" title="Android"><div class="arrow zg-icon">&gt;</div></a>
-
-<div class="content">
-<div class="content-inner">
-<h3 class="ellipsis">
-<a href="/people/linan/topic/19603145/answers" class="zg-gray-darker">Android </a>
-</h3>
-
-</p>
-<p class="meta">
-<span><i class="zg-icon vote"></i>6109</span>
-<span><i class="zg-icon comment"></i>48</span>
-</p>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</div>
 
 <div class="zm-profile-section-wrap">
 <div class="zm-profile-section-head">
-<a class="zm-profile-section-title" href="/people/linan/answers">
+<a class="zm-profile-section-title" href="/people/zhang-jia-wei/answers">
 <h2 class="zm-profile-section-name">回答</h2>
 <i class="zg-right zg-icon zm-profile-section-more-btn"></i>
 </a>
@@ -746,45 +574,45 @@ href="/people/linan/logs">
 
 <div class="zm-profile-section-item zg-clear">
 <a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">178</div>
+<div class="zm-profile-vote-num">354</div>
 <div class="zm-profile-vote-type">赞同</div>
 </a>
 <div class="zm-profile-section-main">
 <h2 class="zm-profile-question">
-<a class="question_link" href="/question/22178601/answer/63405276">你为什么买日本车？</a>
+<a class="question_link" href="/question/35727600/answer/64339752">哈登和卡戴珊拍拖以及在夜店疯玩是否会影响火箭队下赛季的战绩？</a>
 </h2>
 
-<p class="zm-profile-item-text">因为马自达有一辆车叫 MX5</p>
+<p class="zm-profile-item-text">谢邀。一定会有影响的！vs一定不会有影响的！！正方：一定会影响的！1993年，开拓者…</p>
 
 </div>
 </div>
 
 <div class="zm-profile-section-item zg-clear">
 <a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">37</div>
+<div class="zm-profile-vote-num">338</div>
 <div class="zm-profile-vote-type">赞同</div>
 </a>
 <div class="zm-profile-section-main">
 <h2 class="zm-profile-question">
-<a class="question_link" href="/question/35487017/answer/63039904">如何评价 2015 年 9 月 9 日 Apple 秋季发布会？</a>
+<a class="question_link" href="/question/35425592/answer/64069061">如果天山童姥被乌老大劫持之后是被段誉救了而不是虚竹，那会发生什么？</a>
 </h2>
 
-<p class="zm-profile-item-text">这次发布会会影响行业的三个科技进步<b>1 Siri</b>Siri 不是新东西，但是有可能是命令行，…</p>
+<p class="zm-profile-item-text">谢邀。乌老大听得段誉大呼小叫，心想此人武功极高，真要横来生事，却也不易对付，夜…</p>
 
 </div>
 </div>
 
 <div class="zm-profile-section-item zg-clear">
 <a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">51</div>
+<div class="zm-profile-vote-num">2048</div>
 <div class="zm-profile-vote-type">赞同</div>
 </a>
 <div class="zm-profile-section-main">
 <h2 class="zm-profile-question">
-<a class="question_link" href="/question/35504182/answer/63037797">如何评价 Apple 在 2015 年 9 月发布的 iPad Pro ？</a>
+<a class="question_link" href="/question/35685399/answer/64064536">如何解释女儿的名字“沐溪”？</a>
 </h2>
 
-<p class="zm-profile-item-text">大就是美。多任务不错。笔和键盘是小众配件，尤其是键盘带着强烈的 Surface 气息。…</p>
+<p class="zm-profile-item-text">谢邀。嗯，叫做沐溪是吧？先告诉她一些事实，比如：《三国演义》九十回曰：南蛮部落…</p>
 
 </div>
 </div>
@@ -792,75 +620,7 @@ href="/people/linan/logs">
 
 </div>
 </div>
-<div class="zm-profile-section-wrap zm-profile-ask-wrap" id="zh-profile-ask-wrap">
-<div class="zm-profile-section-head">
-<a class="zm-profile-section-title" href="/people/linan/asks">
-<h2 class="zm-profile-section-name">提问</h2>
-<i class="zg-right zg-icon zm-profile-section-more-btn" href="/people/linan/asks"></i>
-</a>
-</div>
-<div class="zm-profile-section-list" id="zh-profile-ask-inner-list">
 
-<div class="zm-profile-section-item zg-clear">
-<span class="zm-profile-vote-count">
-<div class="zm-profile-vote-num">438K</div>
-<div class="zm-profile-vote-type">浏览</div>
-</span>
-<div class="zm-profile-section-main">
-<h2 class="zm-profile-question">
-<a class="question_link" target="_blank" href="/question/30550437">如何看待两个中国人之间用英文微信沟通？</a>
-</h2>
-<div class="meta zg-gray">
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4402607"><i class="z-icon-follow"></i>关注问题</a>
-<span class="zg-bull">&bull;</span>
-430 个回答
-<span class="zg-bull">&bull;</span>
-906 人关注
-</div>
-</div>
-</div>
-
-<div class="zm-profile-section-item zg-clear">
-<span class="zm-profile-vote-count">
-<div class="zm-profile-vote-num">787K</div>
-<div class="zm-profile-vote-type">浏览</div>
-</span>
-<div class="zm-profile-section-main">
-<h2 class="zm-profile-question">
-<a class="question_link" target="_blank" href="/question/29316907">魅族是如何掉队的？</a>
-</h2>
-<div class="meta zg-gray">
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-3909599"><i class="z-icon-follow"></i>关注问题</a>
-<span class="zg-bull">&bull;</span>
-670 个回答
-<span class="zg-bull">&bull;</span>
-2329 人关注
-</div>
-</div>
-</div>
-
-<div class="zm-profile-section-item zg-clear">
-<span class="zm-profile-vote-count">
-<div class="zm-profile-vote-num">68K</div>
-<div class="zm-profile-vote-type">浏览</div>
-</span>
-<div class="zm-profile-section-main">
-<h2 class="zm-profile-question">
-<a class="question_link" target="_blank" href="/question/26818213">我们点击一次微信朋友圈的广告创造了多少价值？</a>
-</h2>
-<div class="meta zg-gray">
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-2910239"><i class="z-icon-follow"></i>关注问题</a>
-<span class="zg-bull">&bull;</span>
-33 个回答
-<span class="zg-bull">&bull;</span>
-562 人关注
-</div>
-</div>
-</div>
-
-
-</div>
-</div>
 <div class="zm-profile-section-wrap" id="zh-profile-activity-wrap">
 <div class="zm-profile-section-head">
 <h2 class="zm-profile-section-title" style="color:#666;">最新动态</h2>
@@ -869,33 +629,175 @@ href="/people/linan/logs">
 <div class="zm-profile-section-list profile-feed-wrap">
 <div id="zh-profile-activity-page-list">
 
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442572875" data-type="p" >
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442666120" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了 <a class="column_link" href="http://zhuanlan.zhihu.com/bigertech" data-tip="c$t$bigertech">笔戈科技</a> 中的文章
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
 
-<a target='_blank' class="post-link" href="http://zhuanlan.zhihu.com/bigertech/20225143">关于XcodeGhost病毒的7个常识</a>
+<a class="question_link" target="_blank" href="/question/35727600/answer/64339752">哈登和卡戴珊拍拖以及在夜店疯玩是否会影响火箭队下赛季的战绩？</a>
 </div>
-<div tabindex="-1" class="zm-item-feed zm-item-post" data-type="p">
-<meta itemprop="post-id" content="270968">
-<meta itemprop="post-url-token" content="20225143">
-<a class="zg-anchor-hidden" name="post-20225143"></a>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="21151199"
+data-atoken="64339752"
+data-collapsed="0"
+data-created="1442666120"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="0"
+>
+<a class="zg-anchor-hidden" name="answer-21151199"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="146">146</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="354">354</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">354</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg"
+class="zm-list-avatar"
+data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="354">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$ruan-jun-ming-6" href="http://www.zhihu.com/people/ruan-jun-ming-6" class="zg-link" title="阮俊铭">阮俊铭</a>、</span><span class="user-block"><a data-tip="p$t$kai-yun-3" href="http://www.zhihu.com/people/kai-yun-3" class="zg-link" title="开云">开云</a>、</span><span class="user-block"><a data-tip="p$t$wu-nan-43-59" href="http://www.zhihu.com/people/wu-nan-43-59" class="zg-link" title="吴楠">吴楠</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="6497714" data-action="/answer/content">
+
+<textarea class="content hidden">
+谢邀。&lt;br&gt;&lt;br&gt;一定会有影响的！&lt;br&gt;vs&lt;br&gt;一定不会有影响的！！&lt;br&gt;&lt;br&gt;&lt;br&gt;正方：&lt;br&gt;一定会影响的！1993年，开拓者以科西为首那帮臭流氓在盐湖城找未成年少女！结果没两年开拓者全散，滑翔机交易，阿德尔曼离职，科西自己跌成龙套球员！这就是色欲的恶果！&lt;br&gt;&lt;br&gt;反方：&lt;br&gt;才不会呢！1990-91季詹姆斯-沃西嫖妓，被休斯顿警察钓鱼执法搞定了，连球鞋代言都撤了，可那年湖人事隔一年又进了总决赛！&lt;br&gt;&lt;br&gt;正方：&lt;br&gt;绝对会有影响的！尤因承认1996-98年他去黄金俱乐部看艳舞，结果就那几年他进不了全明星、开始受伤，就此废了！色是刮骨钢刀！&lt;br&gt;&lt;br&gt;反方：&lt;br&gt;绝对不会有影响！1967年张伯伦带费城76人淘汰波士顿凯尔特人当夜，他酒店房间门口女人都排起队了！他们最后不还是打败勇士夺冠了吗？&lt;br&gt;&lt;br&gt;正方：&lt;br&gt;怎么可能没影响呢？大梦1996年一结婚，隔年就开始滑落了。&lt;br&gt;&lt;br&gt;反方：&lt;br&gt;怎么可能有影响？科比2003年春天跟着湖人西部半决赛就栽了，那年夏天在鹰郡惹了那个事，还打官司呢，2004年不是照样跟着湖人进总决赛？&lt;br&gt;&lt;br&gt;正方：&lt;br&gt;魔术师1991年还带湖人进总决赛呢多威风，常规赛MVP选票排第二正在巅峰期。可是秋天查出来HIV全完蛋了，巅峰期退役啊。这多糟糕啊。&lt;br&gt;&lt;br&gt;反方：&lt;br&gt;别扯那没用的。安东尼-梅森1998年跟一对姐妹花一起乱搞被警察查了，2001年还进了全明星呢；皮尔斯2000年被戳了十一刀，没几天恢复了，下季打满82场，场均25分6篮板3助攻，有啥影响啊？&lt;br&gt;&lt;br&gt;……&lt;br&gt;……&lt;br&gt;……&lt;br&gt;&lt;br&gt;&lt;b&gt;最后，跟卡戴珊关系最密切的男子拉马尔-奥多姆现身说法。&lt;/b&gt;&lt;br&gt;&lt;b&gt;2009年，奥多姆随湖人夺冠，场均30分钟11分8篮板3助攻。秋天娶了卡戴珊。&lt;/b&gt;&lt;br&gt;&lt;b&gt;2010年，奥多姆随湖人夺冠，场均32分钟11分10篮板3助攻。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;对有些人而言，多几个女人和孩子会牵扯精力，然后就麻烦了。比如坎普，比如尤因。&lt;/b&gt;&lt;br&gt;&lt;b&gt;对有些人而言，在外面玩玩只是游览后宫，还能提升状态呢，比如魔术师，比如罗德曼。&lt;/b&gt;&lt;br&gt;&lt;b&gt;有人去夜店玩过后还能因祸得福升级呢——比如皮尔斯。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;詹姆斯-哈登是啥体质？不知道。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;唯一能确定的是：&lt;/b&gt;&lt;br&gt;&lt;b&gt;出去玩儿和开季之后的状态，没有根本的必然关系。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;最后又要举我爱举的那个例子了：&lt;br&gt;1994年世界杯，瑞士主帅霍奇森下达禁欲令，不让队员乱搞。&lt;br&gt;同时巴西主帅佩雷拉和意大利主帅萨基是允许队员带家眷去美国的。&lt;br&gt;最后瑞士战绩我就不说了，巴西和意大利是冠亚军。&lt;br&gt;有鉴于此，1996年欧洲杯，德国主帅福格茨把全队家眷随军到英格兰去了。&lt;br&gt;最后德国以钢铁的意志，夺下1996年欧洲杯。&lt;br&gt;&lt;br&gt;仅此。
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-19" target="_blank" href="/question/35727600/answer/64339752">编辑于 2015-09-19</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+谢邀。一定会有影响的！vs一定不会有影响的！！正方：一定会影响的！1993年，开拓者以科西为首那帮臭流氓在盐湖城找未成年少女！结果没两年开拓者全散，滑翔机交易，阿德尔曼离职，科西自己跌成龙套球员！这就是色欲的恶果！反方：才不会呢！1990-91季詹姆…
+
+<a href="/question/35727600/answer/64339752" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6497714"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>73 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic2.zhimg.com/424c70919_m.jpg"> 禁止转载 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442662592" data-type="p" >
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 在 <a class="column_link" href="http://zhuanlan.zhihu.com/zhangjiawei" data-tip="c$t$zhangjiawei">张佳玮写字的地方</a> 中发表了文章
+
+<a target='_blank' class="post-link" href="http://zhuanlan.zhihu.com/zhangjiawei/20226684">电子阅读与纸阅读：好与坏，习惯与爱</a>
+</div>
+<div tabindex="-1" class="zm-item-feed zm-item-post" data-type="p">
+<meta itemprop="post-id" content="271581">
+<meta itemprop="post-url-token" content="20226684">
+<a class="zg-anchor-hidden" name="post-20226684"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="608">608</a>
 </div>
 
 
 <div class="post-head">
 <div class="author-info">
 
-知乎用户
+<a href="/people/zhang-jia-wei" data-tip="p$t$zhang-jia-wei" class="name">张佳玮</a>，公众号：张佳玮写字的地方
 
 </div>
-<div class="zm-item-vote-info " data-votecount="146">
+<div class="zm-item-vote-info " data-votecount="608">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$cp-t" href="http://www.zhihu.com/people/cp-t" class="zg-link" title="cp t">cp t</a>、</span><span class="user-block"><a data-tip="p$t$cheney-2" href="http://www.zhihu.com/people/cheney-2" class="zg-link" title="拂晓明">拂晓明</a>、</span><span class="user-block"><a data-tip="p$t$tech-jr" href="http://www.zhihu.com/people/tech-jr" class="zg-link" title="JRTech">JRTech</a>、</span><span class="user-block"><a data-tip="p$t$stanley_Chung" href="http://www.zhihu.com/people/stanley_Chung" class="zg-link" title="Stanley">Stanley</a></span>
+<span class="user-block"><a data-tip="p$t$biao-pian-wo-wo-du-shu-shao" href="http://www.zhihu.com/people/biao-pian-wo-wo-du-shu-shao" class="zg-link" title="表骗我我读书少">表骗我我读书少</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$deng-fei-57" href="http://www.zhihu.com/people/deng-fei-57" class="zg-link" title="邓飞">邓飞</a>、</span><span class="user-block"><a data-tip="p$t$wu-shang-39-89" href="http://www.zhihu.com/people/wu-shang-39-89" class="zg-link" title="无殇">无殇</a></span>
 </span>
 
 
@@ -905,13 +807,13 @@ href="/people/linan/logs">
 </div>
 </div>
 <div class="entry-body">
-<div class="zm-item-rich-text" data-resourceid="270968">
+<div class="zm-item-rich-text" data-resourceid="271581">
 <div class="post-content">
-<textarea class="content hidden">&lt;img src=&quot;http://pic2.zhimg.com/b6371d1dc827f810aa28bf68d2c009c1_b.png&quot; class=&quot;content_image&quot;&gt;&lt;p&gt;文/&lt;a href=&quot;http://www.zhihu.com/people/4507bbabc2940179e7c3d274426b13ef&quot; data-hash=&quot;4507bbabc2940179e7c3d274426b13ef&quot; class=&quot;member_mention&quot; data-tip=&quot;p$b$4507bbabc2940179e7c3d274426b13ef&quot;&gt;@刘加哥&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;什么是 XCodeGhost？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;猿题库的 iOS 开发工程师在 9 月 17 日上午 9 点发了一篇微博，微博中描述了他的一位朋友在非官方渠道下载的 Xcode（苹果软件开发工具）居然自带病毒文件，造成的结果是，通过 Xcode 编译出来的 app 会被注入不知名的第三方代码，并且向陌生网站发送数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;哪些APP受到了影响？&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;网易云音乐&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;网易公开课&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;12306移动端&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中信银行动卡空间&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;下厨房&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中国联通手机营业厅&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;高德地图&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;简书&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;豌豆荚开眼&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;滴滴出行&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;51卡保险箱&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;同花顺&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;中信银行动卡空间&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;PS：不完全榜单&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;对用户有什么影响？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;目前来看，在 Xcode 中莫名加入的这段代码并没有什么恶意，只是收集部分数据，但是不得不防的是，未来很可能出现更加带有攻击性的病毒注入 Xcode，那么对于用户手机安全，这其中存在巨大的隐患。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;XcodeGhost 创新在哪？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;与以往的病毒嵌入思路不同，XcodeGhost 直接把病毒代码嵌入了开发工具源头，这种另类的传播方式直接让其在初期的传播广度上获得了非常好的效果，网易云音乐等热度 APP 中弹就是很好的证明。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;为什么要从第三方下载 Xcode？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;归根结底的原因还是在于国内 App Store 连接速度太慢，许多程序员为了提高效率，方便下载，会直接从各大论坛和网盘上找第三方资源，这就给一些不良少年提供了作案机会的可能性。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;始作俑者是谁？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;目前乌云网的部分代码专家查到代码传送信息指向到一个网址为： &lt;a href=&quot;http://init.icloud-analysis.com&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;init.icloud-analysis.com&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;的假冒网站（冒充苹果官网），目前该网站已经关闭。&lt;/p&gt;&lt;p&gt;有用户举报始作俑者的网名为「coderfun」，主要以各类 iOS 开发论坛和微博留言区为据点，提供带有病毒版本的 Xcode 网盘下载地址，其中包括了从 Xcode6.1-Xcode6.4 的所有版本，目前其真身不得人知。&lt;/p&gt;&lt;p&gt;分析人士指出，病毒作者是个老手，并且非常小心，在代码和服务器上都没有留下什么痕迹，所以不排除以后还会继续作案的可能。&lt;/p&gt;&lt;p&gt;目前XcodeGhost还没有非常严重的恶意行为，但是这种病毒传播方式在iOS上还是首次。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;为什么影响巨大？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;根据国外网站paloalto的分析，coderfun 所释放的Xcode dmg文件先是被广泛发布到了Douban, SwiftMi, CocoaChina, OSChina这几个论坛网站，然后又再百度云出现了大量下载文件。&lt;/p&gt;&lt;p&gt;不仅如此，还成功感染了迅雷的离线服务器，也就是说，你常用下载软件是迅雷的话，输入官网的地址下载下来的 dmg 仍然有可能是被修改过的。&lt;/p&gt;&lt;p&gt;在这我们不得不佩服这个骇客四两拨千斤的能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;该如何应对？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;目前的许多网友提供了一些针对性的解决方案：&lt;/p&gt;&lt;p&gt;1. 从官方渠道下载 Xcode&lt;/p&gt;&lt;p&gt;2. 程序员开发应该更加严谨的使用经过校检的 Xcode 开发工具&lt;/p&gt;&lt;p&gt;3. 苹果改善官方 APP Store 连接速度&lt;/p&gt;&lt;p&gt;4. 官方 APP Store 改进 APP 审核机制&lt;/p&gt;&lt;p&gt;&lt;strong&gt;进展&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;网易云音乐针对此事发出了一份带有丁磊式傲慢的公告&lt;/p&gt;&lt;img src=&quot;http://pic1.zhimg.com/bda5c9c21bba851f66b4ff1783a867b8_b.jpg&quot; data-rawwidth=&quot;788&quot; data-rawheight=&quot;792&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;788&quot; data-original=&quot;http://pic1.zhimg.com/bda5c9c21bba851f66b4ff1783a867b8_r.jpg&quot;&gt;&lt;p&gt;&lt;strong&gt;网友评价&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;@Alamo aka 狐狸：关于第三方渠道下载 Xcode 夹杂私货的问题，我有两句话要说，第一句是：「苹果公司 App 审核制度过分官僚，如同地铁安检，形同虚设。」第二句是：「你的 xcode.dmg 已经签收，签收人：草签」&lt;/p&gt;&lt;p&gt;@bちゃん：针对编译器的病毒这种东西，我在一本很老旧的计算机病毒防护教材上看到过，也知道有个 tcc 注入 login su 的后门的说法，以为这种病毒费时费力，估计现在没什么人这么搞了。没想到还真有人干了这种事情，还是对 Xcode，真是何等丧病。我都开始怀疑是不是国内某些公司的所为了……&lt;/p&gt;</textarea>
+<textarea class="content hidden">&lt;img src=&quot;http://pic2.zhimg.com/367b455c6c5142300ca57a0ae2449685_b.jpg&quot; class=&quot;content_image&quot;&gt;&lt;p&gt;&lt;u&gt;旧文一篇&lt;/u&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;对男人来说，世上最漫长的时光，无过于出门之前，等着女孩子对镜端详、款款整妆。看她迁延不走，一边满嘴“来了来了急什么”，一边上下左右360度回转自我挑剔如花美眷，罔顾似水流年。嘴损一点，又好为人师的男人，就会忍不住开口教育：从挑剔是种变相的自我强迫症，说到心灵美才是真谛——但通常这些河汉大论还没来得及展开，就会被姑娘一句话噎住：&lt;/p&gt;&lt;p&gt;你出门前挑书，不也是这样的？&lt;/p&gt;&lt;br&gt;&lt;p&gt;好读书者出门前挑书，和女孩子出门前挑衣服颜色、选手包款式，相去不远。人在程途，未必来得及看书；一如女孩子提着包，不为装东西。但手里有书，你多少心里有底，知道哪怕遇到等位、排队、坐车、等女伴试衣试鞋讨价还价，也不会无聊。书中自有颜如玉，选书如选美人。比如，有些书适合陪着喝下午茶；有些书适合带出去飙车。老一辈的翻译作品圆润温和些，像下午茶；民国时过来的诸位老先生散文，鲜而不腻的鳝鱼汤面；香港台湾几位上年级前辈的历史小说，瘦而不柴入味三分的大肉。好诗集如茶盏，妙短篇似糕点。所以最后，总不免叹恨：&lt;/p&gt;&lt;p&gt;你们带iPod的，可以把千把首歌揣裤兜里，偏我们只能带一本书！&lt;/p&gt;&lt;br&gt;&lt;p&gt;这种苦痛，料来如博尔赫斯这样以书为饭的人物，体会得最深刻。他老人家这辈子写过许多梦，许多梦里都有图书馆。他著名的短篇《沙之书》里，描绘了一本前不见头、后不见尾，拿起来有形，翻起来无限的书。意思姑且不论，但如果我跑去告诉他：&lt;/p&gt;&lt;p&gt;老先生，现在学生我就有这么面镜子，灰色如您眼眸、大小如您手掌，这里有无限辽阔的图书馆，繁密如水中倒映的星星……我料他决然抵抗不了这诱惑。绝大多数爱读书的人，都受不了这诱惑。&lt;/p&gt;&lt;p&gt;但如果我说出答案——电子阅读器，比如亚马逊kindle——的话，那些闪烁如星的眼睛，多半又会黯淡下来。&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;热爱纸阅读的人对电子阅读器，有种奇妙的反抗情绪。对某些仁兄来说，电子阅读器会剥夺他们炫耀满壁藏书的机会，“再也没法故做不经意、摸出几本作者签名题赠本来了！”。但大多数的人，会很务实的跟你列举优缺点。对热爱健康的人来说，读电子阅读器简直是对眼睛的慢性施毒；对爱做笔记的人来说，读书时没法密密麻麻浩如烟海的做读书笔记，简直是看见个好姑娘能看不能摸，挠不到痒处。最感性的爱书人，会如痴似醉的跟你解释：一本好书的书脊花纹题字可以如何触动眼睛，一本好书的书页可以抚慰你的手指，书页翻动的刷啦声如何必不可少，书本身的香味仿若蘅芷清芬。一本翻熟的书又如何和新书不同，熟书的书页会不那么挺括但衬贴手指，就像徐娘半老风韵犹存的女人。总之，买书如同找女朋友，书架如衣服。如果你有个图书馆，就像后宫佳丽三千似的——你不一定去看，光想像一下都春色浮动。而电子阅读器与之比起来，简直是充气娃娃。所以，哪怕有一个电子图书馆可以带到天涯海角，但对纸阅读爱好者来说，图书馆依然无法取代——就像韦小宝永远都存着心思，要开家丽春院。&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;重度纸阅读爱好者，也会尝试聆听你谈论电子阅读器的好处，听到“这么一本东西里可以藏一辈子看的书”，听到“可以随意变换字体大小和排版方式，还能全文检索”，也会偶尔眉宇一动。他们或者会勉为其难、不好意思拒却似的，接过你的阅读器，满脸表情像特级点心师却不过好意、尝一口邻居兴致勃勃送来的糕点。他们会承认这玩意确实有些好处，但是……你总会听到这样那样的回答：&lt;/p&gt;&lt;p&gt;手机读电子书？屏幕太小了，伤眼睛！&lt;/p&gt;&lt;p&gt;iPad读电子书？功能太多了，让人分心；看着眼睛累；太重了！&lt;/p&gt;&lt;p&gt;kindle读电子书？嗯，视觉上还挺像书的，但读PDF格式的可以么？还有，支持漫画么？&lt;/p&gt;&lt;p&gt;当然，最后，一切理由都抵不过这句：&lt;/p&gt;&lt;p&gt;这个再好，毕竟不是纸书！&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;《六人行》里，Ross曾经试图在两个姑娘——新欢Julie，旧爱Rachel——之间取舍。典型书呆子，做了这么个抉择：拿两张纸，分别列两位姑娘的优劣。列罢Rachel一堆缺点后，他转向Julie，只想出一个缺点：她不是Rachel。这听来很不公平，但这就是爱，不怎么讲道理。&lt;/p&gt;&lt;br&gt;&lt;p&gt;对电子阅读器的大多数缺点陈列，其实都从一个出发点开始：电子阅读器有一切好处，但它不是纸书，无法百分百提供读书的感觉，这就是阅读器们的原罪。好的阅读器，都在竭力制造纸的质感。这没法子，就像是电影里的女主角，可能并无过人之处，但恰好长得像男主角的旧情人，其他女配角只好认倒霉——这种事，没什么道理可讲。这就是爱。&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;因为阅读与饮食、散步和世上大多数需要感受的事情一样，永远没法子客观。走在路上，云的形状、树的排布、墙的颜色、身旁疾驰过的车子频率疏密、耳机里播放的是木管乐还是大提琴，都可能影响你的心情。一个餐厅的装修色调、播放的音乐、器皿是否整齐、桌子的材质，可能让人食欲变化——鲁智深这样豪迈的汉子，去吃酒时，也要跟店小二叮嘱：“要个齐楚阁儿”。&lt;/p&gt;&lt;p&gt;阅读也是如此。这个行星上的这代人，都是在纸阅读时代过来的。人生里所有最好的阅读体验，都来自于纸阅读。所以，人们总会停在令自己舒适的地方，每个看似无用的细节，比如书页的抚触、书本的分量、可以用来打折做记号的页角，都会成为仪式般的温暖慰藉。你当然可以说，这些仪式都很虚空，但人类的心情，也就是被仪式般的小玩意左右的。人心既是如此敏感，所以阅读器们总得试图假扮成书的样子，一如安眠音乐总会模仿空山鸟语，让你松下心绪，走回到自己记忆里最熟悉、最安适的那把坐椅里，一切才能开始。&lt;/p&gt;&lt;br&gt;&lt;p&gt;数码音乐一代的人，很难理解听CD那一代人的情愫，就像听CD的一代，也会觉得听磁带的奇怪，“还要翻AB面！”欧洲有印刷术几百年后，英国还是有爵爷爱收藏小牛皮手抄本。&lt;/p&gt;&lt;p&gt;每个时代都拥有一个“已流逝的黄金时代”。那个时代健康唯美优雅知性，大家都崇奉一些古老的艺术，能诗善画、书法古玩、香茶竹舍、文采风流。那个时代轻而且慢，像一片色彩斑斓、风里流转的羽毛。相比起那个时代，现在的一切虽然便利，但太机械太快太现实，诸如此类。对纸阅读爱好者来说，纸阅读就是那黄金时代的产物，而电子阅读器，或都或少，非常便捷，但是功利而机械。&lt;/p&gt;&lt;br&gt;&lt;p&gt;但世界大势无非如此：缓慢与怀旧流风不死，但务实与效率演进不停。现在依然有人留恋笔墨纸砚钟王张褚，但时代自顾自沿着铅笔、钢笔、圆珠笔、键盘、虚拟键盘一路前行。习惯的力量会永久留存，但时间缓慢流逝时千磨万蚀吃掉一切。电子阅读器，或者说，非纸类阅读器，最后总会站到那里的。它们千变万化，它们可以模仿纸，它们轻而且快。当一代又一代Ross们，慢慢褪去对Rachel的爱，以纸阅读为第一视角总会慢慢削减——但这个过程不会太短。&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;现代科技的美妙之处：无数富有人文精神的设计师，在努力把电子阅读器设计得像书，但习惯的力量，强大到这个地步：&lt;/p&gt;&lt;p&gt;无论是kindle的电子墨水、iPad下阅读应用的拟物化界面、各家阅读页面对羊皮纸木版宣纸的质感模拟，都在竭力让你觉得：这不是一个冷冰冰的机械，这是个色彩和悦、温暖舒适、和书差不多的玩意。然而电子阅读器对纸书模仿得越出色越招人喜欢，越能证明纸书及其阅读习惯的强大：这就像，如果一个女孩子得不断模仿你的前女友来取悦你，那只能证明，你的前女友真的很了不起。&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;但是，到最后，如果志在“读完一本书”而不是“购物一样搜求了许多书，给自己设了个云端图书馆，却发现读书不如攒书快”，那么最趁手最自然的，也就是拿起本纸书来读——至少对于读纸书长大的一代，依然如此。&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;很多年后，当一些新东西，比如全息投影空气阅读，比如脑内晶片阅读出现时，还是会有那么一批人站出来。他们会抱怨这些阅读方式不行：它们没有电子阅读器的手感！没有按翻页键或手指点触的细腻！没有实体屏幕的视觉厚实！没有电子阅读器皮套那种温存的感觉……电子阅读器、电纸书、平板、智能手机的读书应用，总有一天，也会像今时今日的纸阅读：为什么喜欢？因为习惯了，爱上了，就这样。&lt;/p&gt;&lt;br&gt;&lt;p&gt;可是到了那时，必然还有一些人坚守着纸阅读，为着一些无法言表、只有他们自己才能感受的理由——说到底，阅读就是这么件私人的、主观的、没什么道理可讲的事情。喜欢旧书的人，甚至会喜欢旧书页被翻到熟烂的感觉，远胜过新书页的清爽洁净。有道理吗？没有。&lt;/p&gt;&lt;p&gt;就像《白马啸西风》末尾所说的：这些都是很好很好的，可是我偏偏不喜欢。&lt;/p&gt;&lt;br&gt;&lt;p&gt;世上大多数事本来就无关好坏，真就只是各人心里手头，那点习惯不习惯、喜欢不喜欢、爱与不爱罢了。&lt;/p&gt;</textarea>
 <div class="zh-summary summary clearfix">
-<img src="http://pic2.zhimg.com/b6371d1dc827f810aa28bf68d2c009c1_xld.png" class="content_image inline-img">文/<a href="http://www.zhihu.com/people/4507bbabc2940179e7c3d274426b13ef" data-hash="4507bbabc2940179e7c3d274426b13ef" class="member_mention" data-tip="p$b$4507bbabc2940179e7c3d274426b13ef">@刘加哥</a><strong>什么是 XCodeGhost？</strong>猿题库的 iOS 开发工程师在 9 月 17 日上午 9 点发了一篇微博，微博中描述了他的一位朋友在非官方渠道下载的 Xcode（苹果软件开发工具）居然自带病毒文件，造成的结果是，通过 Xcode 编译出来的 app 会被注入不知名的第三方代…
+<img src="http://pic2.zhimg.com/367b455c6c5142300ca57a0ae2449685_xld.jpg" class="content_image inline-img"><u>旧文一篇</u>对男人来说，世上最漫长的时光，无过于出门之前，等着女孩子对镜端详、款款整妆。看她迁延不走，一边满嘴“来了来了急什么”，一边上下左右360度回转自我挑剔如花美眷，罔顾似水流年。嘴损一点，又好为人师的男人，就会忍不住开口教育：从挑剔是种…
 
-<a href="http://zhuanlan.zhihu.com/bigertech/20225143" class="toggle-expand">显示全部</a>
+<a href="http://zhuanlan.zhihu.com/zhangjiawei/20226684" class="toggle-expand">显示全部</a>
 
 </div>
 </div>
@@ -921,10 +823,10 @@ href="/people/linan/logs">
 <div class="zm-meta-panel">
 
 
-<a data-follow="c:link" class="zg-follow meta-item" href="#" id="cl-3518"><i class="z-icon-follow"></i>关注专栏</a>
+<a data-follow="c:link" class="zg-follow meta-item" href="#" id="cl-154"><i class="z-icon-follow"></i>关注专栏</a>
 
 <a href="#" name="toggle-comment" class="meta-item toggle-comment">
-<i class="z-icon-comment"></i>14 条评论</a>
+<i class="z-icon-comment"></i>75 条评论</a>
 <a href="#" class="meta-item zu-autohide" name="share"><i class="z-icon-share"></i>分享</a>
 <span class="zg-bull zu-autohide">•</span>
 <a href="#" class="meta-item zu-autohide js-report">举报</a>
@@ -934,34 +836,39 @@ href="/people/linan/logs">
 </div>
 </div>
 
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442572704" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442495489" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">3 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
 
-<a class="question_link" target="_blank" href="/question/35721299/answer/64153523">XcodeGhost 事件会造成什么影响？</a>
+<a class="question_link" target="_blank" href="/question/35425592/answer/64069061">如果天山童姥被乌老大劫持之后是被段誉救了而不是虚竹，那会发生什么？</a>
 </div>
 <div tabindex="-1" class="zm-item-answer "
-data-aid="21076582"
-data-atoken="64153523"
+data-aid="21042727"
+data-atoken="64069061"
 data-collapsed="0"
-data-created="1442554175"
+data-created="1442495489"
 data-deleted="0"
 data-isowner="0"
 data-helpful="1"
-data-copyable="1"
+data-copyable="0"
 >
-<a class="zg-anchor-hidden" name="answer-21076582"></a>
+<a class="zg-anchor-hidden" name="answer-21042727"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="799">799</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="338">338</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">799</span>
+<span class="count">338</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -976,26 +883,26 @@ data-copyable="1"
 <h3 class="zm-item-answer-author-wrap">
 
 
-<a data-tip="p$t$wujiwu"
+<a data-tip="p$t$zhang-jia-wei"
 class="zm-item-link-avatar"
-href="/people/wujiwu">
-<img src="https://pic2.zhimg.com/c639e9325_s.jpg"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg"
 class="zm-list-avatar"
-data-source="https://pic2.zhimg.com/c639e9325_s.jpg" />
+data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 </a>
 
 
 
-<a data-tip="p$t$wujiwu" href="/people/wujiwu">谢弘</a>，<strong title="iOS程序员" class="zu-question-my-bio">iOS程序员</strong>
+<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
 
 </h3>
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="799">
+<div class="zm-item-vote-info " data-votecount="338">
 
 <span class="voters">
-<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$qing-cui-yu-di-xiao-bai-cai" href="http://www.zhihu.com/people/qing-cui-yu-di-xiao-bai-cai" class="zg-link" title="青翠欲滴小白菜">青翠欲滴小白菜</a>、</span><span class="user-block"><a data-tip="p$t$StingCheung" href="http://www.zhihu.com/people/StingCheung" class="zg-link" title="张斯汀">张斯汀</a></span>
+<span class="user-block"><a data-tip="p$t$dong-mu-43" href="http://www.zhihu.com/people/dong-mu-43" class="zg-link" title="董沐">董沐</a>、</span><span class="user-block"><a data-tip="p$t$job-59" href="http://www.zhihu.com/people/job-59" class="zg-link" title="JOB">JOB</a>、</span><span class="user-block">知乎用户</span>
 </span>
 
 
@@ -1004,23 +911,22 @@ data-source="https://pic2.zhimg.com/c639e9325_s.jpg" />
 
 </div>
 </div>
-<div class="zm-item-rich-text" data-resourceid="6495214" data-action="/answer/content">
+<div class="zm-item-rich-text" data-resourceid="6376901" data-action="/answer/content">
 
 <textarea class="content hidden">
-个人强烈建议阅读这个回答的答案，比我写得权威也好理解：&lt;a class=&quot;internal&quot; href=&quot;http://www.zhihu.com/question/35721299/answer/64205825&quot;&gt;XcodeGhost 事件会造成什么影响？ - Sai 的回答&lt;/a&gt;&lt;br&gt;&lt;br&gt;下面是我的回答，这个回答主要分为回答问题以及没受影响和受了影响 App 名录两个部分（现在这个回答已经和前期回答发生很大变化，所以前期对我这个回答点了“赞同”的用户，还请酌情取消“赞同”，总之事态发展太快，麻烦了！）：&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;&lt;b&gt;强烈建议修改 Apple ID 的相关密码。&lt;/b&gt;&lt;b&gt;强烈建议修改 Apple ID 的相关密码。&lt;/b&gt;&lt;b&gt;强烈建议修改 Apple ID 的相关密码。微信 9 月 10 日发布的 6.2.5 版本已经被微信官方公告确认被感染，随后微信 9 月 12 日发布了 6.2.6 版本修护了这个问题，因为这个木马现在看来半年前就开始出现，并且受感染的 App 数目之多也可以说是叹为观止，这期间木马是否有用弹窗来诱导用户输入 Apple ID 以及密码现在已经不得而知了，但是为了帐号安全，Apple ID 的密码还请尽快修改。话说回来，微信知道 Xcode 被注入的时间点是在 9月 10 日左右，比国家互联网应急中心应该还快了几天。（根据这篇文章，看来是&lt;a class=&quot; wrap external&quot; href=&quot;http://security.tencent.com/index.php/blog/msg/96&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;腾讯安全应急响应中心&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;在12日的时候，向国家互联网应急中心汇报了）。&lt;br&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;br&gt;&lt;b&gt;就这个问题而言，造成什么影响，我觉得主要的影响是这几个方面：&lt;br&gt;&lt;br&gt;0.不少用户对 iOS 的生态的信任感遭到破坏，这一点是我感到最大的损失，尤其是很多人非黑即白的眼中，出了问题很容易推出“ iOS 很危险”的奇怪结论，就算发生这种事情，我认为 iOS 目前还是最好的移动操作系统之一，目前出问题的 App 以 360 扫描的成果为例，不到总数的 0.5%，多数国民级别的 App 并没受到影响。（但是还是建议不管使用什么 Android 还是 iOS，都要增强自己的安全意识。定期修改重要账户的密码以及重要账户不要使用同一个密码是非常关键的事情。）&lt;br&gt;&lt;br&gt;1.受影响的 App 很容易被简单粗暴的删除（我其实是很不推荐这么做的）或者遭到大规模的 1 星评分，这会严重影响这些产品的运营及成果。网易云音乐作为第一个爆出来的知名 App，可以说受到极其严重的影响，而微信一天之内一星评价剧增（这不排除竞争对手借机刷恶评），这些都对是这些产品极其严重而又典型的伤害。而且现在苹果的处理方式是先下架问题版本，最近几天运营的数据肯定很糟糕。&lt;br&gt;&lt;br&gt;2.本质上也给一线程序员敲了警钟，几十年前的破坏原理到现在依旧可能造成恶劣的影响，对大多数 iOS 程序员上了一课：一定要去 Mac App Store 下载 Xcode，而与之相关的安全方面的意识只能说希望借此机会得到重视。&lt;br&gt;&lt;br&gt;其余苹果是否会加强程序安装或者打包应用增强安全性未可知，丁磊被一次又一次调侃“黑苹果”是否会痛定思痛给开发人员更换白苹果未可知，以后我们能不能不用翻就能连上 Mac App Store 下载 App 未可知。（这回问题还有蛮大一部分原因是众所周知的其他国家的原因，当然不知道原因的当我没说这句话。）&lt;br&gt;&lt;br&gt;-----------------------------------------&lt;br&gt;&lt;/b&gt;第一部分结束，下面是第二部分：&lt;br&gt;&lt;br&gt;我检查了下，没什么问题的白名单部分，如果这部分有问题还望提醒：&lt;br&gt;自我检测了一下自己安装的，这些常用的 App 
-（支付宝、微信6.2.6、QQ、新浪微博官方客户端、VVebo、FORK、知乎、QQ邮箱、兴业银行、中国银行、招商银行、掌上生活、京东、淘宝、天猫、亚马逊、什么值得买、1号店、大众点评、腾讯新闻、网易新闻、QQ音乐、网易有道词典、美团、糯米、拉手）目前的版本都没有受到 XcodeGhost 影响的。&lt;br&gt;&lt;br&gt;==========&lt;br&gt;最大的影响是建议所有安装过以下 App 的用户在相关版本更新前不要使用这些 App，等待新版本更新后再使用。&lt;br&gt;虽然现在知道的上传服务器已经主动下线，但是不能排除这些 App 的使用风险。&lt;br&gt;&lt;b&gt;另外再次强烈建议修改 Apple ID 的密码。&lt;/b&gt;&lt;br&gt;&lt;br&gt;下面是受本次事件影响的 App 列表（如有异议还请私信或者回复），&lt;i&gt;&lt;u&gt;斜体+下划线&lt;/u&gt;&lt;/i&gt;说明已经修护&lt;br&gt;==========&lt;br&gt;最初版本：&lt;br&gt;根据乌云的消息：&lt;a href=&quot;http://drops.wooyun.org/news/8864&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;XCode编译器里有鬼&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;中招名单：&lt;br&gt;1.&lt;i&gt;&lt;u&gt;网易云音乐（问题版本号2.8.3，更新日期2015年9月6日）（更新版本号2.9.0，更新日期2015年9月20日）&lt;/u&gt;&lt;/i&gt;&lt;br&gt;作为 Apple 的知名开发商，网易一直用黑苹果开发也就算了，没想到连接 MAS 的网速会慢到要去其他地方下载 Xcode。这次事件虽然目前看只是一个网易云音乐的问题，但是这种不规范的开发流程足以极大伤害云音乐的品牌，而且挂着“网易”的前缀，其他网易系的 App 似乎也很难避免不受影响。&lt;br&gt;&lt;br&gt;==========&lt;br&gt;14 点更新：&lt;br&gt;根据消息（&lt;a href=&quot;https://twitter.com/fannheyward/status/644747940020424704&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;twitter.com/fannheyward&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;/status/644747940020424704&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;）&lt;br&gt;新加入木马套餐的有：&lt;br&gt;1.&lt;i&gt;&lt;u&gt;滴滴打车（滴滴出行，问题版本号4.0.0，更新日期2015年9月9日）（&lt;/u&gt;&lt;/i&gt;&lt;i&gt;&lt;u&gt;&lt;i&gt;&lt;u&gt;修护版本号4.1.0，更新日期2015年9月18日）&lt;/u&gt;&lt;/i&gt;）&lt;/u&gt;&lt;/i&gt;&lt;br&gt;2.铁路12306（版本号2.1，更新日期2015年5月31日）&lt;br&gt;3.&lt;u&gt;&lt;i&gt;中信银行动卡空间（问题版本号？，更新日期？）（修护版本号3.4.5，更新日期2015年9月19日）&lt;/i&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;这几个装机量足够大的 App 加进来后，果然网易云音乐明显不会这么那么瞩目的吸引炮火了。&lt;br&gt;&lt;br&gt;==========&lt;br&gt;15 点更新：&lt;br&gt;跟过节一样，木马套餐添加新产品：&lt;br&gt;&lt;a href=&quot;https://twitter.com/tualatrix/status/644766088815767553&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;twitter.com/tualatrix/s&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;tatus/644766088815767553&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://weibo.com/1846569133/CB6OD8IHz?from=page_1005051846569133_profile&amp;amp;wvr=6&amp;amp;mod=weibotime&amp;amp;type=comment&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;第三轮测试结果如下：6、下厨房；7、51卡保... 来自图拉鼎&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;1.中国联通手机营业厅（版本号3.2，更新日期2015年8月14日）&lt;br&gt;2.&lt;u&gt;&lt;i&gt;高德地图（问题版本号7.3.8，更新日期2015年9月5日）（修护版本号7.5.0，更新日期2015年9月19日）&lt;/i&gt;&lt;/u&gt;&lt;br&gt;3.简书（版本号2.9.1，更新日期2015年9月12日）&lt;br&gt;4.开眼（版本号1.8.0，更新日期2015年8月21日）&lt;br&gt;5.网易公开课（版本号4.2.8，更新日期2015年9月1日）&lt;br&gt;6.&lt;i&gt;&lt;u&gt;下厨房（问题版本号4.3.2，更新日期2015年8月28日）（修护版本号4.4.0，更新日期2015年9月19日）&lt;/u&gt;&lt;/i&gt;&lt;br&gt;7.51卡保险箱（版本号5.0.1，更新日期2015年8月29日）&lt;br&gt;8.同花顺（版本号9.60.01，更新日期2015年9月16日）&lt;br&gt;&lt;br&gt;=========&lt;br&gt;18 点更新：&lt;br&gt;来源 知乎用户&lt;a href=&quot;http://www.zhihu.com/people/zhou-yi-ling-31&quot; class=&quot;internal&quot;&gt;周逸灵&lt;/a&gt; 评论&lt;br&gt;1.Lifesmart（版本号1.0.44，更新日期2015年9月10日）&lt;br&gt;来源 v2ex &lt;a class=&quot; wrap external&quot; href=&quot;http://v2ex.com/t/221722?p=2#&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;垃圾网易，开发 iOS 还用黑苹果？ Xcode 还在百度上去下载？&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 184楼 评论&lt;br&gt;1.马拉马拉（版本号1.1.0，更新日期2015年8月25日）&lt;br&gt;2.药给力（版本号1.12.1，更新日期2015年9月14日）&lt;br&gt;3.喜马拉雅（版本号4.3.8，更新日期2015年8月27日）&lt;br&gt;4.口袋记账（版本号1.6.0，更新日期2015年8月9日）&lt;br&gt;&lt;br&gt;========&lt;br&gt;19 点更新：&lt;br&gt;来源 知乎用户 &lt;a href=&quot;http://www.zhihu.com/people/rainoxu&quot; class=&quot;internal&quot;&gt;龙小刚&lt;/a&gt; 评论&lt;br&gt;1.有货（版本号3.5.0，更新日期2015年9月10日）&lt;br&gt;2.微链（版本号2.3.0，更新日期2015年8月25日）&lt;br&gt;3.股票雷达（20 点更新）（版本号5.6，更新日期2015年7月17日）&lt;br&gt;来源 知乎用户 &lt;a href=&quot;http://www.zhihu.com/people/li-kai-hua&quot; class=&quot;internal&quot;&gt;李凯华&lt;/a&gt; 评论&lt;br&gt;1.&lt;i&gt;&lt;u&gt;南方航空应用（问题版本号2.6.5，更新日期2015年8月7日）（修护版本号2.6.6，更新日期2015年9月19日）&lt;/u&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;=========&lt;br&gt;来源 v2ex 消息&lt;br&gt;1.&lt;u&gt;&lt;i&gt;微信（问题版本号6.2.5，更新日期2015年9月10日）（修护版本号6.2.6，更新日期2015年9月12日）&lt;/i&gt;&lt;/u&gt;&lt;br&gt;&lt;b&gt;更新说明，根据微信的公告：&lt;a class=&quot; wrap external&quot; href=&quot;http://weibo.com/1930378853/CB9lwqpfZ&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;来自腾讯微信团队&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;确实有，真的是极为蹊跷的存在。&lt;/b&gt;根据&lt;a class=&quot; wrap external&quot; href=&quot;http://weibo.com/weixinteam&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;腾讯微信团队的微博&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;的公告表示，微信 6.2.5 本身也是感染的，不过9月12日上架的 6.2.6 已经作出了修改，企鹅真是闷声典范。&lt;br&gt;&lt;br&gt;========&lt;br&gt;20 点更新&lt;br&gt;来源 知乎用户 &lt;a href=&quot;http://www.zhihu.com/people/li-yun-long-73&quot; class=&quot;internal&quot;&gt;李云龙&lt;/a&gt; 评论&lt;br&gt;1.快速问医生（版本号7.7.3，更新日期2015年8月20日）&lt;br&gt;&lt;br&gt;=========&lt;br&gt;21 点更新&lt;br&gt;来源 知乎用户 &lt;a href=&quot;http://www.zhihu.com/people/vvfenng&quot; class=&quot;internal&quot;&gt;i蒹葭从风&lt;/a&gt; 评论&lt;br&gt;1.&lt;i&gt;&lt;u&gt;豆瓣阅读（问题版本号2.1.0，更新日期2015年9月6日）（修护版本号2.1.1，更新日期2015年9月19日）&lt;/u&gt;&lt;/i&gt;&lt;br&gt;2.SuperMii酷脸（版本号1.9.0，更新日期2015年9月8日）&lt;br&gt;来源 &lt;a class=&quot; wrap external&quot; href=&quot;http://v2ex.com/t/221744#&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;XcodeGhost：网易云音乐、中信银行动卡空间、12306、滴滴打车、中国联通客户端&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; 47楼 &lt;b&gt;&lt;a href=&quot;http://v2ex.com/member/iwege&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;iwege&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/b&gt;回复&lt;br&gt;1.CamScanner（中文“扫描全能王”）（版本号3.8.1，更新日期2015年9月8日）&lt;br&gt;&lt;br&gt;========&lt;br&gt;19日 0 点更新&lt;br&gt;来源 知乎用户 &lt;a href=&quot;http://www.zhihu.com/people/zhuyujun&quot; class=&quot;internal&quot;&gt;朱瑜骏&lt;/a&gt; 评论&lt;br&gt;1.懒人周末（版本号1.3.0，更新日期2015年7月9日）&lt;br&gt;&lt;br&gt;另外附上另外一个回答中的 Google 在线文档地址，可能更新比我这边要快。&lt;br&gt;&lt;a class=&quot; external&quot; href=&quot;https://docs.google.com/spreadsheets/d/1YELrImviQ5ARC8A-WKgNyx0puRxXPMjR3TmSzHghUZA/htmlview?usp=sharing&amp;amp;sle=true&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;docs.google.com/spreads&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;heets/d/1YELrImviQ5ARC8A-WKgNyx0puRxXPMjR3TmSzHghUZA/htmlview?usp=sharing&amp;amp;sle=true&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;截止19日01:04，这个文档提及但是这个回答中没有提及的几个App供无法访问上一个链接的网友看：&lt;br&gt;1.微博相机（版本号1.5.0，更新日期2015年7月23日）&lt;br&gt;2.CamCard（中文“名片全能王”）（版本号6.5.1，更新日期2015年8月13日）&lt;br&gt;3.SegmentFault（版本号2.8，更新日期2015年9月12日）&lt;br&gt;4.炒股公开课（版本号3.10.01，更新日期2015年7月22日）&lt;br&gt;5.股市热点（版本号2.40.01，更新日期2015年9月17日）&lt;br&gt;6.同花顺爱基金（版本4.20.01号，更新日期2015年8月28日）&lt;br&gt;7.此条信息中本人验证了下有误，故而删除&lt;br&gt;8.&lt;u&gt;&lt;i&gt;滴滴司机-出租车（问题版本号2.9.3，更新日期2015年9月10日）&lt;/i&gt;&lt;/u&gt;&lt;i&gt;&lt;u&gt;（修护版本号2.9.4，更新日期2015年9月19日）&lt;/u&gt;&lt;/i&gt;&lt;br&gt;9.OPlayer（版本号2.1.05，更新日期2015年7月22日）&lt;br&gt;10.讯飞输入法（版本号5.1.1463，更新日期2015年8月27日）&lt;br&gt;&lt;br&gt;========&lt;br&gt;19日 1 点更新&lt;br&gt;怀疑应该也有的&lt;br&gt;1.滴滴专车-司机版（版本号1.1.0，更新日期2015年8月15日）&lt;br&gt;&lt;br&gt;3点更新&lt;br&gt;来源 知乎用户 &lt;a href=&quot;http://www.zhihu.com/people/adamlook&quot; class=&quot;internal&quot;&gt;adam look&lt;/a&gt;&lt;br&gt;1.同花顺至尊版（我估计同花顺同一家出来的 App 都是有问题的）&lt;br&gt;&lt;br&gt;补充了版本日期，如果有问题还望指正。&lt;br&gt;先睡觉了。&lt;br&gt;&lt;br&gt;========&lt;br&gt;19日 10 点更新&lt;br&gt;这种东西看来还是能批量操作的效率要高些，虽然我鄙视 360 ，但是这个名单应该还是可信的。&lt;br&gt;来源 360NirvanTeam&lt;br&gt;&lt;a class=&quot; wrap external&quot; href=&quot;http://weibo.com/p/1001603888676542218677&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;感染XcodeGhost木马App详细名称及版本号&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;=========&lt;br&gt;20日 0 点更新&lt;br&gt;来源 知乎用户 &lt;a href=&quot;http://www.zhihu.com/people/live4love&quot; class=&quot;internal&quot;&gt;live4love&lt;/a&gt;&lt;br&gt;1.凯立德导航（问题版本11.4.1）这个已经在 App Store 上找不到了，应该是被苹果临时下架了。&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;最后，我还是要强调，这里边涉及 App 众多，消息来源也复杂，我不建议大家采用删除的方法来避免问题，我更倾向大家能够等待问题版本的问题被新版本修护后再使用！&lt;br&gt;另外如果发现有问题的 App 名单信息有误，还望提醒指正。&lt;/u&gt;&lt;/b&gt;
+谢邀。&lt;br&gt;&lt;br&gt;乌老大听得段誉大呼小叫，心想此人武功极高，真要横来生事，却也不易对付，夜长梦多，速行了断的为是，当即举起鬼头刀，叫道：“乌老大第一个动手！”挥刀便向那身在布袋中的女童砍了下去。&lt;br&gt;段誉叫道：“不好！”手指一伸，一招“中冲剑”，向乌老大的鬼头刀上刺去。这六脉神剑，意到气吐，中冲剑尤其刚猛，噗地一声，乌老大虎口震裂，鬼头刀脱手飞出。段誉俯身一扑，已将那女童负在背上。&lt;br&gt;这一下变起俄顷，人人措手不及。王语嫣刚呼得一声“段公子”，段誉已然冲出圈子。他脑筋转动不快，出手只为救急；待得将女童负在背上，甫一突围，见到周围刀枪林立，方始心头一凛，再听到王语嫣的唤声，不由一身冷汗：“这些江湖豪士，立意要杀这女童，定然放我不过！这番死了也！”&lt;br&gt;&lt;br&gt;乌老大惊魂未定，喝道：“快杀了他！快杀了他！”呛朗朗数声响过，安洞主等人已纷纷掣兵刃在手，馄饨洞洞主张佳玮一剑便向段誉后心刺去。不平道人望望慕容复，道：“慕容公子，这位段公子可是你的朋友么？”慕容复见段誉出手，心头老大的不以为然，听不平道人此问，已知他有疑己之意，忙道：“这位段公子，也不是我什么好朋友。”一瞥间见王语嫣面有失望之色，心道：“虽然让表妹不快，却也顾不得了。”&lt;br&gt;&lt;br&gt;段誉见群豪人多势众，不及避让，只有使出凌波微步闪避。他步法飘逸绝伦，一时刀枪剑戟，都递不到他身上，张佳玮只顾嚷道：“不要走了这小子！”剑剑狠辣，却哪里刺得到？兼且段誉适才施展六脉神剑，人人看在眼中，生怕他剑气锐利，众人不敢逼近，递出的刀剑，十有八九倒是朝着那女童去的。&lt;br&gt;段誉正踏步法间，忽听得耳边一个苍老的女子声音道：“向山上冲！”他不及思索，只道是王语嫣出声指点，只双足发力，体若离弦之箭，直飞上雪峰去。他内力深厚，当世无双，情急之中骤然发力，哪怕是鸠摩智这等高手在侧，也未必追得上。众人惊叫声中，段誉已经鸿飞冥冥，甩开众人数十丈，随即发足奔逃。他这步法，当年在无锡可与萧峰并驾齐驱，这时一跑发了，后面群豪哪里追赶得上？&lt;br&gt;&lt;br&gt;发足奔了半晌，看着已到山顶，段誉心道：“到了这里，他们多半追赶不上了吧？”正在此时，忽听得耳边又一声道：“胆小鬼，跑什么？”段誉吓得双膝一软，真气立时滞了；再转念一想：“定是王姑娘！她神通广大，隔了这么远还能传语音来。”正想之间，肩上被人一拍；段誉大惊，回头看时，却见背上的女童双目灼灼，正盯着他，口中道：“蠢才，放我下来！你哪里学来的凌波微步？告诉姥姥知道。”&lt;br&gt;&lt;br&gt;段誉大惊，这时才真是大出意料之外，一时心头如乱麻：“这女童不是哑的！这女童不是哑的！”脱手放下女童，那女童一落地，便反手按住段誉脉门，厉声道：“你哪里练得的凌波微步？你认得李秋水那贱婢，是不是？！”&lt;br&gt;&lt;br&gt;段誉大骇，连忙伸手去扳。那女童见他毛手毛脚，毫无武功根底，浑不以为是；不料段誉大拇指按到女童手腕，女童只觉手上一震，内力如飞般滑向段誉体内。女童又惊又怒，喝道：“松手！你怎的会北冥神功？”段誉哪里顾得听她说，只顾使力。他内力在那女童之上，一炷香功夫，那女童手足酸软，便即松手，坐倒在地。段誉甫得自由，尚不敢信，吓得跳开几步，便想逃下山去。那女童嘶声道：“你不要走，先告诉姥姥，你认得李秋水那贱婢么？”&lt;br&gt;&lt;br&gt;段誉停了脚步，道：“我并不认得神仙姐姐。”那女童不懂，问：“神仙姐姐是谁？”&lt;br&gt;&lt;br&gt;段誉道：“神仙姐姐便是秋水姐姐了。”他在无量山下玉洞中见过“秋水妹”字样，却才知道那神仙姐姐原来姓李。女童喝道：“那你的功夫，怎么来的？”段誉道：“是在大理国境内一个洞中。那是秋水姐姐与她夫婿一起居住的所在。”他既知道这女童认得神仙姐姐，说话便客气些。”&lt;br&gt;那女童两眼尽是热泪，喃喃道：“果然不错，果然不错。好贱婢，好无崖子！“她将这番话翻来覆去，说了十几遍，忽然一口血吐将出来。&lt;br&gt;&lt;br&gt;段誉吓了一跳，道：“小姑娘前辈，你，你这是？”那女童道：“我被贱婢所气，活不了多久了。小子，你与我说，他俩在洞中过得快不快活？”段誉道：“我不知道，我，我去到那里时，他们已然不在了。”那女童忽然双眼一翻，问道：“你没说谎？”段誉道：“晚辈不敢。”&lt;br&gt;&lt;br&gt;童姥喃喃道：“是了，是了。无崖子倘若与那贱婢在洞中快活过世了，定然是留下尸骨在洞中，做一对同命鸳鸯；他们既然不在，定是无崖子弃她而去了。哈哈，好得很，好得很！”她虽大笑，两眼中却热泪滚滚而落，忽然笑声停歇，段誉过去一探，那女童呼吸已停，竟自死了。&lt;br&gt;&lt;br&gt;段誉一时百思不得其解，暗自寻思：“这位小姑娘前辈，却也奇怪得很了。”他自然不知，这女童便是缥缈峰灵鹫宫的天山童姥。此时只听得山腰间，隐隐有张佳玮、乌老大等嚷道“休教走了”，段誉想：“先背负着这小姑娘前辈的遗体走了的好，莫要被他们逮到。”便将童姥负在背上，寻路逃走了。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;以上当然纯属虚构。&lt;/u&gt;
 
 
 <span class="answer-date-link-wrap">
-<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-18" target="_blank" href="/question/35721299/answer/64153523">编辑于 昨天 12:25</a>
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-17" target="_blank" href="/question/35425592/answer/64069061">编辑于 2015-09-17</a>
 </span>
 
 </textarea>
 <div class="zh-summary summary clearfix">
 
-个人强烈建议阅读这个回答的答案，比我写得权威也好理解：<a class="internal" href="http://www.zhihu.com/question/35721299/answer/64205825">XcodeGhost 事件会造成什么影响？ - Sai 的回答</a>下面是我的回答，这个回答主要分为回答问题以及没受影响和受了影响 App 名录两个部分（现在这个回答已经和前期回答发生很大变化，所以前期对我这个回…
+谢邀。乌老大听得段誉大呼小叫，心想此人武功极高，真要横来生事，却也不易对付，夜长梦多，速行了断的为是，当即举起鬼头刀，叫道：“乌老大第一个动手！”挥刀便向那身在布袋中的女童砍了下去。段誉叫道：“不好！”手指一伸，一招“中冲剑”，向乌老大的…
 
-<a href="/question/35721299/answer/64153523" class="toggle-expand">显示全部</a>
+<a href="/question/35425592/answer/64069061" class="toggle-expand">显示全部</a>
 
 </div>
 
@@ -1028,10 +934,147 @@ data-source="https://pic2.zhimg.com/c639e9325_s.jpg" />
 <div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
 <div class="zm-meta-panel">
 
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6495214"><i class="z-icon-follow"></i>关注问题</a>
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6376901"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>257 条评论</a>
+<i class="z-icon-comment"></i>78 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic2.zhimg.com/424c70919_m.jpg"> 禁止转载 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442493067" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">3 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
+
+<a class="question_link" target="_blank" href="/question/35685399/answer/64064536">如何解释女儿的名字“沐溪”？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="21040909"
+data-atoken="64064536"
+data-collapsed="0"
+data-created="1442493066"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-21040909"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2048">2048</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2048</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg"
+class="zm-list-avatar"
+data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="2048">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$ceng-wen-jun-87" href="http://www.zhihu.com/people/ceng-wen-jun-87" class="zg-link" title="曾丝羽">曾丝羽</a>、</span><span class="user-block"><a data-tip="p$t$wang-shao-bo-96" href="http://www.zhihu.com/people/wang-shao-bo-96" class="zg-link" title="王少波">王少波</a>、</span><span class="user-block"><a data-tip="p$t$xiong-mao-30-91" href="http://www.zhihu.com/people/xiong-mao-30-91" class="zg-link" title="熊猫">熊猫</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="6480817" data-action="/answer/content">
+
+<textarea class="content hidden">
+谢邀。&lt;br&gt;&lt;br&gt;嗯，叫做沐溪是吧？&lt;br&gt;先告诉她一些事实，比如：&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;《三国演义》九十回曰：南蛮部落的女孩子，是这样自由恋爱找到意中人的。&lt;br&gt;&lt;blockquote&gt;有女长成，&lt;b&gt;却于溪中沐浴&lt;/b&gt;，男女自相混淆，任其自配，父母不禁，名为“学艺” 。&lt;/blockquote&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;《书剑恩仇录》中，香香公主，是这样自由恋爱遇到意中人的。&lt;br&gt;&lt;blockquote&gt;陈家洛饮足溪水，心旷神怡，胸襟爽朗，回顾身上满是沙尘，于是卷起裤脚，踏入水中，把头脸手脚洗了个干净，再把马牵过，给它洗刷一遍。&lt;br&gt;……　　&lt;br&gt;他一时口呆目瞪，心摇神驰。只听树上小鸟鸣啾，湖中冰块撞击，与瀑布声交织成一片乐音。呆望湖面，忽见湖水中微微起了一点漪涟，一只洁白如玉的手臂从湖中伸了上来，接着一个湿淋淋的头从水中钻出，一转头，看见了他，一声惊叫，又钻入水中。&lt;br&gt;就在这一刹那，陈家洛已看清楚是个明艳绝伦的少女，心中一惊：“难道真有山精水怪不成？”摸出三粒围棋子扣在手中。&lt;br&gt;只见湖面一条水线向东伸去，忽喇一声，那少女的头在花树丛中钻了起来，青翠的树木空隙之间，露出皓如白雪的肌肤，漆黑的长发散在湖面，一双像天上星星那么亮的眼睛凝望过来。这时他哪里还当她是妖精，心想凡人必无如此之美，不是水神，便是天仙了，只听一个清脆的声音说道：“你是谁？到这里来干么？”&lt;/blockquote&gt;&lt;br&gt;&lt;br&gt;史上最伟大中文RPG《仙剑奇侠传》经典情景：赵灵儿是这样自由恋爱遇到意中人的。&lt;br&gt;&lt;img src=&quot;https://pic3.zhimg.com/7a3af1ca8f7a466f8d16a0da0cff255a_b.png&quot; data-rawwidth=&quot;500&quot; data-rawheight=&quot;312&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;500&quot; data-original=&quot;https://pic3.zhimg.com/7a3af1ca8f7a466f8d16a0da0cff255a_r.png&quot;&gt;&lt;br&gt;&lt;br&gt;然后可以对女儿说了：&lt;br&gt;&lt;br&gt;给你起名叫沐溪，是希望你的人生温婉平顺。&lt;br&gt;可以如在溪中沐浴般，清凉自如，清澈见底。&lt;br&gt;常见野鹿食苹，淡看叶落水流。&lt;br&gt;最重要的是：&lt;br&gt;可以自在又舒适地，找到自己命中注定的意中人。&lt;br&gt;爸爸妈妈会绝对允许你自由恋爱，不会加以干涉的。&lt;br&gt;我们就像溪流，照拂你，但不会阻碍你。&lt;br&gt;就像那些名著里描写过的情景一样。&lt;br&gt;&lt;br&gt;大致如此。
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/35685399/answer/64064536">发布于 2015-09-17</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+<img src="https://pic3.zhimg.com/7a3af1ca8f7a466f8d16a0da0cff255a_xld.png" data-rawwidth="500" data-rawheight="312" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic3.zhimg.com/7a3af1ca8f7a466f8d16a0da0cff255a_r.png">
+谢邀。嗯，叫做沐溪是吧？先告诉她一些事实，比如：《三国演义》九十回曰：南蛮部落的女孩子，是这样自由恋爱找到意中人的。有女长成，<b>却于溪中沐浴</b>，男女自相混淆，任其自配，父母不禁，名为“学艺” 。《书剑恩仇录》中，香香公主，是这样自由恋爱遇到意…
+
+<a href="/question/35685399/answer/64064536" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6480817"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>141 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -1067,196 +1110,34 @@ data-source="https://pic2.zhimg.com/c639e9325_s.jpg" />
 </div>
 </div>
 
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442572604" data-type="" >
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 关注了问题
-
-<a class="question_link" href="/question/35721299">XcodeGhost 事件会造成什么影响？</a>
-</div>
-
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442572592" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
-
-<a class="question_link" target="_blank" href="/question/35721299/answer/64169278">XcodeGhost 事件会造成什么影响？</a>
-</div>
-<div tabindex="-1" class="zm-item-answer "
-data-aid="21082956"
-data-atoken="64169278"
-data-collapsed="0"
-data-created="1442560528"
-data-deleted="0"
-data-isowner="0"
-data-helpful="1"
-data-copyable="1"
->
-<a class="zg-anchor-hidden" name="answer-21082956"></a>
-
-<div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="619">619</a>
-</div>
-
-<div class="zm-votebar">
-<button class="up ">
-<i class="icon vote-arrow"></i>
-<span class="label">赞同</span>
-<span class="count">619</span>
-</button>
-<button class="down ">
-<i class="icon vote-arrow"></i>
-<span class="label">反对</span>
-</button>
-</div>
-
-
-<div class="answer-head">
-
-<div class="zm-item-answer-author-info">
-<h3 class="zm-item-answer-author-wrap">
-
-
-<a data-tip="p$t$be5invis"
-class="zm-item-link-avatar"
-href="/people/be5invis">
-<img src="https://pic4.zhimg.com/256476fc7_s.jpg"
-class="zm-list-avatar"
-data-source="https://pic4.zhimg.com/256476fc7_s.jpg" />
-</a>
-
-
-
-<a data-tip="p$t$be5invis" href="/people/be5invis">Belleve</a>，<strong title="炼金术士" class="zu-question-my-bio">炼金术士</strong>
-
-</h3>
-<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
-</div>
-
-<div class="zm-item-vote-info " data-votecount="619">
-
-<span class="voters">
-<span class="user-block"><a data-tip="p$t$m-iao" href="http://www.zhihu.com/people/m-iao" class="zg-link" title="喵喵">喵喵</a>、</span><span class="user-block"><a data-tip="p$t$mo-yi-25-20" href="http://www.zhihu.com/people/mo-yi-25-20" class="zg-link" title="默伊蠡懿">默伊蠡懿</a>、</span><span class="user-block">知乎用户</span>
-</span>
-
-
-<a href="javascript:;" class="more"> 等人赞同</a>
-
-
-</div>
-</div>
-<div class="zm-item-rich-text" data-resourceid="6495214" data-action="/answer/content">
-
-<textarea class="content hidden">
-&lt;b&gt;这是个处心积虑、策划多年的骗局，其手法之高明，说明攻击者要么是经验丰富的老道黑客，要么就是有专业的黑产公司。不同于之前时候那些依靠力量的攻击，这个骇客成功地实现了四两拨千斤，用最少的资源获取到了最多的隐私资料，而且过了甚久才被察觉。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;这次的攻击绝对可以载入史册，绝对的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;现在看来数字签名真的是无比正确的事情，至少能同时保证文件完整性和正确性。然而很多人都不回去看数字签名……有些开源厂商还嫌麻烦不签……&lt;img src=&quot;https://pic2.zhimg.com/cc14ae740109e0afa554b7beaac0fc8d_b.png&quot; data-rawwidth=&quot;941&quot; data-rawheight=&quot;1191&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;941&quot; data-original=&quot;https://pic2.zhimg.com/cc14ae740109e0afa554b7beaac0fc8d_r.png&quot;&gt;ps. 有关所谓作者声明，以这次攻击这么高端的手段，布了这么久的局，这么高的及社工技巧，居然只是「做实验」？！微博上 @矮穷龊-陆羽 回应如下：&lt;blockquote&gt;我们3点多发微博，4点都你的稿子就出来了，是因为身份暴漏了。所以发这个帖子么？姑且不说你是不是真的作者，如果真的是，你的解释是不同的，因为域名注册早在2015年2月25日，而CIA后门稿子在3月12日，大规模传播在3月13日，你是先知么？另外后长期续一系列的隐藏和变换身份的操作，就说明你是蓄意的！&lt;/blockquote&gt;
-
-
-<span class="answer-date-link-wrap">
-<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-18" target="_blank" href="/question/35721299/answer/64169278">编辑于 2015-09-19</a>
-</span>
-
-</textarea>
-<div class="zh-summary summary clearfix">
-<img src="https://pic2.zhimg.com/cc14ae740109e0afa554b7beaac0fc8d_xld.png" data-rawwidth="941" data-rawheight="1191" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/cc14ae740109e0afa554b7beaac0fc8d_r.png">
-<b>这是个处心积虑、策划多年的骗局，其手法之高明，说明攻击者要么是经验丰富的老道黑客，要么就是有专业的黑产公司。不同于之前时候那些依靠力量的攻击，这个骇客成功地实现了四两拨千斤，用最少的资源获取到了最多的隐私资料，而且过了甚久才被察觉。</b><b>这次的…</b>
-
-<a href="/question/35721299/answer/64169278" class="toggle-expand">显示全部</a>
-
-</div>
-
-</div>
-<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
-<div class="zm-meta-panel">
-
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6495214"><i class="z-icon-follow"></i>关注问题</a>
-
-<a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>75 条评论</a>
-
-
-<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
-
-
-
-<a href="#" class="meta-item zu-autohide" name="share">
-<i class="z-icon-share"></i>分享</a>
-<a href="#" class="meta-item zu-autohide" name="favo">
-<i class="z-icon-collect"></i>收藏</a>
-
-
-
-
-<span class="zg-bull zu-autohide">&bull;</span>
-
-<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
-
-<span class="zg-bull zu-autohide">&bull;</span>
-<a href="#" name="report" class="meta-item zu-autohide">举报</a>
-
-
-
-<span class="zg-bull">&bull;</span>
-
-<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
-
-
-<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
-</div>
-
-</div>
-</div>
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442572419" data-type="" >
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 关注了问题
-
-<a class="question_link" href="/question/35731419">魅族发布3000+以上手机是不是太嘚瑟？</a>
-</div>
-
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442554183" data-type="" >
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 关注了问题
-
-<a class="question_link" href="/question/28480234">我们对印度的认识是否有误？</a>
-</div>
-
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442405153" data-type="a" >
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442396362" data-type="a" >
 <span class="zm-profile-setion-time zg-gray zg-right">4 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+<a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 赞同了回答
 
-<a class="question_link" target="_blank" href="/question/35513719/answer/63124282">如何评价魅族 9 月 23 号 Pro 新品发布会的邀请函设计？</a>
+<a class="question_link" target="_blank" href="/question/34674927/answer/59643522">中国是由哪些陆块组成的？</a>
 </div>
 <div tabindex="-1" class="zm-item-answer "
-data-aid="20663794"
-data-atoken="63124282"
+data-aid="19267143"
+data-atoken="59643522"
 data-collapsed="0"
-data-created="1441878240"
+data-created="1439815509"
 data-deleted="0"
 data-isowner="0"
 data-helpful="1"
 data-copyable="1"
 >
-<a class="zg-anchor-hidden" name="answer-20663794"></a>
+<a class="zg-anchor-hidden" name="answer-19267143"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="278">278</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1345">1345</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">278</span>
+<span class="count">1345</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1271,26 +1152,26 @@ data-copyable="1"
 <h3 class="zm-item-answer-author-wrap">
 
 
-<a data-tip="p$t$xiao-pi-xiu-22"
+<a data-tip="p$t$close-tony"
 class="zm-item-link-avatar"
-href="/people/xiao-pi-xiu-22">
-<img src="https://pic4.zhimg.com/2048b8257_s.jpg"
+href="/people/close-tony">
+<img src="https://pic3.zhimg.com/0f56239e3d398832de52af8c0d428b52_s.jpg"
 class="zm-list-avatar"
-data-source="https://pic4.zhimg.com/2048b8257_s.jpg" />
+data-source="https://pic3.zhimg.com/0f56239e3d398832de52af8c0d428b52_s.jpg" />
 </a>
 
 
 
-<a data-tip="p$t$xiao-pi-xiu-22" href="/people/xiao-pi-xiu-22">小貔貅</a>，<strong title="人生这么多过客，希望下一个可以是一辈子。" class="zu-question-my-bio">人生这么多过客，希望下一个可以是一辈子。</strong>
+<a data-tip="p$t$close-tony" href="/people/close-tony">Close Tony</a>，<strong title="地质工作者" class="zu-question-my-bio">地质工作者</strong>
 
 </h3>
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="278">
+<div class="zm-item-vote-info " data-votecount="1345">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$chen-guo-tao-75" href="http://www.zhihu.com/people/chen-guo-tao-75" class="zg-link" title="陈涛">陈涛</a>、</span><span class="user-block"><a data-tip="p$t$hu-qiao-wen-58" href="http://www.zhihu.com/people/hu-qiao-wen-58" class="zg-link" title="胡巧文">胡巧文</a>、</span><span class="user-block"><a data-tip="p$t$feng-huang-yuan-19" href="http://www.zhihu.com/people/feng-huang-yuan-19" class="zg-link" title="凤凰院">凤凰院</a></span>
+<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$du-kang-24-73" href="http://www.zhihu.com/people/du-kang-24-73" class="zg-link" title="杜康">杜康</a>、</span><span class="user-block"><a data-tip="p$t$xu-jin-qin-2" href="http://www.zhihu.com/people/xu-jin-qin-2" class="zg-link" title="许锦衾">许锦衾</a></span>
 </span>
 
 
@@ -1299,22 +1180,23 @@ data-source="https://pic4.zhimg.com/2048b8257_s.jpg" />
 
 </div>
 </div>
-<div class="zm-item-rich-text" data-resourceid="6412153" data-action="/answer/content">
+<div class="zm-item-rich-text" data-resourceid="6076451" data-action="/answer/content">
 
 <textarea class="content hidden">
-首先声明并不算魅友，只是入手MX5的普通用户而已！&lt;br&gt;在我看来， 魅族如此大手笔的邀请函，展现出来的是对新产品的自信;通过邀请函引发吾等普罗大众的关注，是想说明公司由一个小众品牌转向大众产品的肯定！&lt;br&gt;看了几个路人黑，1.有说是为了炒作。我只想说人家花了这么大手笔，如果一点营销效果都没有那才叫失败呢！但是这不是炒作！2.有说花心思做邀请函，不如修复bugme。首先，一个优秀的公司，在发布自己的产品时应该注重每一个细节(想到坚果总觉得诚意不够有木有)，所以邀请函也是必不可少的一部分，一个优秀的邀请函也能起到很好宣传作用！然后再说说bugme:我不知道各位吐槽flyme系统的知友是不是天天都在用手机创造历史造福人类，所以对手机的要求那么高，作为一个普通用户，我觉得搭载在mx5的flyme完全满足我的需求，并没有发现什么bug。&lt;br&gt;综上，我觉得人家有钱任性，大手笔做邀请函，本就轮不到我们评头品足。人家通过这么土豪的邀请函，也展现了对新发布手机的自信。各种吐槽flyme系统，说明早起flyme可能确实做的不够，但是到我入手魅族接触flyme并没有发现太多bug，说明人家也确实在认真做手机！
+我猜应该是我自己作死，吐了这个槽。。然后自酿苦果。。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/98124d82ef45cac87def3882b877e020_b.png&quot; data-rawwidth=&quot;671&quot; data-rawheight=&quot;354&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;671&quot; data-original=&quot;https://pic1.zhimg.com/98124d82ef45cac87def3882b877e020_r.png&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/2dfd2c89b4980e0e9f5f09c769be3944_b.png&quot; data-rawwidth=&quot;625&quot; data-rawheight=&quot;247&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;625&quot; data-original=&quot;https://pic1.zhimg.com/2dfd2c89b4980e0e9f5f09c769be3944_r.png&quot;&gt;无奈最近各种事成堆，等过阵子有空再答。。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;交了论文，回来填坑。&lt;/p&gt;&lt;p&gt;先吐个槽：题主是不是觉得中国地质面貌就是高中地理书那些“地势西高东低分为三级台阶”，随便拿个地形图出来划几个区就能说清楚了？就像李云龙读军事地图一样，哈哈~   &lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/65f032707449267afe2e6a279861e232_b.png&quot; data-rawwidth=&quot;341&quot; data-rawheight=&quot;193&quot; class=&quot;content_image&quot; width=&quot;341&quot;&gt;&lt;br&gt;&lt;p&gt;我告诉你，没这回事，能直接读懂地质图的人那都是不世出的天才！！待我用地质学高级课程来颠覆你的三观！！！&lt;/p&gt;&lt;p&gt;来，看一张中国地质图。&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/c4fe1e97bd4b2b8e7b0d154f9c46e20a_b.png&quot; data-rawwidth=&quot;515&quot; data-rawheight=&quot;348&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;515&quot; data-original=&quot;https://pic3.zhimg.com/c4fe1e97bd4b2b8e7b0d154f9c46e20a_r.png&quot;&gt;&lt;img src=&quot;https://pic3.zhimg.com/a44be063490bb3f1bd8172e65bf003c2_b.png&quot; data-rawwidth=&quot;214&quot; data-rawheight=&quot;291&quot; class=&quot;content_image&quot; width=&quot;214&quot;&gt;&lt;p&gt;我相信大多数人此时内心是崩溃的，因为早已被花花绿绿的色块晃瞎了双眼。这张图是灰常难的，以至于很多地质学专业的学生也不能从中有效地获得信息。为啥，因为中国的地质构造炒鸡复杂，炒鸡复杂，炒鸡复杂。但是你也别担心，后面的讲解我绝不会拿出这么高大上的图来恶心你。&lt;/p&gt;&lt;br&gt;&lt;p&gt;正题之前，先来热个身吧~&lt;/p&gt;&lt;br&gt;&lt;p&gt;明确一下板块（Plate），以及地块或者又叫陆块（Block）的定义。&lt;/p&gt;&lt;p&gt;板块（Plate）有着明确活动边界（比如大洋中脊和俯冲带）。而地块（Block）有明确的边界，但这边界不一定仍然在活动。地块的划分，依据的是其基底物质组成和其经历的地质历史。很多个陆块可以一起拼成一个巨大的大陆板块，比如欧亚板块。实际上，板块是可以同时包括大陆地壳（陆壳）和大洋地壳（洋壳）两部分的。这里提到的地块可以理解为古板块中的陆壳部分。在古板块拼合的过程中，洋壳被俯冲消减，最终就只剩下了陆壳，也就是地块。所以，可以简单的把地块想象成一个个拼图。&lt;/p&gt;&lt;br&gt;&lt;p&gt;做好了知识准备，就可以回过头来讲关键问题了，中国是由哪些陆块拼成的呢？&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;注意，颠覆你三观的时候到了！！请看郑永飞院士发表的中国大地构造简图。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/095981637d664d769c79285ff79c588d_b.png&quot; data-rawwidth=&quot;561&quot; data-rawheight=&quot;413&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;561&quot; data-original=&quot;https://pic2.zhimg.com/095981637d664d769c79285ff79c588d_r.png&quot;&gt;&lt;p&gt;粗略的分，包括以下6部分：&lt;/p&gt;&lt;br&gt;&lt;p&gt;东北部：1. 松辽地块Songliao Block，属于阿穆尔板块（也有说西伯利亚古板块）的一部分。&lt;/p&gt;&lt;br&gt;&lt;p&gt;西北部：2. 准噶尔盆地Junggar Basin，属于哈萨克斯坦古板块的一部分。3. 塔里木地块Tarim Block。&lt;/p&gt;&lt;br&gt;&lt;p&gt;中部：   4. 华北地块North China Craton，包括东部、西部和转换带三部分。&lt;/p&gt;&lt;br&gt;&lt;p&gt;东南部：5. 华南地块South China Block，包括扬子地块Yangtze Craton和华夏褶皱带Cathaysia Foldbelt。&lt;/p&gt;&lt;br&gt;&lt;p&gt;西南部：6. 青藏高原，由多个地块，包括松潘甘孜地体Songpan-Ganzi、羌塘地块Qiangtang Block、拉萨Lhasa Block、喜马拉雅造山带Himalaya Orogen等拼合而成。&lt;/p&gt;&lt;br&gt;&lt;p&gt;是不是很多山水都不见了？没错，三山五岳，长江黄河，其实都不是地质分界线。三级台阶的分法，其实是把成因完全不同云贵高原和黄土高原划归到了一起，把毫不相关的华南丘陵和华北平原也划到了一起。&lt;/p&gt;&lt;br&gt;&lt;br&gt;今天先更到这里，以后有空再更。&lt;br&gt;&lt;br&gt;2015.9.11更新&lt;br&gt;&lt;br&gt;（没写完,然后一周没更,非常感谢各位的点赞。最近回家了一趟，浪了好些天。妈妈给做了唆螺（原料是螺蛳），配上啤酒，爽过麻辣小龙虾~哈哈哈。）&lt;br&gt;&lt;br&gt;&lt;p&gt;继续说。&lt;/p&gt;&lt;p&gt;中国各地不光是气候天差地别，其水土也是相去甚远。这水土，就是跟地质密切相关的。所谓南橘北枳,不光是气候多样性起作用,地质多样性作用也是很显著。吃货们在大江南北游一圈肯定有感受。为啥只有贵州茅台镇能酿出茅台酒？为啥只有云南云龙县能做出诺邓火腿？为啥只有青藏高原有虫草？好多都是未解之谜啊！！不是我吹，中国的地质多样性在全世界独一无二，连俄罗斯都比不上。&lt;/p&gt;&lt;br&gt;&lt;p&gt;中国各地块拼合过程的细节目前并不十分清楚，所以我就拣其中重要的说。远在元古宙时（25至5.41亿年），并不是6个部分都在，而是只有三个古老地块（稳定的老地块也叫做Craton克拉通）：华北地块，华南地块，塔里木地块（前面图中以粉红色表示）。其它的地块这时候还没有出现，或者叫做没有证据证明它们的存在。这里以李江海、姜洪福老师的文献为准，来做介绍。老外虽然也有很多地史的图件，但是里面关于中国地块的准确性存疑，不同学者之间的分歧也不小。中国的地块还是中国人自己研究得比较细致。当然也不排除以后有更多的证据时，故事可能会略有不同。（Scotese的图我贴在后面了，有兴趣可以看一下）&lt;/p&gt;&lt;br&gt;&lt;p&gt;从6亿年震旦纪开始说。当时罗迪尼亚超大陆（Rodinia）解体已经差不多1亿年，但各板块分布还是相对集中。华北地块，华南地块，塔里木地块位置如下图所示。华北地块在西伯利亚板块的东北侧，自成一家。华南地块在澳大利亚板块东侧，刚刚从罗迪尼亚超大陆上分离出来。塔里木地块在澳大利亚板块西侧，仍然没有从罗迪尼亚超大陆上分离。总的来说就是，三兄弟，老大已经成家立业，老二自立门户，老三还在家啃老。（其实两张图是一样的，但是第二张把重点地块标注了一下，对比看更清楚）&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/31877ad6826172c747341a323147c629_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;286&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic2.zhimg.com/31877ad6826172c747341a323147c629_r.png&quot;&gt;&lt;img src=&quot;https://pic2.zhimg.com/da3d6d159e14fe046a21039456434399_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;286&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic2.zhimg.com/da3d6d159e14fe046a21039456434399_r.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;寒武纪（5.2亿年），如下图，华北板块一直向东运动，从地球的另一侧绕了一圈到了澳大利亚的西面。华南地块从澳大利亚北侧绕了一个小弯弯，也到了澳大利亚的西北侧。塔里木板块移动距离较短，刚刚离开澳大利亚板块。在澳大利亚西南侧，印度板块北侧，羌塘和拉萨地块登场，此时两条地块还是连在一起的。看这个图你就发现了，北美、澳大利亚几乎一直都是一个板块，最多与其他板块拼合，但绝对没有散开。像中国地块们这么分散闯天下的，屈指可数！&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;https://pic4.zhimg.com/55fe62a245e035827bad3c2c42a7e5e3_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;298&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic4.zhimg.com/55fe62a245e035827bad3c2c42a7e5e3_r.png&quot;&gt;&lt;img src=&quot;https://pic1.zhimg.com/8a5870ec05ca05af9f3110c1b0af32d0_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;298&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic1.zhimg.com/8a5870ec05ca05af9f3110c1b0af32d0_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;奥陶纪（4.7亿年），如下图，哈萨克斯坦板块登场。华北地块、华南地块、塔里木地块、羌塘地块、拉萨地块呈北西-南东向一字排列，相隔不远。这些地块都像是水里飘的小树叶，随时都在移动和旋转，移动的范围局限在古亚洲洋里面，没有向外移动进入泛大洋。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/f76ea4e4a6a61bd2a9a06dbde777b269_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;302&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic2.zhimg.com/f76ea4e4a6a61bd2a9a06dbde777b269_r.png&quot;&gt;&lt;img src=&quot;https://pic2.zhimg.com/35184a290c74ea395970b85abb40c2d9_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;302&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic2.zhimg.com/35184a290c74ea395970b85abb40c2d9_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;志留纪（4.3亿年），如下图，又乱套了。塔里木地块北移，华北地块东移，华南地块西移。大家伙没事一起瞎遛弯。。
+南边的羌塘地块和拉萨地块跟在印支板块（Indochina）后面蠢蠢欲动。这段时间，拼图们都在各玩各的~&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/2a48f3176a1a7c5cb5e43c4fda1f0ca0_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;305&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic1.zhimg.com/2a48f3176a1a7c5cb5e43c4fda1f0ca0_r.png&quot;&gt;&lt;img src=&quot;https://pic3.zhimg.com/9ba41b6d5df125b778832b6668590ec2_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;305&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic3.zhimg.com/9ba41b6d5df125b778832b6668590ec2_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;泥盆纪（3.9亿年），如下图，西伯利亚板块和哈萨克斯坦板块都拼接在劳伦大陆上，继续向东北移动。塔里木地块，华南地块，华北地块东西向一字排开。北面是古亚洲洋，南边是古特提斯洋。羌塘地块和拉萨地块虽然表现得蠢蠢欲动，但却一直都没有把分家闹独立的想法付诸实施，还是被澳大利亚板块庇护着。&lt;/p&gt;&lt;img src=&quot;https://pic4.zhimg.com/6334f091a514ac213169d122dfdbfbbf_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;299&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic4.zhimg.com/6334f091a514ac213169d122dfdbfbbf_r.png&quot;&gt;&lt;img src=&quot;https://pic4.zhimg.com/c7b65aaf8f4243881961219f3ff2e297_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;299&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic4.zhimg.com/c7b65aaf8f4243881961219f3ff2e297_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;石炭纪（3.2亿年），如下图，西伯利亚和哈萨克斯坦板块向北东移动。古特提斯洋面积变大，东面被塔里木、华北、华南地块所封住，形成一个被圈闭的洋。这时候，盘古大陆（Pangea）即将成型，各大板块将重新拼合形成一个超大陆。除了我们中国的几个地块还在一边手拉手愉快的玩耍!&lt;/p&gt;&lt;img src=&quot;https://pic3.zhimg.com/54152b07f4c9f91e2b5fb483a507a6e2_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;303&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic3.zhimg.com/54152b07f4c9f91e2b5fb483a507a6e2_r.png&quot;&gt;&lt;img src=&quot;https://pic1.zhimg.com/cb3b7b0a422d6604cad6dc9d34db3e0c_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;303&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic1.zhimg.com/cb3b7b0a422d6604cad6dc9d34db3e0c_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;二叠纪(2.6亿年)，如下图，原有古特提斯洋开始闭合，南部的新特提斯洋开始发育。塔里木地块已经拼合到哈萨克斯坦板块上，华北地块也即将拼到阿穆尔地块上（也就是松辽地块）。问题来了，这个阿穆尔地块是什么时候冒出来的？为啥又不叫松辽地块了。回答是，我也不知道。可能是由于相关研究较少，并不清楚阿穆尔地块的起源。但是这个确实是就是松辽地块，只是国内外称呼不一致。阿穆尔地块会在1.6亿年时拼合到西伯利亚板块上，所以在有些文献中并不仔细区分阿穆尔地块和西伯利亚板块。此图中由于新特提斯洋过于狭小，并没有单独画出羌塘和拉萨地块。我简要标注了一下。其位置在马来西亚地块的南侧。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/760301a687c41895c65221622b60a17d_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;298&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic2.zhimg.com/760301a687c41895c65221622b60a17d_r.png&quot;&gt;&lt;img src=&quot;https://pic1.zhimg.com/eaaff1c7f69c588b0427e3c1546860e0_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;280&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic1.zhimg.com/eaaff1c7f69c588b0427e3c1546860e0_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;三叠纪（2.2亿年），如下图，盘古大陆拼合完成。此时古特提斯洋面积减小到原来的四分之一，新特提斯洋迅速扩张。中国的一众地块被这个扩张的大洋向北推挤，逐次拼合到西伯利亚板块之上，这就是俄罗斯方块为啥叫俄罗斯方块的原因~ 因为东亚的陆块都是一块一块从天上掉下来拼到西伯利亚板块南边的。（哦，这么说其实应该叫西伯利亚方块的，肯定是取名字取错了。）这时候，哈萨克斯坦板块和塔里木地块已经与西伯利亚板块紧密结合。华北地块与阿穆尔地块也已经拼合。华北和华南地块开始拼合（也就是秦岭大别山-苏鲁缝合带的形成的原因）。羌塘和拉萨地块仍追在马来西亚地块之后，位于新特提斯洋的北缘。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/8a547794d546b8036089c2bdb4eb1625_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;306&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic2.zhimg.com/8a547794d546b8036089c2bdb4eb1625_r.png&quot;&gt;&lt;img src=&quot;https://pic1.zhimg.com/6826ec9af53343456624c0f0c2f24b74_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;298&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic1.zhimg.com/6826ec9af53343456624c0f0c2f24b74_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;侏罗纪（1.6亿年），如下图，盘古大陆解体。中国各地块向北高速运动，地块之间的洋壳俯冲消减，并形成各个东西向造山带（如燕山，天山，秦岭，南岭等，不过时间各有先后，分为印支期和燕山期）。位置如图所示，只有羌塘和拉萨地块还没有完全拼合到我大中华的版图上。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/2bbf520db1cf2e31d8065c22eef47c69_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;306&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic2.zhimg.com/2bbf520db1cf2e31d8065c22eef47c69_r.png&quot;&gt;&lt;img src=&quot;https://pic1.zhimg.com/8a0a402c121a9ed338f7395edeee7228_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;304&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic1.zhimg.com/8a0a402c121a9ed338f7395edeee7228_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;白垩纪（1.2亿年），如下图，铛裆垱挡~ 中华大地拼合完成~ 但是，慢着！！九九八十一难，还差一难！！ 看见新特提斯洋南边那个三角形的板块了吗？&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/abd3312849ef2396136a1e56fee9b39c_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;305&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic1.zhimg.com/abd3312849ef2396136a1e56fee9b39c_r.png&quot;&gt;&lt;img src=&quot;https://pic3.zhimg.com/00ceffc2452c7bf0d021589121cce15e_b.png&quot; data-rawwidth=&quot;556&quot; data-rawheight=&quot;305&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;556&quot; data-original=&quot;https://pic3.zhimg.com/00ceffc2452c7bf0d021589121cce15e_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;看下图，注意！那个三哥地块飞快的越过新特提斯洋，冲过来了。。。然后一头撞到羌塘和拉萨地块上，形成了青藏高原。同时向东推挤，形成至今仍在活动的龙门山地震带。这青藏高原虽然挡住了北上的季风和雨水，却给我国带来了丰富的地质多样性和生物多样性。中科院还成立了青藏高原研究所，专门研究这个难得的宝库。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/0ceb42ab3098a790908cb40ed80a96f5_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;302&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic2.zhimg.com/0ceb42ab3098a790908cb40ed80a96f5_r.png&quot;&gt;&lt;img src=&quot;https://pic4.zhimg.com/099c61b04b6c87f48f6b638ab3e46a2b_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;302&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic4.zhimg.com/099c61b04b6c87f48f6b638ab3e46a2b_r.png&quot;&gt;&lt;br&gt;&lt;p&gt;以上是李江海、姜洪福老师的研究成果。然后贴一下老外C.R. Scotese的，有些细节略有不同，但是整体上框架是一样的。&lt;/p&gt;&lt;p&gt;福利（请自费翻墙观看）：&lt;a href=&quot;https://www.youtube.com/watch?v=cW6rMzSOmvU&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;https://www.&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;youtube.com/watch?&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;v=cW6rMzSOmvU&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://pic1.zhimg.com/0203d99f666a335f42e1a2e161ef5e20_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic1.zhimg.com/0203d99f666a335f42e1a2e161ef5e20_r.png&quot;&gt;&lt;img src=&quot;https://pic1.zhimg.com/b2a57d22852073433de6e5f68e7d7ba4_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic1.zhimg.com/b2a57d22852073433de6e5f68e7d7ba4_r.png&quot;&gt;&lt;img src=&quot;https://pic1.zhimg.com/3cd95394c424219f49934976d81da208_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic1.zhimg.com/3cd95394c424219f49934976d81da208_r.png&quot;&gt;&lt;img src=&quot;https://pic4.zhimg.com/57b45371207ba186b91bb2f189f6a883_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic4.zhimg.com/57b45371207ba186b91bb2f189f6a883_r.png&quot;&gt;&lt;img src=&quot;https://pic2.zhimg.com/97a0eb085310fe25e82f469036fc54fd_b.png&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic2.zhimg.com/97a0eb085310fe25e82f469036fc54fd_r.png&quot;&gt;&lt;img src=&quot;https://pic3.zhimg.com/018856df6068ab35dfb2ef79dc238f22_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic3.zhimg.com/018856df6068ab35dfb2ef79dc238f22_r.png&quot;&gt;&lt;img src=&quot;https://pic4.zhimg.com/6a74f5fa1adaef295ceaa08d5ff5dc5f_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic4.zhimg.com/6a74f5fa1adaef295ceaa08d5ff5dc5f_r.png&quot;&gt;&lt;img src=&quot;https://pic2.zhimg.com/637d596680a92701ab44b4a8c9b9e645_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic2.zhimg.com/637d596680a92701ab44b4a8c9b9e645_r.png&quot;&gt;&lt;img src=&quot;https://pic4.zhimg.com/3b6ab1ae05405ea28204d273b04a22d3_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic4.zhimg.com/3b6ab1ae05405ea28204d273b04a22d3_r.png&quot;&gt;&lt;img src=&quot;https://pic4.zhimg.com/0811c387bdea8c634bb080f73d51af33_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic4.zhimg.com/0811c387bdea8c634bb080f73d51af33_r.png&quot;&gt;&lt;img src=&quot;https://pic1.zhimg.com/559141df85b25767baa0ef56d2070ed8_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic1.zhimg.com/559141df85b25767baa0ef56d2070ed8_r.png&quot;&gt;&lt;img src=&quot;https://pic2.zhimg.com/db8e2b80f9e1567b3958907db600ac01_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic2.zhimg.com/db8e2b80f9e1567b3958907db600ac01_r.png&quot;&gt;&lt;img src=&quot;https://pic2.zhimg.com/2d48075944f67b04f634a7ed9e17572d_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic2.zhimg.com/2d48075944f67b04f634a7ed9e17572d_r.png&quot;&gt;&lt;img src=&quot;https://pic2.zhimg.com/d6f6bd9213949e8f7d24a15299a1f291_b.png&quot; data-rawwidth=&quot;558&quot; data-rawheight=&quot;373&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;558&quot; data-original=&quot;https://pic2.zhimg.com/d6f6bd9213949e8f7d24a15299a1f291_r.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;写到这里，我猜有人会好奇，地质学家们是怎么知道这些地块板块的历史位置的? 板块又不会自己说话。答案是利用沉积地层分析其古环境，利用古地磁分析其古纬度。然后综合其他证据，恢复其历史位置。地质学难就难在这里，谁也没亲眼见过。也不能像化学生物学一样做空白组实验（弄个地球来做实验，那就爽爆了），空间和时间尺度都不允许。与地质学最类似的一种研究方式是犯罪现场调查(CSI)。就是观察事发之后的现场，并取有代表性的物品做测试，从而尝试还原事发过程。所以我们也是CSI，Crust Scene Investigation。嘿嘿！&lt;/p&gt;&lt;p&gt;等有时间会再更一下各个地块基底和边界的内容，但估计要过段时间了。抱歉。&lt;/p&gt;
 
 
 <span class="answer-date-link-wrap">
-<a class="answer-date-link meta-item" target="_blank" href="/question/35513719/answer/63124282">发布于 2015-09-10</a>
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-08-17" target="_blank" href="/question/34674927/answer/59643522">编辑于 2015-09-14</a>
 </span>
 
 </textarea>
 <div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/98124d82ef45cac87def3882b877e020_xld.png" data-rawwidth="671" data-rawheight="354" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/98124d82ef45cac87def3882b877e020_r.png">
+我猜应该是我自己作死，吐了这个槽。。然后自酿苦果。。无奈最近各种事成堆，等过阵子有空再答。。交了论文，回来填坑。先吐个槽：题主是不是觉得中国地质面貌就是高中地理书那些“地势西高东低分为三级台阶”，随便拿个地形图出来划几个区就能说清楚了？就…
 
-首先声明并不算魅友，只是入手MX5的普通用户而已！在我看来， 魅族如此大手笔的邀请函，展现出来的是对新产品的自信;通过邀请函引发吾等普罗大众的关注，是想说明公司由一个小众品牌转向大众产品的肯定！看了几个路人黑，1.有说是为了炒作。我只想说人家花…
-
-<a href="/question/35513719/answer/63124282" class="toggle-expand">显示全部</a>
+<a href="/question/34674927/answer/59643522" class="toggle-expand">显示全部</a>
 
 </div>
 
@@ -1322,10 +1204,10 @@ data-source="https://pic4.zhimg.com/2048b8257_s.jpg" />
 <div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
 <div class="zm-meta-panel">
 
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6412153"><i class="z-icon-follow"></i>关注问题</a>
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6076451"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>152 条评论</a>
+<i class="z-icon-comment"></i>119 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -1361,34 +1243,39 @@ data-source="https://pic4.zhimg.com/2048b8257_s.jpg" />
 </div>
 </div>
 
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442405133" data-type="a" >
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442394255" data-type="a" >
 <span class="zm-profile-setion-time zg-gray zg-right">4 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
 
-<a class="question_link" target="_blank" href="/question/35513719/answer/63402887">如何评价魅族 9 月 23 号 Pro 新品发布会的邀请函设计？</a>
+<a class="question_link" target="_blank" href="/question/35626529/answer/63899868">如何看待新华社设立的智库所发的『别让李嘉诚跑了』？</a>
 </div>
 <div tabindex="-1" class="zm-item-answer "
-data-aid="20775414"
-data-atoken="63402887"
+data-aid="20974861"
+data-atoken="63899868"
 data-collapsed="0"
-data-created="1442069844"
+data-created="1442394255"
 data-deleted="0"
 data-isowner="0"
 data-helpful="1"
-data-copyable="1"
+data-copyable="0"
 >
-<a class="zg-anchor-hidden" name="answer-20775414"></a>
+<a class="zg-anchor-hidden" name="answer-20974861"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="37">37</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1639">1639</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">37</span>
+<span class="count">1639</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1403,26 +1290,26 @@ data-copyable="1"
 <h3 class="zm-item-answer-author-wrap">
 
 
-<a data-tip="p$t$lin-mu-bai-34"
+<a data-tip="p$t$zhang-jia-wei"
 class="zm-item-link-avatar"
-href="/people/lin-mu-bai-34">
-<img src="https://pic4.zhimg.com/46a66c93c0cdeda9c7c727d1603951d7_s.jpg"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg"
 class="zm-list-avatar"
-data-source="https://pic4.zhimg.com/46a66c93c0cdeda9c7c727d1603951d7_s.jpg" />
+data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 </a>
 
 
 
-<a data-tip="p$t$lin-mu-bai-34" href="/people/lin-mu-bai-34">林慕白</a>，<strong title="江湖夜雨不熄灯(公众号：jhyybxd)" class="zu-question-my-bio">江湖夜雨不熄灯(公众号：jhyybxd)</strong>
+<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
 
 </h3>
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="37">
+<div class="zm-item-vote-info " data-votecount="1639">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$miriouelao-zhou" href="http://www.zhihu.com/people/miriouelao-zhou" class="zg-link" title="mirioue老周">mirioue老周</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$huang-hao-ran-19" href="http://www.zhihu.com/people/huang-hao-ran-19" class="zg-link" title="黄浩然">黄浩然</a></span>
+<span class="user-block"><a data-tip="p$t$zou-shan-qi-yi" href="http://www.zhihu.com/people/zou-shan-qi-yi" class="zg-link" title="驺山棋一">驺山棋一</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$tu-ya-62" href="http://www.zhihu.com/people/tu-ya-62" class="zg-link" title="涂鸦">涂鸦</a></span>
 </span>
 
 
@@ -1431,22 +1318,22 @@ data-source="https://pic4.zhimg.com/46a66c93c0cdeda9c7c727d1603951d7_s.jpg" />
 
 </div>
 </div>
-<div class="zm-item-rich-text" data-resourceid="6412153" data-action="/answer/content">
+<div class="zm-item-rich-text" data-resourceid="6457295" data-action="/answer/content">
 
 <textarea class="content hidden">
-我觉得魅族这样设计，绝对不是简单粗暴地“变相行贿”或是“主打摄像”功能，绝对是经过一番考虑，不管他们目的是“一石二鸟”还是“一箭三雕”，最起码达到了下面几个效果：&lt;br&gt;&lt;br&gt;1、制造话题，巧妙营销&lt;br&gt;送上Gopro，让接到邀请函的人，特别是记者朋友们自动发微博、发文章，来介绍这一个不常见的邀请函。为媒体提供“新闻点”和“炒作点”，这比传统请公关公司发PR通稿、给红包效果好，多么物美价廉的一次营销。&lt;br&gt;从现在的效果来看，魅族已经成功了。&lt;br&gt;&lt;br&gt;2、预示功能，引发好奇&lt;br&gt;Gopro到底代表了什么，是go pro（继续向pro进发）的意思吗？暗示MX4 Pro 之后，MX 5 会&quot;PRO&quot;到底？是新手机会像Gopro一样“防水防震”？&lt;br&gt;&lt;br&gt;3、投其所好，远交近攻&lt;br&gt;既然要给媒体朋友们点“甜头”，当然要新奇、酷一点的玩意儿了（科技报道同行也是gadget控吧）。送东西可以，同业竞争对手的产品断然不行，既跨界又能捎带脚给自己制造话题的Gopro无疑是理想选择。
+谢邀。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;怎么告诉他们，李嘉诚已经逃走了，你们也快些走呢？&lt;/b&gt;&lt;br&gt;&lt;br&gt;罗先生在房间里来回踱步，痛苦地抓着头发。&lt;br&gt;&lt;br&gt;他想发出讯息，他想直抒胸臆，李嘉诚已经走了，但还有许多人来不及逃走，而大门即将关上，他想通知这些同志。可是他知道：&lt;br&gt;他写出来的字，发出来的声音，都会被过滤。他微弱的呼声，无法传向世界。&lt;br&gt;天顶有一对巨大的眼睛，阅读着他的每一句话。&lt;br&gt;&lt;br&gt;如何告诉世界，资本的千斤闸正在落下、李嘉诚们正在争分夺秒破笼而出呢？如何用最委婉的方式，将残忍的现状告诉他们：合伙人已经要关门放狗、掀翻牌桌了呢？看着窗外的小路，罗先生一个恍惚，想到了一个小说。博尔赫斯的《小径分岔的花园》：&lt;br&gt;一个间谍，为了将自己掌握的一个城市名字通知自己人，于是去杀了一个名字与该城市重名的学者，好让自己与那学者的名字一起上报纸……&lt;b&gt;是的，需要闹一点动静，将消息传出去&lt;/b&gt;。&lt;br&gt;可是，怎么办呢？&lt;br&gt;&lt;br&gt;&lt;br&gt;罗先生看了看写字台上的镜子。疲惫，苍老，嘴角下垂。他下意识地笑了笑。并不显得愉悦，只有滑稽。&lt;br&gt;这就是我们这行人的宿命。他想。戴上不同的面具，说些我们自己并不十足相信的话，然后，哈哈，哈哈……&lt;br&gt;恍惚之间，罗先生抓住了这个词。滑稽，嗯，滑稽……滑稽？上海滑稽戏，滑稽列传……滑稽列传？&lt;br&gt;《史记-滑稽列传》？！&lt;br&gt;&lt;br&gt;罗先生想起，《史记-滑稽列传》里有一个故事。汉武帝有一位乳娘犯了事，被判流放。汉武帝身边的郭舍人知道很难劝，于是用了这么个法子。&lt;br&gt;乳娘去告辞汉武帝时，依依不舍；郭舍人骂道：&lt;br&gt;“老太婆，还不快滚！陛下已经长大了，哪里还需要你的乳汁过日子！看什么看！”&lt;br&gt;于是汉武帝忽然想起了乳娘的旧恩，心软了，赦免了她。&lt;br&gt;&lt;br&gt;&lt;b&gt;用反话来骂人，借此传递信息，如何？&lt;/b&gt;&lt;br&gt;罗先生坐下来，开始打字：&lt;br&gt;&lt;br&gt;&lt;br&gt;……&lt;br&gt;&lt;p&gt;由此，&lt;b&gt;地产的财富，并非完全来自彻底的市场经济&lt;/b&gt;。恐怕不宜想走就走。&lt;/p&gt;&lt;p&gt;别让李嘉诚跑了。&lt;/p&gt;&lt;p&gt;敏感如李嘉诚，绝不会感觉不到。在中国，经济周期与政治周期密切相关，由此，一撤资，二撤资，三撤资，其商业帝国，在大陆欲上演金蝉脱壳之法。&lt;/p&gt;&lt;p&gt;……&lt;/p&gt;&lt;p&gt;就官方感受而言，李嘉诚&lt;b&gt;不顾念&lt;/b&gt;官方此前对其在基础设施，港口、地产等领域的大力扶持，&lt;b&gt;在中国经济遭遇危机的敏感时刻，不停抛售&lt;/b&gt;，造成悲观情绪在部分群体中蔓延，&lt;b&gt;其道义的高点，已经失守&lt;/b&gt;。低买高卖，确实是市场经济，但是，&lt;b&gt;地产、港口等产业，恰恰是中国最不市场化的产业，没有权力的扶助，哪里来的机会？合作时借权力，卖出时说市场，似乎双重标准，让人难以淡定。&lt;/b&gt;&lt;/p&gt;&lt;br&gt;……&lt;br&gt;……&lt;br&gt;&lt;br&gt;&lt;br&gt;文章发表之后，罗先生悠悠点了支烟，抬起头看看夜空。装疯卖傻，用反话直抒胸臆是挺过瘾的，虽然还是不够爽快，但也够了。天穹上的眼睛是否在看着我呢？他的目光是否真能穿透脑壳，照进我的大脑，知道我的真意么？&lt;br&gt;罗先生仰天哈哈笑了两声，又看了眼镜子：镜子里的脸，自己都认不出来，但好歹，可以用某种方式，说自己想说的话了。&lt;br&gt;给自己找一副滑稽面具戴着，还挺方便的。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;以上当然是纯属虚构。&lt;/u&gt;
 
 
 <span class="answer-date-link-wrap">
-<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-12" target="_blank" href="/question/35513719/answer/63402887">编辑于 2015-09-12</a>
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-16" target="_blank" href="/question/35626529/answer/63899868">编辑于 2015-09-16</a>
 </span>
 
 </textarea>
 <div class="zh-summary summary clearfix">
 
-我觉得魅族这样设计，绝对不是简单粗暴地“变相行贿”或是“主打摄像”功能，绝对是经过一番考虑，不管他们目的是“一石二鸟”还是“一箭三雕”，最起码达到了下面几个效果：1、制造话题，巧妙营销送上Gopro，让接到邀请函的人，特别是记者朋友们自动发微博…
+谢邀。<b>怎么告诉他们，李嘉诚已经逃走了，你们也快些走呢？</b>罗先生在房间里来回踱步，痛苦地抓着头发。他想发出讯息，他想直抒胸臆，李嘉诚已经走了，但还有许多人来不及逃走，而大门即将关上，他想通知这些同志。可是他知道：他写出来的字，发出来的声音，都…
 
-<a href="/question/35513719/answer/63402887" class="toggle-expand">显示全部</a>
+<a href="/question/35626529/answer/63899868" class="toggle-expand">显示全部</a>
 
 </div>
 
@@ -1454,10 +1341,10 @@ data-source="https://pic4.zhimg.com/46a66c93c0cdeda9c7c727d1603951d7_s.jpg" />
 <div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
 <div class="zm-meta-panel">
 
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6412153"><i class="z-icon-follow"></i>关注问题</a>
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6457295"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>10 条评论</a>
+<i class="z-icon-comment"></i>118 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -1483,7 +1370,7 @@ data-source="https://pic4.zhimg.com/46a66c93c0cdeda9c7c727d1603951d7_s.jpg" />
 
 <span class="zg-bull">&bull;</span>
 
-<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic2.zhimg.com/424c70919_m.jpg"> 禁止转载 </a>
 
 
 <a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
@@ -1493,34 +1380,34 @@ data-source="https://pic4.zhimg.com/46a66c93c0cdeda9c7c727d1603951d7_s.jpg" />
 </div>
 </div>
 
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442215025" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">6 天前</span>
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442327821" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">5 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+<a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 赞同了回答
 
-<a class="question_link" target="_blank" href="/question/31871242/answer/63589079">为什么当女朋友或女性朋友向我抱怨一件事儿时，我却总觉得错在她身上？</a>
+<a class="question_link" target="_blank" href="/question/35023577/answer/63724829">在饭桌上遇到不友善的长辈如何优雅地「打脸」？</a>
 </div>
 <div tabindex="-1" class="zm-item-answer "
-data-aid="20850039"
-data-atoken="63589079"
+data-aid="20904629"
+data-atoken="63724829"
 data-collapsed="0"
-data-created="1442211510"
+data-created="1442294490"
 data-deleted="0"
 data-isowner="0"
 data-helpful="1"
-data-copyable="1"
+data-copyable="0"
 >
-<a class="zg-anchor-hidden" name="answer-20850039"></a>
+<a class="zg-anchor-hidden" name="answer-20904629"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2544">2544</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="6618">6618</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">2544</span>
+<span class="count">6618</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1535,26 +1422,26 @@ data-copyable="1"
 <h3 class="zm-item-answer-author-wrap">
 
 
-<a data-tip="p$t$527hao-xiao-guai-shou"
+<a data-tip="p$t$e-mo-de-nai-ba"
 class="zm-item-link-avatar"
-href="/people/527hao-xiao-guai-shou">
-<img src="https://pic2.zhimg.com/31fe4a0508c0d267928f955b31733f99_s.jpg"
+href="/people/e-mo-de-nai-ba">
+<img src="https://pic4.zhimg.com/a71e0ad8f6fbe604a9c60ea4aad7ff1f_s.png"
 class="zm-list-avatar"
-data-source="https://pic2.zhimg.com/31fe4a0508c0d267928f955b31733f99_s.jpg" />
+data-source="https://pic4.zhimg.com/a71e0ad8f6fbe604a9c60ea4aad7ff1f_s.png" />
 </a>
 
 
 
-<a data-tip="p$t$527hao-xiao-guai-shou" href="/people/527hao-xiao-guai-shou">527号小怪兽</a>，<strong title="微信公众号：sylvia_527。" class="zu-question-my-bio">微信公众号：sylvia_527。</strong>
+<a data-tip="p$t$e-mo-de-nai-ba" href="/people/e-mo-de-nai-ba">恶魔的奶爸Sam</a>，<strong title="知乎淮扬老乡会89197310，外地人不收" class="zu-question-my-bio">知乎淮扬老乡会89197310，外地人不收</strong>
 
 </h3>
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="2544">
+<div class="zm-item-vote-info " data-votecount="6618">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$yun-ji-21" href="http://www.zhihu.com/people/yun-ji-21" class="zg-link" title="允洁">允洁</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$zhou-xing-xing-18-48" href="http://www.zhihu.com/people/zhou-xing-xing-18-48" class="zg-link" title="周星星">周星星</a></span>
+<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$liu-zhi-hu-1-13" href="http://www.zhihu.com/people/liu-zhi-hu-1-13" class="zg-link" title="刘知乎">刘知乎</a>、</span><span class="user-block"><a data-tip="p$t$bu-jie-82-72" href="http://www.zhihu.com/people/bu-jie-82-72" class="zg-link" title="扑街">扑街</a></span>
 </span>
 
 
@@ -1563,22 +1450,22 @@ data-source="https://pic2.zhimg.com/31fe4a0508c0d267928f955b31733f99_s.jpg" />
 
 </div>
 </div>
-<div class="zm-item-rich-text" data-resourceid="4947749" data-action="/answer/content">
+<div class="zm-item-rich-text" data-resourceid="6215992" data-action="/answer/content">
 
 <textarea class="content hidden">
-别争了，根本与性别无关，这个问题几十年前心理学家就有了答案。&lt;br&gt;&lt;br&gt;&lt;br&gt;为什么当别人抱怨一件事情的时候，我们总觉得问题出在他们自身？&lt;br&gt;&lt;br&gt;然而，为什么当我们自己遇到不如意的时候，我们却觉得错的是他人或是环境？&lt;br&gt;&lt;br&gt;&lt;br&gt;这种现象叫做&lt;b&gt;基本归因谬论（&lt;/b&gt;&lt;b&gt;fundamental attribution error），它普遍地存在于大多数人身上。&lt;/b&gt;我们倾向于用内因解释他人的行为，而忽略环境的影响。但是当我们尝试理解自身行为的时候，外因变得格外明显，因此我们会过分强调环境的影响而忽视自身的因素——这就是所谓的&lt;b&gt;行动者-观察者偏误（actor-observer bias）&lt;/b&gt;。&lt;br&gt;&lt;br&gt;Jones and Harris在1967年做了一个实验。他们找了一群学生，让学生们读一篇反对或是支持菲德尔卡斯特罗（古巴前领导人）的文章，然后评价文章作者对卡斯特罗的态度。第一组学生被告知文章的作者是自由选择文章的立场，这组学生很自然地认为支持卡斯特罗的文章作者对卡斯特罗的态度更正面。第二组学生被告知&lt;b&gt;文章作者的立场是由抛硬币决定的&lt;/b&gt;，换而言之，文章的立场与作者本人的态度无关。遵循逻辑来说，&lt;b&gt;这第二组的学生应该无法判断作者的态度&lt;/b&gt;，可是实验结果却显示，学生们&lt;b&gt;依旧认为由抛硬币决定撰写支持卡斯特罗立场的文章作者对卡斯特罗抱有更加正面的态度&lt;/b&gt;。&lt;br&gt;&lt;br&gt;&lt;br&gt;为什么会有这种现象？并不是因为我们都是自私爱推脱责任的坏人，只是&lt;b&gt;我们的注意力有局限&lt;/b&gt;罢了。当我们观察和分析他人的时候，我们的注意力集中在那个人身上，很容易会忽视周围的环境。而当我们自己做一件事的时候，一定会有更多地注意力放在周围的环境上。因此我们在给行为归因的时候，就倾向于选择我们注意力关注到的一方。&lt;br&gt;&lt;br&gt;另外，&lt;b&gt;我们在对待他人的事情上，是相当懒惰的&lt;/b&gt;。由于我们的认知系统会自动地用内因解释他人的行为，纵使我们意识到了他人行为受到环境的限制，我们的认知系统还需要清醒地商榷调整之前所做的解释。尤其是在认知系统非常繁忙的情况下，我们没有足够的认知资源去为他人的行为辩解。&lt;br&gt;&lt;br&gt;最后一个原因，或许有些人听说过——&lt;b&gt;正义世界现象（Just-world Phenomenon）&lt;/b&gt;。&lt;b&gt;我们更愿意相信自己生存的世界是正义的、是我们能够掌控的，只要我们努力就能得到我们想要的&lt;/b&gt;。如果我们把他人的失败归因于其自身，那么这个无法改变也无法控制的世界在我们眼中便还是好的、公正的。相信世界是好的，失败都是因为他人自己的过错，这样的想法满足了我们内心底的安全感。&lt;br&gt;&lt;br&gt;&lt;br&gt;朋友抱怨的时候，请学会换位思考。即使无法提供帮助，至少不要妄下定论。&lt;br&gt;&lt;br&gt;至于题主强调女性，这件事，确确实实与性别没有关系。&lt;br&gt;&lt;br&gt;----------------------------------------------------------------------------------------&lt;br&gt;我的回答里之所以会提到性别，是因为多数高票答案是从单一性别的角度出发，并且题主的问题描述：“&lt;b&gt;不一定只针对女朋友，在许多情况下有人向我倾诉的时候我却会觉得错的其实是他们自己&lt;/b&gt;。发生这种情况究竟是我自身的自大骄傲所导致的，还是由于我与朋友对待问题的理性和感性程度不同所导致的呢？ 如果我所认为的是正确的，那么我该如何对朋友做出合适的回应呢？&lt;b&gt;大部分情况下是女性朋友&lt;/b&gt;。”&lt;br&gt;&lt;br&gt;说我是为了给女性洗地，政治正确的，这个回答哪里不客观了？全都是可以找到reference的学术论文。&lt;br&gt;&lt;br&gt;如果这篇回答帮助到了你，我很开心，谢谢：）
+诸多答主都不是太明白中国特色社会主义小城镇的生存之道&lt;br&gt;&lt;br&gt;1，当你没有世俗成功力量时，你对长辈强行打脸打不起来，且会给你自己的家庭带来不必要的麻烦&lt;br&gt;&lt;br&gt;中国小城镇其实还是一个群居的部落模式，以姓氏和血缘关系结合起来的利益整体，因为很多人没有办法独自一人面对生活，当生活中出现问题，比如重大疾病，或者灾难，这时候有一整个姓氏家庭帮忙，会容易很多&lt;br&gt;&lt;br&gt;这些是大事，小事也更多，中国式的小城镇和一线城市的运转规则几乎可以说是两个世界，大城市流行的是显规则，只要你按章办事，完全靠你自己，就可以搞定一切问题，小城市可完全不是这样，这里面的道道多了去了，题主还没毕业，自然不懂在非大城市生活亲族家庭对你的重要性——小到医院挂号，你可能都要想着攀一个八竿子打不着的亲戚来解决&lt;br&gt;&lt;br&gt;当然这种人情，攀亲戚的处事手法规则，放在大城市同样玩不转，只能吃瘪，我给我妈去市医院办理体检，我的姑姨非要去攀亲戚找熟人，人家根本不搭理她，我下载个app很轻松就预约好&lt;br&gt;&lt;br&gt;题主你去大城市读书，你对长辈不礼貌，爽了，但是你离开了，你爹妈因为人脉受损导致生活出现困难了，有这么不懂事的娃吗？&lt;br&gt;&lt;br&gt;为什么中国特色社会主义亲戚这么过分，你的父母仍然教育你要懂礼貌尊敬长辈？不是因为传统，说到底还是因为利益，这些亲戚构成了一个小城镇居民基本的人脉关系网络和社会力量，说不定哪天就有用&lt;br&gt;&lt;br&gt;从文革一辈过来的父母，天然的对法律，白纸黑字的规则有着本能的不信任，对外人，所谓的朋友，也非常不信任，能够让他们产生信任的，只能是由血缘关系链接起来的关系网&lt;br&gt;&lt;br&gt;所以题主在家注意闷声发大财，就当给你爹妈省心了，别人说什么你也不用生气，唯唯诺诺就行，在家里怂点不丢人，去大城市广阔天地，在事业岗位上意气风发指点江山才爽，在饭桌上和一群无知莽夫村妇争高下，真是没出息，简直丢人&lt;br&gt;&lt;br&gt;2，当你获得了世俗成功后，也不要顶撞反驳长辈，记住闷声发大财，这对你有好处&lt;br&gt;&lt;br&gt;首先，不管你获得多大的成功，你作为一个个体，仍然没有足够力量和落后的小城镇对抗成功&lt;br&gt;&lt;br&gt;刘强东这么牛逼，也没办法改善宿迁的经济和面貌，甚至带领他们村的人共同富裕也做不到，苏北农村一片死寂，留守儿童那么多，青壮年都在外地打工处境悲惨，他根本改善不了&lt;br&gt;&lt;br&gt;其次，在家里太高调，衣锦还乡不是好事，会给你带来无穷无尽的烦恼&lt;br&gt;&lt;br&gt;草样年华的作者孙睿说过，不要娶偏远地区的漂亮姑娘，因为娶了她就等于娶了七大姑八大姨家里一堆事烦的不得了，小地方的人取得成功后同理，在家族长辈面前分享吹嘘自己的成功，会招来很多麻烦&lt;br&gt;&lt;br&gt;他们会向你借钱，甚至可能数目还不小，请问你借还是不借？借了伤你自己感情，不借伤亲戚感情&lt;br&gt;&lt;br&gt;他们会让你给自己没出息的子女安排工作，请问你安排还是不安排？而且大小城市的社会运转规则不一样，很难口头解释的清，你费尽心思安排面试，结果他搞砸了，长辈跑你家训你一通说你不帮忙，请问你怎么办？&lt;br&gt;&lt;br&gt;这些还只是很小的麻烦，更大的麻烦就不说了，这种时候你怎么办？&lt;br&gt;&lt;br&gt;除非你是真心关心想提携家族中人，否则请始终保持超然的半脱离关系&lt;br&gt;&lt;br&gt;而且，每年逢年过节时候，我们不是最讨厌那些在饭桌上唾沫横飞吹嘘的龌龊小市民么？何必成长为一个自己痛恨的人？&lt;br&gt;&lt;br&gt;所以一句话不说是坠吼滴！
 
 
 <span class="answer-date-link-wrap">
-<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-14" target="_blank" href="/question/31871242/answer/63589079">编辑于 2015-09-16</a>
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-15" target="_blank" href="/question/35023577/answer/63724829">编辑于 2015-09-15</a>
 </span>
 
 </textarea>
 <div class="zh-summary summary clearfix">
 
-别争了，根本与性别无关，这个问题几十年前心理学家就有了答案。为什么当别人抱怨一件事情的时候，我们总觉得问题出在他们自身？然而，为什么当我们自己遇到不如意的时候，我们却觉得错的是他人或是环境？这种现象叫做<b>基本归因谬论（</b><b>fundamental attributio…</b>
+诸多答主都不是太明白中国特色社会主义小城镇的生存之道1，当你没有世俗成功力量时，你对长辈强行打脸打不起来，且会给你自己的家庭带来不必要的麻烦中国小城镇其实还是一个群居的部落模式，以姓氏和血缘关系结合起来的利益整体，因为很多人没有办法独自一…
 
-<a href="/question/31871242/answer/63589079" class="toggle-expand">显示全部</a>
+<a href="/question/35023577/answer/63724829" class="toggle-expand">显示全部</a>
 
 </div>
 
@@ -1586,7 +1473,7 @@ data-source="https://pic2.zhimg.com/31fe4a0508c0d267928f955b31733f99_s.jpg" />
 <div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
 <div class="zm-meta-panel">
 
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4947749"><i class="z-icon-follow"></i>关注问题</a>
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6215992"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class=" meta-item toggle-comment">
 <i class="z-icon-comment"></i>166 条评论</a>
@@ -1615,7 +1502,7 @@ data-source="https://pic2.zhimg.com/31fe4a0508c0d267928f955b31733f99_s.jpg" />
 
 <span class="zg-bull">&bull;</span>
 
-<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic4.zhimg.com/a71e0ad8f6fbe604a9c60ea4aad7ff1f_m.png"> 禁止转载 </a>
 
 
 <a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
@@ -1625,34 +1512,109 @@ data-source="https://pic2.zhimg.com/31fe4a0508c0d267928f955b31733f99_s.jpg" />
 </div>
 </div>
 
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442212537" data-type="a" >
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442324953" data-type="p" >
+<span class="zm-profile-setion-time zg-gray zg-right">5 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 在 <a class="column_link" href="http://zhuanlan.zhihu.com/zhangjiawei" data-tip="c$t$zhangjiawei">张佳玮写字的地方</a> 中发表了文章
+
+<a target='_blank' class="post-link" href="http://zhuanlan.zhihu.com/zhangjiawei/20219018">曾经世上最豪富的女人怎么住：她的傲兀，她的任性</a>
+</div>
+<div tabindex="-1" class="zm-item-feed zm-item-post" data-type="p">
+<meta itemprop="post-id" content="268521">
+<meta itemprop="post-url-token" content="20219018">
+<a class="zg-anchor-hidden" name="post-20219018"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="649">649</a>
+</div>
+
+
+<div class="post-head">
+<div class="author-info">
+
+<a href="/people/zhang-jia-wei" data-tip="p$t$zhang-jia-wei" class="name">张佳玮</a>，公众号：张佳玮写字的地方
+
+</div>
+<div class="zm-item-vote-info " data-votecount="649">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$Freelikecloud" href="http://www.zhihu.com/people/Freelikecloud" class="zg-link" title="仙云悠明">仙云悠明</a>、</span><span class="user-block"><a data-tip="p$t$ying-zi-zhi-you-ying-zi" href="http://www.zhihu.com/people/ying-zi-zhi-you-ying-zi" class="zg-link" title="影子君">影子君</a>、</span><span class="user-block"><a data-tip="p$t$zhao-mei-jing" href="http://www.zhihu.com/people/zhao-mei-jing" class="zg-link" title="赵美景">赵美景</a>、</span><span class="user-block"><a data-tip="p$t$a-sao-93" href="http://www.zhihu.com/people/a-sao-93" class="zg-link" title="Fred">Fred</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="entry-body">
+<div class="zm-item-rich-text" data-resourceid="268521">
+<div class="post-content">
+<textarea class="content hidden">&lt;img src=&quot;http://pic3.zhimg.com/c284f983276e0ca5072c2d95b113a61e_b.jpg&quot; class=&quot;content_image&quot;&gt;夏洛特-贝阿特丽丝-罗斯柴尔德1864年生在巴黎。她姓罗斯柴尔德，对，就是那个罗斯柴尔德。&lt;br&gt;这个着金币与债券光辉的姓氏，令我们不难想象她少年时的生活。19岁那年她嫁给了34岁的俄罗斯银行家，敖德萨出身的莫里斯-艾弗鲁西。连为她歌功颂德的人们都承认，莫里斯长得不好看，家门也不够宏伟。这个婚姻的起点，据说是贝阿特丽丝爱上了莫里斯，但另一种说法是：&lt;br&gt;伟大的罗斯柴尔德家族，需要在俄罗斯帝国投资界里，有个自己人。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://pic3.zhimg.com/c66b2d4563baa9de35f6b608f8937a22_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic3.zhimg.com/c66b2d4563baa9de35f6b608f8937a22_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;婚姻持续二十一年后，贝阿特丽丝与莫里斯分手。他们的分手仪式在巴黎举行，恢弘盛大到有荒诞意味。原因无人知晓：感情不合、年龄差距巨大、莫里斯马厩的臭味，还是他赌马输掉的1200万法郎（购买力折到今日的3000万欧元）？无所谓了。贝阿特丽丝在40岁时成为了一个豪富、自由而不再年轻的女人。&lt;br&gt;&lt;br&gt;&lt;br&gt;38岁时，贝阿特丽丝拜访了丈夫的表亲特奥多尔-雷纳克先生，看见了他的新工程：在尼斯的蔚蓝海岸里维拉——纳博科夫在《洛丽塔》里，让12岁的男主角在这里见到了初恋——面对地中海，建一个希腊式别墅。受此灵感启发，贝阿特丽丝开始建一个属于她的别苑：在距离尼斯老城20分钟的海岬上，三面环海的所在，建属于她的罗斯柴尔德别苑。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://pic3.zhimg.com/c284f983276e0ca5072c2d95b113a61e_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic3.zhimg.com/c284f983276e0ca5072c2d95b113a61e_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;贝阿特丽丝的品味很是微妙。罗斯柴尔德别苑的前花园，布着罗马式小天使与罗马拱柱，然而门楣的细致雕工却有西班牙味道；大厅布成文艺复兴时的威尼斯姿态，大理石柱子的原料从意大利维罗纳运来，为了承重而特意加入的几根钢铁柱子，另加灰泥，装扮成大理石模样。面海的左厅里，放着18世纪洛可可风的家具，家具直线腿脚，另有专门打桥牌用的桌子；朝海的地方，落地窗挹取阳光与海景，另加一个希腊式雕塑；地毯则是路易十五时期的，当时天下只有四块，三块毁在了大革命时期：要知道，挂毯艺术在法国属于文艺复兴前文明了，是给怕冷的城堡领主用的。这条地毯的陈放，多少体现出贝阿特丽丝的意思了：&lt;br&gt;&lt;br&gt;不管是否有用，放着再说。&lt;br&gt;&lt;img src=&quot;http://pic1.zhimg.com/de4e77c8cd231483028a99af7e3e8cc0_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic1.zhimg.com/de4e77c8cd231483028a99af7e3e8cc0_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;门厅是16世纪威尼斯风，各路小房间大体是18世纪洛可可到新古典主义法国风。清新式奢华，也容易看出主人是女性，是个有教养的古典范儿女性，而非路易十四那种纯男性的、土豪金的、卷曲粗壮的巴洛克风骨。&lt;br&gt;但房子本身，还不是全部。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://pic3.zhimg.com/05537305c7110ac55d540ddc25a74a8a_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic3.zhimg.com/05537305c7110ac55d540ddc25a74a8a_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;威尼斯大宗匠提耶波罗的穹顶画，法国宫廷大师布歇的小作品；各路雕塑名家的作品混合，安托瓦内特王后用过的各类饰品。中国漆器与屏风。万森堡皇家陶瓷厂出来的陶瓷精品收藏。房子是奢华，有钱尽可以造；藏品却是自内而外透着骄矜富贵：许多作品的收集，依赖的不只是眼光和财力，还有人脉——并不是谁走到威尼斯去，就能拿两幅提耶波罗回来的。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://pic3.zhimg.com/0be47d9790b7aae0df1abcc6ecc7a4de_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic3.zhimg.com/0be47d9790b7aae0df1abcc6ecc7a4de_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;屋外有花园。在三面环海的山上造一个小型凡尔赛，很容易见出贝阿特丽丝的野心。在理当是小特里亚农的地方，贝阿特丽丝建了个中国和日本式花园，建了日本枯山水。这意思是，她是个国际范儿的人，同时，还是很古典——众所周知，中国风在法国最受欢迎的，还是18世纪。&lt;br&gt;是的，大概她就是希望给人这个印象：她是一个20世纪的安托瓦内特王后吧。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://pic4.zhimg.com/c652f46acc85db2f73129f4b7cdb51bf_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic4.zhimg.com/c652f46acc85db2f73129f4b7cdb51bf_r.jpg&quot;&gt;&lt;img src=&quot;http://pic3.zhimg.com/a7da7c0ee941b21c52a3a274166e0c4a_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic3.zhimg.com/a7da7c0ee941b21c52a3a274166e0c4a_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;最让普通人气不忿的，大概是她有一个单独的宠物房间，有两个精工雕刻的椅子，专门给她的爱犬坐；有一个桌子，专供她喜欢的猴子。如果稍微想一想“我一个21世纪的人，全部家具还不如一条20世纪的狗坐的椅子值钱”，很容易让人气结——但那是另一个故事了。&lt;br&gt;&lt;img src=&quot;http://pic4.zhimg.com/5ce985136c125b5c926f68bc4046ea53_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic4.zhimg.com/5ce985136c125b5c926f68bc4046ea53_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;贝阿特丽丝曾经给她的狗们办过一次婚礼，其方式，一如她与她那位不成器的丈夫分手。宴会奢华，高朋满座，冠盖如云，为她的两条小狗祝福。这是她的作风。&lt;br&gt;她好赌、骑马、航海，直到年近七旬还亲自开汽车。她的许多爱好很男性化，任性到动人。她建起了这个宫殿，然后每逢冬天便来。她举行舞会，炫耀财富和品位，在三面环海的南方自己扮演安托瓦内特玩儿，直到六十九岁逝世。&lt;br&gt;&lt;br&gt;&lt;br&gt;诗人安德烈-福基耶曾如是写道：&lt;br&gt;“我记得莫里斯-艾弗鲁西夫人的脸——也就是贝阿特丽丝-罗斯柴尔德。一张一尘不染的清秀面孔，被银发包围。她总是穿着优雅的蓝色，搭配同色系的丝带，小狗趴在她的脚下。出生在一个无限豪富的家庭中，并没给她带来很奢靡的派头，除了她举行那些华美的派对时。我记得尤其是，一个夏天的夜晚，我们有幸看到，在她的花园，她的豪宅对面挹取了大海的景色，沐浴在月光下，安娜-帕夫洛娃（传奇芭蕾舞演员）和着肖邦的舞曲起舞。”&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://pic2.zhimg.com/2bee8250f9ae5105201b4d6ab5a04dbd_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic2.zhimg.com/2bee8250f9ae5105201b4d6ab5a04dbd_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;那是所谓“美好时代”Belle epoque，是财富与品位最后一次珠联璧合，然后便是一战和二战，便是接踵而来的一切。就这样吧，美丽的贝阿特丽丝-罗斯柴尔德，以及她的财富、她的骄傲、她的品位与任性——至今还在远远俯瞰着大海，独自傲兀地立着。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://pic1.zhimg.com/02d09bddfd48781f1efa298576583764_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic1.zhimg.com/02d09bddfd48781f1efa298576583764_r.jpg&quot;&gt;&lt;img src=&quot;http://pic3.zhimg.com/ef8bf48a5f921e73395db5f2fb4c96d6_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic3.zhimg.com/ef8bf48a5f921e73395db5f2fb4c96d6_r.jpg&quot;&gt;&lt;img src=&quot;http://pic4.zhimg.com/1228b794c0cd3e06a6c3ca8643780fe3_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic4.zhimg.com/1228b794c0cd3e06a6c3ca8643780fe3_r.jpg&quot;&gt;&lt;img src=&quot;http://pic1.zhimg.com/6a555101f71d7afc69629680c1ddbb10_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic1.zhimg.com/6a555101f71d7afc69629680c1ddbb10_r.jpg&quot;&gt;&lt;img src=&quot;http://pic3.zhimg.com/275a0a9fe62c3f91c143985211911d72_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic3.zhimg.com/275a0a9fe62c3f91c143985211911d72_r.jpg&quot;&gt;&lt;img src=&quot;http://pic1.zhimg.com/1c0b9c4be23508376fee57b1510f3c40_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic1.zhimg.com/1c0b9c4be23508376fee57b1510f3c40_r.jpg&quot;&gt;&lt;img src=&quot;http://pic3.zhimg.com/57802bf6ba99e805b6d13446dbc0488e_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic3.zhimg.com/57802bf6ba99e805b6d13446dbc0488e_r.jpg&quot;&gt;&lt;img src=&quot;http://pic3.zhimg.com/30a62d080e35cf72e9e0f5ffd278b172_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic3.zhimg.com/30a62d080e35cf72e9e0f5ffd278b172_r.jpg&quot;&gt;&lt;img src=&quot;http://pic3.zhimg.com/532ca7faf3d034f4a4730d79f9dd3e62_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic3.zhimg.com/532ca7faf3d034f4a4730d79f9dd3e62_r.jpg&quot;&gt;&lt;img src=&quot;http://pic4.zhimg.com/e3616ff5ab8d46feab4dfbc6d4445037_b.jpg&quot; data-rawwidth=&quot;600&quot; data-rawheight=&quot;450&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;http://pic4.zhimg.com/e3616ff5ab8d46feab4dfbc6d4445037_r.jpg&quot;&gt;&lt;img src=&quot;http://pic3.zhimg.com/a7da7c0ee941b21c52a3a274166e0c4a_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic3.zhimg.com/a7da7c0ee941b21c52a3a274166e0c4a_r.jpg&quot;&gt;&lt;img src=&quot;http://pic2.zhimg.com/e36f2b8bd939a6530168bf600c669b89_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic2.zhimg.com/e36f2b8bd939a6530168bf600c669b89_r.jpg&quot;&gt;&lt;img src=&quot;http://pic1.zhimg.com/b8bb7903d2d3169a03132c3bf7686360_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic1.zhimg.com/b8bb7903d2d3169a03132c3bf7686360_r.jpg&quot;&gt;&lt;img src=&quot;http://pic4.zhimg.com/a1a686ac52915827a20eb84c80266627_b.jpg&quot; data-rawwidth=&quot;450&quot; data-rawheight=&quot;600&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;450&quot; data-original=&quot;http://pic4.zhimg.com/a1a686ac52915827a20eb84c80266627_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;她终生没有孩子，不是因为不想有，而是她的丈夫传染了她某些糟糕的病症，所以他们的婚姻，实在糟糕得一无是处。在她逝世不久，对她的人生，有两种截然不同的说法。一种想法非常通俗，甚至带点儿惋惜：贝阿特丽丝毕竟是个女人，所以她生命后期的潇洒任性，是因为婚姻生活太糟糕了，需要一点弥补。&lt;br&gt;&lt;br&gt;但我个人推崇另一种说法。她的朋友们的笔记和书信，大多在陈述这么个观点：她就是天生任性，她就是一个独立自主的女王，她并不需要一段婚姻来成就她。只是在她婚姻的那段时间——19岁到40岁——她并不自由，没法展现自己的本色而已。&lt;br&gt;&lt;br&gt;————————————&lt;br&gt;照片是2015年7月。</textarea>
+<div class="zh-summary summary clearfix">
+<img src="http://pic3.zhimg.com/c284f983276e0ca5072c2d95b113a61e_xld.jpg" class="content_image inline-img">夏洛特-贝阿特丽丝-罗斯柴尔德1864年生在巴黎。她姓罗斯柴尔德，对，就是那个罗斯柴尔德。这个着金币与债券光辉的姓氏，令我们不难想象她少年时的生活。19岁那年她嫁给了34岁的俄罗斯银行家，敖德萨出身的莫里斯-艾弗鲁西。连为她歌功颂德的人们都承认，莫…
+
+<a href="http://zhuanlan.zhihu.com/zhangjiawei/20219018" class="toggle-expand">显示全部</a>
+
+</div>
+</div>
+</div>
+</div>
+<div class="zm-item-meta clearfix">
+<div class="zm-meta-panel">
+
+
+<a data-follow="c:link" class="zg-follow meta-item" href="#" id="cl-154"><i class="z-icon-follow"></i>关注专栏</a>
+
+<a href="#" name="toggle-comment" class="meta-item toggle-comment">
+<i class="z-icon-comment"></i>53 条评论</a>
+<a href="#" class="meta-item zu-autohide" name="share"><i class="z-icon-share"></i>分享</a>
+<span class="zg-bull zu-autohide">•</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442298056" data-type="a" >
 <span class="zm-profile-setion-time zg-gray zg-right">6 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$linan" href="http://www.zhihu.com/people/linan" class="zg-link" title="李楠">李楠</a> 赞同了回答
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
 
-<a class="question_link" target="_blank" href="/question/20728438/answer/63581503">为什么美国学术界和文艺界都这么左？</a>
+<a class="question_link" target="_blank" href="/question/35615289/answer/63733035">为什么猪八戒西天取经走了那么多路、吃素也没减肥？</a>
 </div>
 <div tabindex="-1" class="zm-item-answer "
-data-aid="20847016"
-data-atoken="63581503"
+data-aid="20907952"
+data-atoken="63733035"
 data-collapsed="0"
-data-created="1442207858"
+data-created="1442298056"
 data-deleted="0"
 data-isowner="0"
 data-helpful="1"
 data-copyable="0"
 >
-<a class="zg-anchor-hidden" name="answer-20847016"></a>
+<a class="zg-anchor-hidden" name="answer-20907952"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="279">279</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2605">2605</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">279</span>
+<span class="count">2605</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1667,26 +1629,26 @@ data-copyable="0"
 <h3 class="zm-item-answer-author-wrap">
 
 
-<a data-tip="p$t$feifeimao"
+<a data-tip="p$t$zhang-jia-wei"
 class="zm-item-link-avatar"
-href="/people/feifeimao">
-<img src="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg"
 class="zm-list-avatar"
-data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
+data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 </a>
 
 
 
-<a data-tip="p$t$feifeimao" href="/people/feifeimao">肥肥猫</a>，<strong title="懂事长" class="zu-question-my-bio">懂事长</strong>
+<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
 
 </h3>
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="279">
+<div class="zm-item-vote-info " data-votecount="2605">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$fang-zhi-3-97" href="http://www.zhihu.com/people/fang-zhi-3-97" class="zg-link" title="方之">方之</a>、</span><span class="user-block"><a data-tip="p$t$liu-da-bao-54" href="http://www.zhihu.com/people/liu-da-bao-54" class="zg-link" title="刘大宝">刘大宝</a>、</span><span class="user-block"><a data-tip="p$t$tony-lee-16" href="http://www.zhihu.com/people/tony-lee-16" class="zg-link" title="John Lee">John Lee</a></span>
+<span class="user-block"><a data-tip="p$t$jiang-rui-72" href="http://www.zhihu.com/people/jiang-rui-72" class="zg-link" title="江瑞">江瑞</a>、</span><span class="user-block"><a data-tip="p$t$zhao-lei-53-40" href="http://www.zhihu.com/people/zhao-lei-53-40" class="zg-link" title="赵磊">赵磊</a>、</span><span class="user-block"><a data-tip="p$t$zhu-yipo" href="http://www.zhihu.com/people/zhu-yipo" class="zg-link" title="朱一朴">朱一朴</a></span>
 </span>
 
 
@@ -1695,22 +1657,22 @@ data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
 
 </div>
 </div>
-<div class="zm-item-rich-text" data-resourceid="471858" data-action="/answer/content">
+<div class="zm-item-rich-text" data-resourceid="6452822" data-action="/answer/content">
 
 <textarea class="content hidden">
-学术界要靠实名反对主流观点才能扬名。&lt;br&gt;&lt;br&gt;艺术界要靠草根群众点赞买单才能获利。&lt;br&gt;&lt;br&gt;这都决定了他们具有天然的左翼倾向。&lt;br&gt;&lt;br&gt;以republican为代表的美国的右势力，其价值观是偏保守主义的，其经济观是鼓励强者愈强的。保守主义主张没事别瞎折腾，可是不折腾如何体现学术界那群时代先锋的价值？&lt;br&gt;&lt;br&gt;鼓励强者的经济观必遭占人口多数的底层反感。有艺术作品为自己出头发声，草根阶级自然大有共鸣。而得民心者得实惠，得屌丝者得天下，这早已是商业铁律。往左站实在是个strictly business choice。&lt;br&gt;&lt;br&gt;我知道这个视角很庸俗，但是我觉得这就是本质。没人放到台面上来讲罢了。
+谢邀。&lt;br&gt;&lt;br&gt;既然提了较真的问题，咱也较真一下好了。&lt;br&gt;&lt;br&gt;其一，&lt;b&gt;猪八戒吃素就不许胖了？&lt;/b&gt;&lt;br&gt;&lt;b&gt;稍微懂点营养学就知道，吃素食并不能保证瘦。&lt;/b&gt;&lt;br&gt;要减肥，控制碳水化合物（淀粉）比控制肉食更有用。&lt;br&gt;看看猪八戒吃的是什么？唐僧在女儿国招亲时：&lt;br&gt;&lt;blockquote&gt;“那八戒那管好歹，放开肚子，只情吃起。也不管甚么玉屑米饭、蒸饼、糖糕、蘑菇、香蕈、笋芽，木耳、黄花菜、石花菜、紫菜、蔓菁、芋头、萝菔、山药、黄精、一骨辣噇了个罄尽，喝了五七杯酒。”&lt;/blockquote&gt;米饭、蒸饼、糖糕、酒、芋头——这些吃多了，&lt;b&gt;大量淀粉摄入&lt;/b&gt;，恐怕不太容易瘦吧？&lt;br&gt;&lt;blockquote&gt;食肠却又甚大：一顿要吃三五斗米饭，早间点心，也得百十个烧饼才彀。&lt;/blockquote&gt;百十个烧饼。&lt;br&gt;&lt;br&gt;其二，猪八戒路走得很长吗？&lt;br&gt;此去西天，十万八千里路。&lt;br&gt;唐僧师徒走了十四年。&lt;b&gt;平均每天走不到十一公里。&lt;/b&gt;&lt;br&gt;这个速度和距离，一般吧？每天跑步的就不提了，正常城市居民每天各类走走，都要小十公里呢。&lt;br&gt;还不算猪八戒们偶尔有腾云驾雾呢。&lt;br&gt;&lt;br&gt;&lt;b&gt;所以无论从饮食还是运动里程，都看不出猪八戒有瘦的必然性。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;然后……谁跟您说猪八戒一直胖也没减肥的？&lt;/b&gt;&lt;br&gt;&lt;b&gt;猪八戒真的胖吗？？？&lt;/b&gt;&lt;br&gt;&lt;br&gt;猪八戒出场：&lt;br&gt;&lt;blockquote&gt;那阵狂风过处，只见半空里来了一个妖精，果然生得丑陋：黑脸短毛，长喙大耳，穿一领青不青、蓝不蓝的梭布直裰，系一条花布手巾。&lt;/blockquote&gt;有一个胖字么？&lt;br&gt;&lt;br&gt;唐僧原话：&lt;br&gt;&lt;blockquote&gt;“他生得长嘴獠牙，刚鬃扇耳，身粗肚大，行路生风”。&lt;/blockquote&gt;最多说猪八戒粗壮肚大，这还是取经早期。&lt;br&gt;&lt;br&gt;《西游记》全书，说到胖，都是说唐僧“白胖和尚”，从来没有一个字直接说猪八戒胖的。&lt;br&gt;除了猪八戒自己说：&lt;br&gt;&lt;blockquote&gt;八戒道：“哥啊，又来捣鬼了！麻绳捆住，松些儿还着水喷，想你这瘦人儿不觉，我这胖的遭瘟哩！不信，你看两膊上，入肉已有二寸，如何脱身？”&lt;/blockquote&gt;然而他这里也是和孙悟空做对比。&lt;br&gt;&lt;br&gt;&lt;br&gt;按猪八戒运动分量不算大，吃得还多，可是除了自己说自己胖，最多被别人说粗壮（而且越后期越少）。&lt;br&gt;凭什么非说他胖呢？&lt;br&gt;&lt;br&gt;我可以明确告诉一句：&lt;br&gt;&lt;b&gt;《西游记》原书里，“胖和尚”这词出现七次。&lt;br&gt;三次是描述猪八戒变成个胖和尚（注意，没有说猪八戒自己胖，只是他变化的姿态）。&lt;br&gt;另外四次，是描述唐僧。&lt;br&gt;&lt;br&gt;原著说唐僧胖的次数比猪八戒都多，凭什么说猪八戒胖啊！！！！！！！！&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;说猪八戒胖的，都是被下面这个蒙蔽了！！！！&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;https://pic4.zhimg.com/88c02004e0d7c7aba32a00fbd32a68ff_b.jpg&quot; data-rawheight=&quot;300&quot; data-rawwidth=&quot;250&quot; class=&quot;content_image&quot; width=&quot;250&quot;&gt;
 
 
 <span class="answer-date-link-wrap">
-<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-14" target="_blank" href="/question/20728438/answer/63581503">编辑于 2015-09-15</a>
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-15" target="_blank" href="/question/35615289/answer/63733035">编辑于 2015-09-15</a>
 </span>
 
 </textarea>
 <div class="zh-summary summary clearfix">
+<img src="https://pic4.zhimg.com/88c02004e0d7c7aba32a00fbd32a68ff_xld.jpg" data-rawheight="300" data-rawwidth="250" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic4.zhimg.com/88c02004e0d7c7aba32a00fbd32a68ff_r.jpg">
+谢邀。既然提了较真的问题，咱也较真一下好了。其一，<b>猪八戒吃素就不许胖了？</b><b>稍微懂点营养学就知道，吃素食并不能保证瘦。</b>要减肥，控制碳水化合物（淀粉）比控制肉食更有用。看看猪八戒吃的是什么？唐僧在女儿国招亲时：“那八戒那管好歹，放开肚子，只情吃…
 
-学术界要靠实名反对主流观点才能扬名。艺术界要靠草根群众点赞买单才能获利。这都决定了他们具有天然的左翼倾向。以republican为代表的美国的右势力，其价值观是偏保守主义的，其经济观是鼓励强者愈强的。保守主义主张没事别瞎折腾，可是不折腾如何体现学术…
-
-<a href="/question/20728438/answer/63581503" class="toggle-expand">显示全部</a>
+<a href="/question/35615289/answer/63733035" class="toggle-expand">显示全部</a>
 
 </div>
 
@@ -1718,10 +1680,10 @@ data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
 <div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
 <div class="zm-meta-panel">
 
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-471858"><i class="z-icon-follow"></i>关注问题</a>
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6452822"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>28 条评论</a>
+<i class="z-icon-comment"></i>263 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -1747,7 +1709,144 @@ data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
 
 <span class="zg-bull">&bull;</span>
 
-<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_m.jpg"> 禁止转载 </a>
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic2.zhimg.com/424c70919_m.jpg"> 禁止转载 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442232635" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">6 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
+
+<a class="question_link" target="_blank" href="/question/35578931/answer/63635675">如何评价摩西马龙？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="20868817"
+data-atoken="63635675"
+data-collapsed="0"
+data-created="1442232635"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="0"
+>
+<a class="zg-anchor-hidden" name="answer-20868817"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="486">486</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">486</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg"
+class="zm-list-avatar"
+data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="486">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$wang-jia-cheng-90-85" href="http://www.zhihu.com/people/wang-jia-cheng-90-85" class="zg-link" title="伊波风">伊波风</a>、</span><span class="user-block"><a data-tip="p$t$yuan-gao-61" href="http://www.zhihu.com/people/yuan-gao-61" class="zg-link" title="猿告">猿告</a>、</span><span class="user-block"><a data-tip="p$t$you-oliver" href="http://www.zhihu.com/people/you-oliver" class="zg-link" title="尤Oliver">尤Oliver</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="6438232" data-action="/answer/content">
+
+<textarea class="content hidden">
+谢邀。&lt;br&gt;&lt;br&gt;&lt;b&gt;摩西-欧仁-马龙。&lt;/b&gt;&lt;br&gt;&lt;b&gt; (1955年3月23日 – 2015年9月13日) &lt;/b&gt;&lt;br&gt;&lt;b&gt;NBA史上最常被人忘怀的巨星。&lt;/b&gt;&lt;br&gt;&lt;b&gt;1979-83的NBA实际最强者。&lt;/b&gt;&lt;br&gt;&lt;b&gt;“篮板永远在那儿”&lt;/b&gt;&lt;br&gt;&lt;br&gt;一些枯燥的数字先放着：&lt;br&gt;NBA史上得分第八（27409分，如果算上ABA得分的话二万九，史上第七）。&lt;br&gt;篮板第五（16212，仅次于张伯伦、拉塞尔、天勾和海耶斯）。&lt;br&gt;罚球数和罚中数都是第二（只少过邮差）。&lt;br&gt;三个常规赛MVP（比他多的人有：天勾、乔丹、拉塞尔、张伯伦、勒布朗，就这些）。&lt;br&gt;一个总决赛MVP，史上第一多的前场篮板，六届篮板王（张伯伦十一届，罗德曼七届）。&lt;br&gt;以及：&lt;br&gt;&lt;b&gt;在1979-1983年，他是NBA实际上的最强球员：&lt;/b&gt;那几年，他、J博士和天钩三足鼎立，但他还是胜出了一筹。这五年里，他拿到三个常规赛MVP、四个篮板王，场均24分15篮板。在那之后，才真正进入伯德VS魔术师时代。&lt;br&gt;但在谈论历史前十乃至前十五时，很多人会下意识的遗忘掉他。就像世界总是只记住J博士的飞翔一样，摩西-马龙给历史留下的印象，也无非就是“这家伙的前场篮板很霸道”。&lt;br&gt;但除此之外，他当然还有许多别的细节。&lt;br&gt;&lt;br&gt;13岁前，他打橄榄球，之后他身高长得太快，举动笨拙，他的哥们大卫-佩尔说“我们都嘲笑他，打他，看他尴尬的样子。”但到18岁，除非他允诺“我不进禁区”，没人肯跟他打街头篮球了：他太凶暴了。&lt;br&gt;1974年，全美有超过250个大学想要摩西。那时他代表彼德斯堡高中，统治了弗吉尼亚州高中篮球界，高四时，场均36分26篮板10封盖。&lt;br&gt;他注册身高208公分，实际上并没有。&lt;b&gt;他的特色是快，匪夷所思的快。&lt;/b&gt;北卡的斯隆教练说他“太快了，只要一动念，就能瞬移到那里。”有人误会他很笨，因为他少言寡语，声音低厚，好像从脚底升到口腔来的。当然事实并非如此。&lt;br&gt;“我不问很多问题，只是观察周围，然后得出结论。”&lt;br&gt;&lt;br&gt;他的母亲要求“别让我的儿子去哈佛。”他自己则认为，“对，大学篮球对我来说太简单了。我想打职业篮球。”&lt;br&gt;&lt;b&gt;他被ABA的犹他星队选中，成为史上首位高中生职业篮球手，是的，第一位高中生。两年后去了NBA。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;刚打上职业篮球时，他得到的评价：“他比后卫还快。”&lt;/b&gt;为犹他星队打的前6场，他抓了65个前场篮板。他漠无表情的面对肘子、膝盖、推搡和捶打，而且对队里的老将们说：“你们可以继续说我是菜鸟，但我绝对是你们见过最他妈强悍的菜鸟。”&lt;br&gt;ABA与NBA合并，1976年他到了休斯顿，一年后这里成为了他的球队。1978-79季，他场均25+18的数据，带领火箭47胜，拿到自己第一个常规赛MVP。&lt;br&gt;实际上，那年他刚24岁。&lt;br&gt;&lt;br&gt;1981年他做出伟大创举：带着40胜42负的休斯顿火箭，搞了个黑六，淘汰卫冕冠军湖人，进了总决赛湖人当时的风格已初见“表演时刻”的端倪，后场篮板+一传+魔术师推进闪电战。可是遭了克星，火箭没啥长处，就是前场篮板霸道，摩西-马龙可是史上前场篮板之王。系列赛第一场，马龙带着保尔茨、琼斯两位猛男去冲贾巴尔一把老骨头，马龙全场38分23篮板，火箭全场篮板55比46压倒湖人，让湖人推不起快攻来。这是NBA史上最经典的下克上之一：摩西带领火箭，2比1（那会儿首轮还是三场定胜负）搞定了湖人，然后他又摧毁了马刺和国王，直抵总决赛——带领一支常规赛40胜的队伍。总决赛，被帕里什、伯德、麦克海尔、马斯维尔包围之下，他场均只有22分，40%命中率，但不妨碍他山呼海啸抓到98个篮板球，包括46个前场篮板。&lt;br&gt;下一个赛季，1981-82季，他场均31.1分（1980年之后，再没有中锋得到过这种成绩）14.7篮板，第二个常规赛MVP。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“我爱抓篮板。”他说，“得分手可能会有起伏的夜晚，篮板则永远在那儿。”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1982年夏天，他成为自由人时，和2010年的勒布朗很相似：高中生巨星；两个常规赛MVP；进过一次总决赛；需要一个总冠军。那年，NBA第一次尝试用惠普电脑做一些数据计算，按照尼克斯天晓得怎么计算的结果，如果纽约得到摩西，会在1982-83季每场多出3783个观众，战绩从33胜提升到50胜。&lt;br&gt;当然，尼克斯永远无法验证这事的准确度了：&lt;br&gt;摩西去了J博士的费城，而且一到地方就说：&lt;br&gt;“这是J博士的球队……你们别考虑给我喂球，我只要抓前场篮板就可以了！”&lt;br&gt;&lt;br&gt;但他依然成了费城的老大。一方面是J博士的谦退性格使然，一方面是摩西的感染力太大。费城大将卡德维尔-琼斯有过以下看法：“J博士需要一个教练来确立他的核心位置，他不喜欢自己开口，来张扬自己是老大。”J博士是个绅士，是个吐属斯文的好人，是个优美的飞翔者，却不是个大权独揽的老大哥型领袖。所以他和摩西-马龙，反而非常合拍。康宁汉姆教练承认“摩西让我们的每个环节都增加了侵略性。”费城经理帕特-威廉姆斯认为：&lt;br&gt;“之前，我们挑战波士顿，如同大卫挑战歌利亚；但现在有了摩西，我们变成了歌利亚。”&lt;br&gt;&lt;br&gt;摩西迅速将费城带成了一个——用他自己的说法——篮球黑帮。他粗鲁凶猛的碾压对手，在场上场下抖包袱说笑话。&lt;br&gt;比如，他在密尔沃基打完雄鹿时，却会在酒店前台跟人算现金时斤斤计较，“我是要买单，不是要买酒店！”&lt;br&gt;他回忆在休斯顿大学看见年轻的奥拉朱旺时说，“这小子学打球很快，可是还是只会两句英文：‘女人’和‘我的球！’”&lt;br&gt;&lt;br&gt;1982-83季的费城76人于是成为史上传奇之一：常规赛65胜，摩西和J博士双双踏进年度一阵，托尼和奇克斯双后场被选入全明星。摩西当选第三度常规赛MVP时，如此展望季后赛：“FO！FO！FO！”事实是，他们4比0碾压了尼克斯，4比1扫灭了密尔沃基，总决赛4比0干掉了湖人。他没能阻挡天勾，但天勾也无法阻挡他场均26分18篮板——在决定胜负的第四场，摩西抓到23个篮板，其中第四节10个篮板。是他的篮板球和J博士的最后时刻连得7分，锁定了这个冠军，以及摩西唯一一个总决赛MVP。&lt;br&gt;&lt;b&gt;1983年完全属于他。&lt;/b&gt;&lt;br&gt;&lt;br&gt;但他的冠军运，也就到此为止。自那以后，他又打了十二年篮球，来得及和巴克利搭档两年，成为巴克利精神上的父亲，保持20+10直到80年代末期，但只在1985年过了一次首轮，但他的巅峰岁月留在了1978-1983——五年内三个常规赛MVP一个总冠军四个篮板王，史上最伟大球队之一的领袖，到此为止。&lt;br&gt;&lt;br&gt;一个很少人注意的细节：&lt;br&gt;&lt;b&gt;身为史上最伟大篮板手之一，摩西的手小得异常，胳膊尤其短，号称208公分身高但实际并没有。这样一个家伙，如何成为篮板王，如何单季场均31分的？——最后这点，鲨鱼都没能做到。&lt;/b&gt;&lt;br&gt;&lt;b&gt;如果要描述他的风格，你可以想像：兰多夫拥有了格里芬的弹速、协调性与跑跳。就是如此。摩西-马龙习惯全场奔跑，移动迅捷，能在15尺中投。在“篮下出手、被干扰、二次起跳、三次起跳，补进或造罚球”方面，NBA历史上没有人能和他相比。&lt;/b&gt;&lt;br&gt;&lt;b&gt;他多年与贾巴尔对位的绝技，是依靠速率和低重心，闪开空间或强行一扛，在天勾愣神失位的瞬间，从劈叉下蹲压重心的状态猛然拔起，一个上篮——虽然他常描述自己“打球如老鼠，敏锐的感觉前场篮板会在哪里”，但这种急速移动、从滚地龙到蹦高虫的迅疾，才是他最独一无二的技艺，支撑着他粗鲁凶猛、无坚不摧的打法。他并不是个高效的攻击手，但他勤奋、活力十足、随时都能从15英尺外向篮筐滚去，不断从巨人们的身侧晃过，卡住位置，嵌进对手的骨头里——这就是他了。&lt;/b&gt;&lt;br&gt;&lt;br&gt;1983年夺冠之夜，他如此吹嘘自己：&lt;b&gt;“我屠戮对手的狠劲，恰如阿尔-卡彭（1925-31年的芝加哥黑帮教父）。”&lt;/b&gt;事实上，的确如此。他的这股子黑帮滚地龙脾气，让巴克利一度把他当作精神上的父亲。某种情况下，此后巴克利的打法，可以看作摩西-马龙在NBA的精神延续：一个随时将自己的身体镶嵌进对手肌肉与灵魂里，恶狠狠吞食一切的烈焰狂魔。就像90年代的罗德曼这个坏蛋，是大坏蛋兰比尔在NBA的一个影子似的。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://pic3.zhimg.com/9d5a35f5270c4f45e5cfe7c93fa89b22_b.jpg&quot; data-rawwidth=&quot;662&quot; data-rawheight=&quot;494&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;662&quot; data-original=&quot;https://pic3.zhimg.com/9d5a35f5270c4f45e5cfe7c93fa89b22_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;RIP MOSES。
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-14" target="_blank" href="/question/35578931/answer/63635675">编辑于 2015-09-14</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+<img src="https://pic3.zhimg.com/9d5a35f5270c4f45e5cfe7c93fa89b22_xld.jpg" data-rawwidth="662" data-rawheight="494" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic3.zhimg.com/9d5a35f5270c4f45e5cfe7c93fa89b22_r.jpg">
+谢邀。<b>摩西-欧仁-马龙。</b><b> (1955年3月23日 – 2015年9月13日) </b><b>NBA史上最常被人忘怀的巨星。</b><b>1979-83的NBA实际最强者。</b><b>“篮板永远在那儿”</b>一些枯燥的数字先放着：NBA史上得分第八（27409分，如果算上ABA得分的话二万九，史上第七）。篮板第五（16212，仅次于张…
+
+<a href="/question/35578931/answer/63635675" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6438232"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>46 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic2.zhimg.com/424c70919_m.jpg"> 禁止转载 </a>
 
 
 <a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
@@ -1783,48 +1882,39 @@ data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
 
 
 <div class="zm-profile-side-following zg-clear">
-<a class="item" href="/people/linan/followees">
+<a class="item" href="/people/zhang-jia-wei/followees">
 <span class="zg-gray-normal">关注了</span><br />
-<strong>309</strong><label> 人</label>
+<strong>71</strong><label> 人</label>
 </a>
-<a class="item" href="/people/linan/followers">
+<a class="item" href="/people/zhang-jia-wei/followers">
 <span class="zg-gray-normal">关注者</span><br />
-<strong>401854</strong><label> 人</label>
+<strong>877616</strong><label> 人</label>
 </a>
+</div>
+
+
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="vote-thanks-relation zg-gray-normal">
+
+<p>
+<i class="zg-icon vote"></i>
+我感谢他 <a href="/people/zhang-jia-wei/thanked" class="zg-link-litblue">1 次</a>
+</p>
+
+
+</div>
+</div>
 </div>
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner zg-clear">
 <div class="zm-profile-side-section-title">
-关注了 <a href="/people/linan/columns/followed" class="zg-link-litblue"><strong>7 个专栏</strong></a>
+关注了 <a href="/people/zhang-jia-wei/columns/followed" class="zg-link-litblue"><strong>1 个专栏</strong></a>
 </div>
 <div class="zm-profile-side-columns">
 
-<a href="http://zhuanlan.zhihu.com/lleiou" data-tip="c$t$lleiou" class="link" target="_blank">
-<img src="http://pic3.zhimg.com/0b56bdc3a_l.jpg" title="LeoLiu's Tiny Corner" class="avatar">
-</a>
-
-<a href="http://zhuanlan.zhihu.com/taiyilaile" data-tip="c$t$taiyilaile" class="link" target="_blank">
-<img src="http://pic4.zhimg.com/8746e3b32e6afbf06eda1a4d69d2bb5b_l.jpg" title="太医来了" class="avatar">
-</a>
-
-<a href="http://zhuanlan.zhihu.com/huckleberry" data-tip="c$t$huckleberry" class="link" target="_blank">
-<img src="http://pic4.zhimg.com/3342d7fe763a5318fe26a4a213a04f4f_l.jpg" title="美而无用" class="avatar">
-</a>
-
-<a href="http://zhuanlan.zhihu.com/happypills" data-tip="c$t$happypills" class="link" target="_blank">
-<img src="http://pic4.zhimg.com/3f63da56b_l.jpg" title="happy pills" class="avatar">
-</a>
-
-<a href="http://zhuanlan.zhihu.com/lawrencelry" data-tip="c$t$lawrencelry" class="link" target="_blank">
-<img src="http://pic2.zhimg.com/875404735_l.jpg" title="Shī Huò" class="avatar">
-</a>
-
-<a href="http://zhuanlan.zhihu.com/manman" data-tip="c$t$manman" class="link" target="_blank">
-<img src="http://pic4.zhimg.com/762f3c51f_l.jpg" title="概念街22号" class="avatar">
-</a>
-
-<a href="http://zhuanlan.zhihu.com/designers" data-tip="c$t$designers" class="link" target="_blank">
-<img src="http://pic2.zhimg.com/52b31727b60cd7d87fda50a724bcd6e5_l.jpg" title="一周一位设计师" class="avatar">
+<a href="http://zhuanlan.zhihu.com/Paper" data-tip="c$t$Paper" class="link" target="_blank">
+<img src="http://pic3.zhimg.com/6503963e6_l.jpg" title="如何处理一千张废纸" class="avatar">
 </a>
 
 </div>
@@ -1833,37 +1923,9 @@ data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner zg-clear">
 <div class="zm-profile-side-section-title">
-关注了 <a href="/people/linan/topics" class="zg-link-litblue"><strong>55 个话题</strong></a>
+关注了 <a href="/people/zhang-jia-wei/topics" class="zg-link-litblue"><strong>0 个话题</strong></a>
 </div>
 <div class="zm-profile-side-topics" id="zh-profile-following-topic">
-
-<a class="link" data-tip="t$t$19552917" href="/topic/19552917">
-<img class="avatar" src="https://pic4.zhimg.com/396a9a8f5a195b649f7501f2c49f81d7_m.jpg" title="魅族科技">
-</a>
-
-<a class="link" data-tip="t$t$19551762" href="/topic/19551762">
-<img class="avatar" src="https://pic3.zhimg.com/39420a7da_m.jpg" title="苹果公司 (Apple Inc.)">
-</a>
-
-<a class="link" data-tip="t$t$19550228" href="/topic/19550228">
-<img class="avatar" src="https://pic1.zhimg.com/2e33f063f1bd9221df967219167b5de0_m.jpg" title="知乎">
-</a>
-
-<a class="link" data-tip="t$t$19603145" href="/topic/19603145">
-<img class="avatar" src="https://pic1.zhimg.com/1ab029e14_m.jpg" title="Android">
-</a>
-
-<a class="link" data-tip="t$t$19550292" href="/topic/19550292">
-<img class="avatar" src="https://pic2.zhimg.com/bd6b19fc1_m.jpg" title="iPhone">
-</a>
-
-<a class="link" data-tip="t$t$19554470" href="/topic/19554470">
-<img class="avatar" src="https://pic3.zhimg.com/857c460a6f2e75535110958abc344262_m.jpg" title="微信">
-</a>
-
-<a class="link" data-tip="t$t$19550547" href="/topic/19550547">
-<img class="avatar" src="https://pic3.zhimg.com/a5488c5ea_m.jpg" title="移动互联网">
-</a>
 
 </div>
 </div>
@@ -1872,11 +1934,11 @@ data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
 
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner">
-<span class="zg-gray-normal">个人主页被 <strong>62467</strong> 人浏览</span>
+<span class="zg-gray-normal">个人主页被 <strong>208390</strong> 人浏览</span>
 </div>
 </div>
 
-<script type="text/json" class="json-inline" data-name="current_people">["\u674e\u6960","linan","https:\/\/pic4.zhimg.com\/24f3a654b_s.jpg","29c3654588fd4246bb90cbd345242d65"]</script>
+<script type="text/json" class="json-inline" data-name="current_people">["\u5f20\u4f73\u73ae","zhang-jia-wei","https:\/\/pic2.zhimg.com\/424c70919_s.jpg","f9de84865e3e8455a09af78bfe4d1da5"]</script>
 <div id="zh-footer" class="zh-footer">
 <div class="zg-wrap clearfix">
 <ul>
@@ -2133,7 +2195,7 @@ data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
 <script type="text/json" class="json-inline" data-name="permissions">[]</script>
 
 
-<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1442766403000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1442819195000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
 
 <script src="http://static.zhihu.com/static/revved/js/-/vendor.min.e81122a3.js"></script>
 <script src="http://static.zhihu.com/static/revved/js/-/closure/app_core.3cbe28cd.js"></script>
@@ -2141,10 +2203,10 @@ data-source="https://pic2.zhimg.com/920f00904521f0024d5e0b2da33afbed_s.jpg" />
 <script src="http://static.zhihu.com/static/revved/js/-/closure/app.84ae3a5e.js"></script>
 <script src="http://static.zhihu.com/static/revved/js/-/closure/rich_text_editor.00f3f893.js"></script>
 
-<script type="text/zscript" znonce="8266b4674ecf429983be98753fec159a">
+<script type="text/zscript" znonce="a4779d5779e74ad5aa2fa59be3d55216">
 ZH.entryP();
 </script>
 
-<input type="hidden" name="_xsrf" value="a503bcafe4abcd811ee8de946b347994"/>
+<input type="hidden" name="_xsrf" value="ab81c462185d3a5eb2ed95841fe61924"/>
 </body>
 </html>

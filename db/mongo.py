@@ -8,6 +8,7 @@ Created on 2015年9月17日
 from pymongo import Connection
 from config import MONGO_IP,MONGO_PORT
 import time
+import os
 
 
 def mongo_connection():
@@ -21,25 +22,24 @@ def save_userinfo(db, data):
 '''  
 def update_userinfo(db, cond, **data):
     mongo_data = get_userinfo(db, cond)
-    print mongo_data[0]
     if not len(mongo_data):
         save_userinfo(db, data)
         return 0
     agree = int(data['agree'])
     thank = int(data['thank'])
-    followees = int(data['followees']['num'])
-    followers = int(data['followers']['num'])
+    followees = int(data['followees'])
+    followers = int(data['followers'])
     #if the agree,thank,followees,followers changed?
     change = {}
     change['agree_change'] = agree - int(mongo_data[0]['agree'])
     change['thank_change'] = thank - int(mongo_data[0]['thank'])
-    change['followees_change'] = followees - int(mongo_data[0]['followees']['num'])
-    change['followers_change'] = followers - int(mongo_data[0]['followers']['num'])
+    change['followees_change'] = followees - int(mongo_data[0]['followees'])
+    change['followers_change'] = followers - int(mongo_data[0]['followers'])
     for k,v in change.items():
         #if changed, update db and return message
         if v:
             db.user_infos.update(cond, {'$set':{'agree':agree, 'thank':thank, \
-                                                'followees.num':followees, ';followers.num':followers}})
+                                                'followees':followees, ';followers':followers}})
             return change
         continue
     return 1
@@ -55,9 +55,10 @@ def remove_userinfo(db, cond):
     
     
     
-if __name__ == '__main__':
-    db = mongo_connection().spider
-    db.test.update({'id':12}, {'$set':{'name':'kkkkkkkkk'}})
-    ret = db.test.find()
-    print [item for item in ret]
+# if __name__ == '__main__':
+#     db = mongo_connection().spider
+#     db.test.update({'id':12}, {'$set':{'name':'kkkkkkkkk'}})
+#     ret = db.test.find()
+#     print [item for item in ret]
+
     
