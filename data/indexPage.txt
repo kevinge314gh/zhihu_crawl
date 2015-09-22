@@ -14,7 +14,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/zhang-jia-wei">
-<meta id="znonce" name="znonce" content="f4749d9568be4de3bab2eef0fb0be8d5">
+<meta id="znonce" name="znonce" content="e47110cdcd8742379b2e4c801f4d5bae">
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
@@ -540,8 +540,8 @@ style="visibility:hidden" data-count="0">
 <div class="zm-profile-header-operation zg-clear ">
 <div class="zm-profile-header-info-list">
 <span class="zm-profile-header-info-title">获得</span>
-<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>1358354</strong>赞同</span>
-<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>253798</strong>感谢</span>
+<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>1359436</strong>赞同</span>
+<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>253998</strong>感谢</span>
 
 </div>
 
@@ -571,7 +571,7 @@ href="/people/zhang-jia-wei/asks">
 <a class="item "
 href="/people/zhang-jia-wei/answers">
 回答
-<span class="num">2398</span>
+<span class="num">2400</span>
 </a>
 <a class="item "
 href="/people/zhang-jia-wei/posts">
@@ -606,7 +606,37 @@ href="/people/zhang-jia-wei/logs">
 
 <div class="zm-profile-section-item zg-clear">
 <a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">380</div>
+<div class="zm-profile-vote-num">487</div>
+<div class="zm-profile-vote-type">赞同</div>
+</a>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" href="/question/35782200/answer/64760820">为什么孔子孟子懂得那么多为人处世的道理，依然不得志？</a>
+</h2>
+
+<p class="zm-profile-item-text">谢邀。这个问题，孔夫子<b>自己回答</b>过了。孔子窮於陳、蔡之間，七日不嘗食，藜羹不糝。…</p>
+
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<a class="zm-profile-vote-count" href="javascript:void(0);">
+<div class="zm-profile-vote-num">395</div>
+<div class="zm-profile-vote-type">赞同</div>
+</a>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" href="/question/35777097/answer/64755453">在民国时期，到处都是军阀，红军存在有没有正当性，算群雄逐鹿还是地方土匪？</a>
+</h2>
+
+<p class="zm-profile-item-text">谢邀。<b>在任何对手政权眼里，你永远是不正当的。</b>1949年之后，北京称呼台湾是国民党反…</p>
+
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<a class="zm-profile-vote-count" href="javascript:void(0);">
+<div class="zm-profile-vote-num">383</div>
 <div class="zm-profile-vote-type">赞同</div>
 </a>
 <div class="zm-profile-section-main">
@@ -615,36 +645,6 @@ href="/people/zhang-jia-wei/logs">
 </h2>
 
 <p class="zm-profile-item-text">谢邀。一定会有影响的！vs一定不会有影响的！！正方：一定会影响的！1993年，开拓者…</p>
-
-</div>
-</div>
-
-<div class="zm-profile-section-item zg-clear">
-<a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">354</div>
-<div class="zm-profile-vote-type">赞同</div>
-</a>
-<div class="zm-profile-section-main">
-<h2 class="zm-profile-question">
-<a class="question_link" href="/question/35425592/answer/64069061">如果天山童姥被乌老大劫持之后是被段誉救了而不是虚竹，那会发生什么？</a>
-</h2>
-
-<p class="zm-profile-item-text">谢邀。乌老大听得段誉大呼小叫，心想此人武功极高，真要横来生事，却也不易对付，夜…</p>
-
-</div>
-</div>
-
-<div class="zm-profile-section-item zg-clear">
-<a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">2117</div>
-<div class="zm-profile-vote-type">赞同</div>
-</a>
-<div class="zm-profile-section-main">
-<h2 class="zm-profile-question">
-<a class="question_link" href="/question/35685399/answer/64064536">如何解释女儿的名字“沐溪”？</a>
-</h2>
-
-<p class="zm-profile-item-text">谢邀。嗯，叫做沐溪是吧？先告诉她一些事实，比如：《三国演义》九十回曰：南蛮部落…</p>
 
 </div>
 </div>
@@ -661,8 +661,8 @@ href="/people/zhang-jia-wei/logs">
 <div class="zm-profile-section-list profile-feed-wrap">
 <div id="zh-profile-activity-page-list">
 
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442666120" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442925110" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">3 小时前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a title="张佳玮"
 data-tip="p$t$zhang-jia-wei"
@@ -671,29 +671,29 @@ href="/people/zhang-jia-wei">
 <img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
 </a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
 
-<a class="question_link" target="_blank" href="/question/35727600/answer/64339752">哈登和卡戴珊拍拖以及在夜店疯玩是否会影响火箭队下赛季的战绩？</a>
+<a class="question_link" target="_blank" href="/question/35782200/answer/64760820">为什么孔子孟子懂得那么多为人处世的道理，依然不得志？</a>
 </div>
 <div tabindex="-1" class="zm-item-answer "
-data-aid="21151199"
-data-atoken="64339752"
+data-aid="21319951"
+data-atoken="64760820"
 data-collapsed="0"
-data-created="1442666120"
+data-created="1442925110"
 data-deleted="0"
 data-isowner="0"
 data-helpful="1"
-data-copyable="0"
+data-copyable="1"
 >
-<a class="zg-anchor-hidden" name="answer-21151199"></a>
+<a class="zg-anchor-hidden" name="answer-21319951"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="380">380</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="487">487</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">380</span>
+<span class="count">487</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -724,10 +724,284 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="380">
+<div class="zm-item-vote-info " data-votecount="487">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$sailshi-xiao-yu" href="http://www.zhihu.com/people/sailshi-xiao-yu" class="zg-link" title="sail石晓雨">sail石晓雨</a>、</span><span class="user-block"><a data-tip="p$t$ceng-xiao-rui" href="http://www.zhihu.com/people/ceng-xiao-rui" class="zg-link" title="曾小睿">曾小睿</a>、</span><span class="user-block"><a data-tip="p$t$su-bo-xuan" href="http://www.zhihu.com/people/su-bo-xuan" class="zg-link" title="宿博轩">宿博轩</a></span>
+<span class="user-block"><a data-tip="p$t$wu-duo-duo-65" href="http://www.zhihu.com/people/wu-duo-duo-65" class="zg-link" title="伍多多">伍多多</a>、</span><span class="user-block"><a data-tip="p$t$ben-ben-66-53" href="http://www.zhihu.com/people/ben-ben-66-53" class="zg-link" title="ben ben">ben ben</a>、</span><span class="user-block"><a data-tip="p$t$li-lin-23-85" href="http://www.zhihu.com/people/li-lin-23-85" class="zg-link" title="李林">李林</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="6519530" data-action="/answer/content">
+
+<textarea class="content hidden">
+谢邀。&lt;br&gt;&lt;br&gt;这个问题，孔夫子&lt;b&gt;自己回答&lt;/b&gt;过了。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;孔子窮於陳、蔡之間，七日不嘗食，藜羹不糝。&lt;br&gt;宰予備矣，孔子弦歌於室，顏回擇菜於外。&lt;br&gt;子路與子貢相與而言曰：「夫子逐於魯，削跡於衛，伐樹於宋，窮於陳、蔡，殺夫子者無罪，藉夫子者不禁，夫子弦歌鼓舞，未嘗絕音，蓋君子之無所醜也若此乎？」&lt;br&gt;顏回無以對，入以告孔子。&lt;br&gt;孔子憱然推琴，喟然而歎曰：「由與賜，小人也。召，吾語之。」&lt;br&gt;子路與子貢入。子貢曰：「如此者可謂窮矣。」&lt;br&gt;孔子曰：&lt;b&gt;「是何言也？君子達於道之謂達，窮於道之謂窮。今丘也拘仁義之道，以遭亂世之患，其所也，何窮之謂？故內省而不疚於道，臨難而不失其德。大寒既至，霜雪既降，吾是以知松柏之茂也。昔桓公得之莒，文公得之曹，越王得之會稽。陳、蔡之阨，於丘其幸乎！」&lt;/b&gt;&lt;br&gt;孔子烈然返瑟而弦，子路抗然執干而舞。子貢曰：「吾不知天之高也，不知地之下也。」&lt;/blockquote&gt;——《吕氏春秋》&lt;br&gt;&lt;br&gt;简单说说吧。&lt;br&gt;孔子困在陈蔡间，没吃的，饿得很。可是老夫子饱吹饿唱，在房间里弹琴唱歌，高兴得很。颜回在外面摘野菜。&lt;br&gt;子路和子贡就不爽了：夫子到处碰壁，夫子还这么浪歌浪舞。君子是可以这么不懂丢人的么？&lt;br&gt;颜回去告老师，孔子怒了，叹气：这俩小子真是小人！叫进来，我谈话！&lt;br&gt;子路和子贡早就预备好了，进去，子贡还硬气呢：您这样可不绝境了吗？&lt;br&gt;&lt;br&gt;孔圣人下面这段话，我建议全文背诵。&lt;br&gt;&lt;b&gt;「是何言也？&lt;/b&gt;&lt;br&gt;&lt;b&gt;君子達於道之謂達，窮於道之謂窮。&lt;/b&gt;&lt;br&gt;&lt;b&gt;今丘也拘仁義之道，以遭亂世之患，其所也，何窮之謂？&lt;/b&gt;&lt;br&gt;&lt;b&gt;故內省而不疚於道，臨難而不失其德。&lt;/b&gt;&lt;br&gt;&lt;b&gt;大寒既至，霜雪既降，吾是以知松柏之茂也。&lt;/b&gt;&lt;br&gt;&lt;b&gt;昔桓公得之莒，文公得之曹，越王得之會稽。陳、蔡之阨，於丘其幸乎！」&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;我不太敢翻译，大概取个意思吧：&lt;br&gt;&lt;br&gt;“你们说的什么话？&lt;b&gt;君子在“道”上通达才是真发达，在“道”上没辙了才是真没辙&lt;/b&gt;。&lt;b&gt;如今孔丘我行仁义之正道，遭遇乱世，正是得其所哉，这算什么绝境？&lt;/b&gt;所以要自我反省，不要在道上内疚；遭遇危难，而不失德行。大冷天，霜雪下来，我才知道松柏的繁茂。齐桓公晋文公越王都在苦难中倒霉过，陈蔡这里遭遇不幸，不就是我孔丘的幸事么？！”&lt;br&gt;&lt;br&gt;夫子的逻辑是：&lt;br&gt;作为人，求仁行道上成功，才是真成功。&lt;br&gt;在乱世行仁义之道，倒霉才是正常的，这也是我一直追求的。&lt;br&gt;&lt;br&gt;再直白一点：&lt;br&gt;&lt;b&gt;做人就是要行得端立得正。&lt;/b&gt;&lt;br&gt;&lt;b&gt;在一个全世界都颠三倒四，追求跪着挣钱的时代，我这样站得笔直的正经人穷困，实在是太合适了！！&lt;/b&gt;&lt;br&gt;&lt;br&gt;孔夫子说完这段话，飒飒地转身去弹琴。子路听着就一起跳舞了。子贡完全服了：&lt;br&gt;“我不知道天有多高，我不知道地有多厚啊！”&lt;br&gt;&lt;br&gt;孔夫子这个思路清晰、对仁的态度，就是这样天高地厚。人在意的是仁义，是道。世俗意义上的穷愁潦倒，他不是不在乎，但不是搁第一位的。&lt;br&gt;这才叫黄钟大吕，万世师表的气派。
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/35782200/answer/64760820">发布于 昨天 20:31</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+
+谢邀。这个问题，孔夫子<b>自己回答</b>过了。孔子窮於陳、蔡之間，七日不嘗食，藜羹不糝。宰予備矣，孔子弦歌於室，顏回擇菜於外。子路與子貢相與而言曰：「夫子逐於魯，削跡於衛，伐樹於宋，窮於陳、蔡，殺夫子者無罪，藉夫子者不禁，夫子弦歌鼓舞，未嘗絕音，蓋…
+
+<a href="/question/35782200/answer/64760820" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6519530"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>53 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442922252" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">4 小时前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
+
+<a class="question_link" target="_blank" href="/question/35777097/answer/64755453">在民国时期，到处都是军阀，红军存在有没有正当性，算群雄逐鹿还是地方土匪？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="21317799"
+data-atoken="64755453"
+data-collapsed="0"
+data-created="1442922252"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<a class="zg-anchor-hidden" name="answer-21317799"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="395">395</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">395</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg"
+class="zm-list-avatar"
+data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="395">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$cai-xiao-fan-41" href="http://www.zhihu.com/people/cai-xiao-fan-41" class="zg-link" title="蔡晓帆">蔡晓帆</a>、</span><span class="user-block"><a data-tip="p$t$feng-zi-48-86" href="http://www.zhihu.com/people/feng-zi-48-86" class="zg-link" title="疯子">疯子</a>、</span><span class="user-block"><a data-tip="p$t$a-fei-6-55" href="http://www.zhihu.com/people/a-fei-6-55" class="zg-link" title="阿斐">阿斐</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="6517496" data-action="/answer/content">
+
+<textarea class="content hidden">
+谢邀。&lt;br&gt;&lt;br&gt;&lt;b&gt;在任何对手政权眼里，你永远是不正当的。&lt;/b&gt;&lt;br&gt;&lt;br&gt;1949年之后，北京称呼台湾是国民党反动派，台湾称呼北京是共匪窃据大陆。&lt;br&gt;彼此都觉得对方没有正当性。&lt;br&gt;&lt;br&gt;梁武帝萧衍灭齐兴梁，逃到北方的齐王子如萧宝寅等，都认为萧衍没有正当性。&lt;br&gt;李自成入北京称帝，明朝遗老和清朝都觉得他没有正当性。&lt;br&gt;哪怕同为帝王后裔，南明已经快被清屠灭个干净了，永历和隆武的属臣还是要窝里斗，觉得对方没有正当性。&lt;br&gt;在满清遗老眼里，中华民国根本就是群土匪，毫无正当性。&lt;br&gt;在太平天国眼里，清朝是清妖，毫无正当性。在清朝眼里，太平天国是洪杨匪，更加没有正当性。&lt;br&gt;&lt;br&gt;总之，在反对派眼里，你永远没有正当性。你是蛮，是夷，是匪，是遗老，是一群窃据国柄的家伙。赤眉红巾，都是被当做土匪对待的。&lt;br&gt;&lt;br&gt;哪位问了：如果有正式的国祚移交手续，会不会正当呢？嗯：&lt;br&gt;刘备是中山靖王之后，汉室后裔，立了季汉。&lt;br&gt;曹丕从汉献帝手里接过了禅让，算是正式移交。&lt;br&gt;听起来这两边都有正当性，然而：&lt;br&gt;&lt;br&gt;王司徒认为：&lt;br&gt;&lt;blockquote&gt;“世祖文帝，神文圣武，以膺大统，应天合人，法尧禅舜，处中国以临万邦，岂非天心人意乎？”&lt;/blockquote&gt;我们手续合法，所以诸葛亮就没有正当性，属于&lt;br&gt;&lt;blockquote&gt;强欲逆天理、背人情而行事&lt;/blockquote&gt;&lt;br&gt;&lt;br&gt;诸葛丞相认为：&lt;br&gt;&lt;blockquote&gt;“今幸天意不绝炎汉，昭烈皇帝继统西川。”&lt;/blockquote&gt;所以我们手续合法，你们没有正当性。属于&lt;br&gt;&lt;blockquote&gt;“反助逆贼，同谋篡 位！”&lt;/blockquote&gt;&lt;br&gt;所以了：在自己眼里，一切对手都没有正当性，全都是：&lt;br&gt;&lt;img src=&quot;https://pic4.zhimg.com/d370d988d74ab1bdc14cc3fba197813b_b.jpg&quot; data-rawwidth=&quot;480&quot; data-rawheight=&quot;360&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;480&quot; data-original=&quot;https://pic4.zhimg.com/d370d988d74ab1bdc14cc3fba197813b_r.jpg&quot;&gt;&lt;br&gt;所以，什么时候只有一种说法了？&lt;br&gt;&lt;b&gt;那就是因为：一统天下，终于把八荒六合都扫平干净了。这时候，你的政权就完全正当了。&lt;/b&gt;&lt;br&gt;&lt;b&gt;所谓“历史是胜利者书写的”，其实就是这样。&lt;/b&gt;&lt;br&gt;&lt;b&gt;只有胜利者才享用独一无二的正当性。&lt;/b&gt;
+
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/35777097/answer/64755453">发布于 昨天 19:44</a>
+</span>
+
+</textarea>
+<div class="zh-summary summary clearfix">
+<img src="https://pic4.zhimg.com/d370d988d74ab1bdc14cc3fba197813b_xld.jpg" data-rawwidth="480" data-rawheight="360" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic4.zhimg.com/d370d988d74ab1bdc14cc3fba197813b_r.jpg">
+谢邀。<b>在任何对手政权眼里，你永远是不正当的。</b>1949年之后，北京称呼台湾是国民党反动派，台湾称呼北京是共匪窃据大陆。彼此都觉得对方没有正当性。梁武帝萧衍灭齐兴梁，逃到北方的齐王子如萧宝寅等，都认为萧衍没有正当性。李自成入北京称帝，明朝遗老和清…
+
+<a href="/question/35777097/answer/64755453" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6517496"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>57 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1442666120" data-type="a" >
+<span class="zm-profile-setion-time zg-gray zg-right">3 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a title="张佳玮"
+data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
+</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
+
+<a class="question_link" target="_blank" href="/question/35727600/answer/64339752">哈登和卡戴珊拍拖以及在夜店疯玩是否会影响火箭队下赛季的战绩？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+data-aid="21151199"
+data-atoken="64339752"
+data-collapsed="0"
+data-created="1442666120"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="0"
+>
+<a class="zg-anchor-hidden" name="answer-21151199"></a>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="383">383</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">383</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-jia-wei"
+class="zm-item-link-avatar"
+href="/people/zhang-jia-wei">
+<img src="https://pic2.zhimg.com/424c70919_s.jpg"
+class="zm-list-avatar"
+data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+
+<div class="zm-item-vote-info " data-votecount="383">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$chen-xian-sheng-23-91" href="http://www.zhihu.com/people/chen-xian-sheng-23-91" class="zg-link" title="陈先生">陈先生</a>、</span><span class="user-block"><a data-tip="p$t$ru-lai-lai-liao" href="http://www.zhihu.com/people/ru-lai-lai-liao" class="zg-link" title="如来来了">如来来了</a>、</span><span class="user-block"><a data-tip="p$t$li-shi-ying-46" href="http://www.zhihu.com/people/li-shi-ying-46" class="zg-link" title="李世颖">李世颖</a></span>
 </span>
 
 
@@ -762,7 +1036,7 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6497714"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>80 条评论</a>
+<i class="z-icon-comment"></i>81 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -816,14 +1090,14 @@ href="/people/zhang-jia-wei">
 <a class="zg-anchor-hidden" name="post-20226684"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="676">676</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="682">682</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">676</span>
+<span class="count">682</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -838,10 +1112,10 @@ href="/people/zhang-jia-wei">
 <a href="/people/zhang-jia-wei" data-tip="p$t$zhang-jia-wei" class="name">张佳玮</a>，公众号：张佳玮写字的地方
 
 </div>
-<div class="zm-item-vote-info " data-votecount="676">
+<div class="zm-item-vote-info " data-votecount="682">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$fighting-64-97" href="http://www.zhihu.com/people/fighting-64-97" class="zg-link" title="Fighting">Fighting</a>、</span><span class="user-block"><a data-tip="p$t$wu-bai-jun-75" href="http://www.zhihu.com/people/wu-bai-jun-75" class="zg-link" title="无白君">无白君</a>、</span><span class="user-block"><a data-tip="p$t$tai-yang-shen-de-xiang-ri-kui" href="http://www.zhihu.com/people/tai-yang-shen-de-xiang-ri-kui" class="zg-link" title="珂珂">珂珂</a>、</span><span class="user-block"><a data-tip="p$t$zhu-bing-zhi-ma" href="http://www.zhihu.com/people/zhu-bing-zhi-ma" class="zg-link" title="别摸我头发">别摸我头发</a></span>
+<span class="user-block"><a data-tip="p$t$sanren1988" href="http://www.zhihu.com/people/sanren1988" class="zg-link" title="寒江雪">寒江雪</a>、</span><span class="user-block"><a data-tip="p$t$nan-yin-56-82" href="http://www.zhihu.com/people/nan-yin-56-82" class="zg-link" title="南音">南音</a>、</span><span class="user-block"><a data-tip="p$t$xu-yan-84-2-12" href="http://www.zhihu.com/people/xu-yan-84-2-12" class="zg-link" title="十五">十五</a>、</span><span class="user-block"><a data-tip="p$t$yang-qi-zhang-xiao-jie" href="http://www.zhihu.com/people/yang-qi-zhang-xiao-jie" class="zg-link" title="氧气张小姐">氧气张小姐</a></span>
 </span>
 
 
@@ -881,7 +1155,7 @@ href="/people/zhang-jia-wei">
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1442495489" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">4 天前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">5 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a title="张佳玮"
 data-tip="p$t$zhang-jia-wei"
@@ -905,14 +1179,14 @@ data-copyable="0"
 <a class="zg-anchor-hidden" name="answer-21042727"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="354">354</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="358">358</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">354</span>
+<span class="count">358</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -943,10 +1217,10 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="354">
+<div class="zm-item-vote-info " data-votecount="358">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$ceng-xiao-rui" href="http://www.zhihu.com/people/ceng-xiao-rui" class="zg-link" title="曾小睿">曾小睿</a>、</span><span class="user-block"><a data-tip="p$t$liu-yi-yi-1" href="http://www.zhihu.com/people/liu-yi-yi-1" class="zg-link" title="柳依一">柳依一</a>、</span><span class="user-block"><a data-tip="p$t$bai-li-92" href="http://www.zhihu.com/people/bai-li-92" class="zg-link" title="李建">李建</a></span>
+<span class="user-block"><a data-tip="p$t$fang-yuan-92-33" href="http://www.zhihu.com/people/fang-yuan-92-33" class="zg-link" title="方圆">方圆</a>、</span><span class="user-block"><a data-tip="p$t$liuxp" href="http://www.zhihu.com/people/liuxp" class="zg-link" title="凯菲斯 kif">凯菲斯 kif</a>、</span><span class="user-block"><a data-tip="p$t$yu-jian-wen-79" href="http://www.zhihu.com/people/yu-jian-wen-79" class="zg-link" title="余建文">余建文</a></span>
 </span>
 
 
@@ -1018,7 +1292,7 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1442493067" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">4 天前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">5 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a title="张佳玮"
 data-tip="p$t$zhang-jia-wei"
@@ -1042,14 +1316,14 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-21040909"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2117">2117</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2130">2130</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">2117</span>
+<span class="count">2130</span>
 </button>
 <button class="down pressed">
 <i class="icon vote-arrow"></i>
@@ -1080,10 +1354,10 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="2117">
+<div class="zm-item-vote-info " data-votecount="2130">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$zxian-sheng-13-99" href="http://www.zhihu.com/people/zxian-sheng-13-99" class="zg-link" title="Z先生">Z先生</a>、</span><span class="user-block"><a data-tip="p$t$he-he-he-30-68" href="http://www.zhihu.com/people/he-he-he-30-68" class="zg-link" title="呵呵呵">呵呵呵</a>、</span><span class="user-block"><a data-tip="p$t$ceng-xiao-rui" href="http://www.zhihu.com/people/ceng-xiao-rui" class="zg-link" title="曾小睿">曾小睿</a></span>
+<span class="user-block"><a data-tip="p$t$tominess" href="http://www.zhihu.com/people/tominess" class="zg-link" title="Tominess">Tominess</a>、</span><span class="user-block"><a data-tip="p$t$s-mok" href="http://www.zhihu.com/people/s-mok" class="zg-link" title="S-MOK">S-MOK</a>、</span><span class="user-block"><a data-tip="p$t$doris-24-77" href="http://www.zhihu.com/people/doris-24-77" class="zg-link" title="Doris">Doris</a></span>
 </span>
 
 
@@ -1174,14 +1448,14 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-19267143"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1356">1356</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1358">1358</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">1356</span>
+<span class="count">1358</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1212,10 +1486,10 @@ data-source="https://pic3.zhimg.com/0f56239e3d398832de52af8c0d428b52_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="1356">
+<div class="zm-item-vote-info " data-votecount="1358">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$ou-yang-75-74" href="http://www.zhihu.com/people/ou-yang-75-74" class="zg-link" title="欧阳">欧阳</a>、</span><span class="user-block"><a data-tip="p$t$daisy-86" href="http://www.zhihu.com/people/daisy-86" class="zg-link" title="Daisy">Daisy</a>、</span><span class="user-block"><a data-tip="p$t$yu-wei-70-72" href="http://www.zhihu.com/people/yu-wei-70-72" class="zg-link" title="Quizaswy">Quizaswy</a></span>
+<span class="user-block"><a data-tip="p$t$jguo-jian" href="http://www.zhihu.com/people/jguo-jian" class="zg-link" title="玉儿小常">玉儿小常</a>、</span><span class="user-block"><a data-tip="p$t$zerya-choi" href="http://www.zhihu.com/people/zerya-choi" class="zg-link" title="Zerya Choi">Zerya Choi</a>、</span><span class="user-block"><a data-tip="p$t$ou-yang-75-74" href="http://www.zhihu.com/people/ou-yang-75-74" class="zg-link" title="欧阳">欧阳</a></span>
 </span>
 
 
@@ -1312,14 +1586,14 @@ data-copyable="0"
 <a class="zg-anchor-hidden" name="answer-20974861"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1648">1648</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1650">1650</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">1648</span>
+<span class="count">1650</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1350,10 +1624,10 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="1648">
+<div class="zm-item-vote-info " data-votecount="1650">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$redsky-20" href="http://www.zhihu.com/people/redsky-20" class="zg-link" title="redsky">redsky</a>、</span><span class="user-block"><a data-tip="p$t$chen-yu-ru-13" href="http://www.zhihu.com/people/chen-yu-ru-13" class="zg-link" title="陈玉茹">陈玉茹</a>、</span><span class="user-block"><a data-tip="p$t$shi-da-da-91" href="http://www.zhihu.com/people/shi-da-da-91" class="zg-link" title="石大大">石大大</a></span>
+<span class="user-block"><a data-tip="p$t$zhan-zhong-tian" href="http://www.zhihu.com/people/zhan-zhong-tian" class="zg-link" title="幸运E">幸运E</a>、</span><span class="user-block"><a data-tip="p$t$lie-shou-yin-chang" href="http://www.zhihu.com/people/lie-shou-yin-chang" class="zg-link" title="猎手吟唱">猎手吟唱</a>、</span><span class="user-block"><a data-tip="p$t$redsky-20" href="http://www.zhihu.com/people/redsky-20" class="zg-link" title="redsky">redsky</a></span>
 </span>
 
 
@@ -1425,7 +1699,7 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1442327821" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">6 天前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">1 周前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 赞同了回答
 
@@ -1444,14 +1718,14 @@ data-copyable="0"
 <a class="zg-anchor-hidden" name="answer-20904629"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="6822">6822</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="6839">6839</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">6822</span>
+<span class="count">6839</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1482,10 +1756,10 @@ data-source="https://pic4.zhimg.com/a71e0ad8f6fbe604a9c60ea4aad7ff1f_s.png" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="6822">
+<div class="zm-item-vote-info " data-votecount="6839">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$nu-yu-cao-meng" href="http://www.zhihu.com/people/nu-yu-cao-meng" class="zg-link" title="赵翔耀">赵翔耀</a>、</span><span class="user-block"><a data-tip="p$t$wang-mo-42-26" href="http://www.zhihu.com/people/wang-mo-42-26" class="zg-link" title="王茉">王茉</a>、</span><span class="user-block"><a data-tip="p$t$chuan-chuan-56" href="http://www.zhihu.com/people/chuan-chuan-56" class="zg-link" title="六十兆">六十兆</a></span>
+<span class="user-block"><a data-tip="p$t$hu-jia-yi-27" href="http://www.zhihu.com/people/hu-jia-yi-27" class="zg-link" title="五加一等于六">五加一等于六</a>、</span><span class="user-block"><a data-tip="p$t$bai-niao-31" href="http://www.zhihu.com/people/bai-niao-31" class="zg-link" title="白鸟">白鸟</a>、</span><span class="user-block"><a data-tip="p$t$song-xian-sheng-10" href="http://www.zhihu.com/people/song-xian-sheng-10" class="zg-link" title="宋先生">宋先生</a></span>
 </span>
 
 
@@ -1557,7 +1831,7 @@ data-source="https://pic4.zhimg.com/a71e0ad8f6fbe604a9c60ea4aad7ff1f_s.png" />
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1442324953" data-type="p" >
-<span class="zm-profile-setion-time zg-gray zg-right">6 天前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">1 周前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a title="张佳玮"
 data-tip="p$t$zhang-jia-wei"
@@ -1574,14 +1848,14 @@ href="/people/zhang-jia-wei">
 <a class="zg-anchor-hidden" name="post-20219018"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="666">666</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="667">667</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">666</span>
+<span class="count">667</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1596,10 +1870,10 @@ href="/people/zhang-jia-wei">
 <a href="/people/zhang-jia-wei" data-tip="p$t$zhang-jia-wei" class="name">张佳玮</a>，公众号：张佳玮写字的地方
 
 </div>
-<div class="zm-item-vote-info " data-votecount="666">
+<div class="zm-item-vote-info " data-votecount="667">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$liang-ai-2" href="http://www.zhihu.com/people/liang-ai-2" class="zg-link" title="暧暧">暧暧</a>、</span><span class="user-block"><a data-tip="p$t$zhi-jiang-19" href="http://www.zhihu.com/people/zhi-jiang-19" class="zg-link" title="吱酱">吱酱</a>、</span><span class="user-block"><a data-tip="p$t$dong-yi-75-36" href="http://www.zhihu.com/people/dong-yi-75-36" class="zg-link" title="冬异">冬异</a>、</span><span class="user-block"><a data-tip="p$t$lei-yidu-zi-zui-dao" href="http://www.zhihu.com/people/lei-yidu-zi-zui-dao" class="zg-link" title="雷一独自醉倒">雷一独自醉倒</a></span>
+<span class="user-block"><a data-tip="p$t$dai-xin-xin-59" href="http://www.zhihu.com/people/dai-xin-xin-59" class="zg-link" title="戴鑫鑫">戴鑫鑫</a>、</span><span class="user-block"><a data-tip="p$t$liang-ai-2" href="http://www.zhihu.com/people/liang-ai-2" class="zg-link" title="暧暧">暧暧</a>、</span><span class="user-block"><a data-tip="p$t$zhi-jiang-19" href="http://www.zhihu.com/people/zhi-jiang-19" class="zg-link" title="吱酱">吱酱</a>、</span><span class="user-block"><a data-tip="p$t$dong-yi-75-36" href="http://www.zhihu.com/people/dong-yi-75-36" class="zg-link" title="冬异">冬异</a></span>
 </span>
 
 
@@ -1638,280 +1912,6 @@ href="/people/zhang-jia-wei">
 </div>
 </div>
 
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442298056" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">1 周前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a title="张佳玮"
-data-tip="p$t$zhang-jia-wei"
-class="zm-item-link-avatar"
-href="/people/zhang-jia-wei">
-<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
-</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
-
-<a class="question_link" target="_blank" href="/question/35615289/answer/63733035">为什么猪八戒西天取经走了那么多路、吃素也没减肥？</a>
-</div>
-<div tabindex="-1" class="zm-item-answer "
-data-aid="20907952"
-data-atoken="63733035"
-data-collapsed="0"
-data-created="1442298056"
-data-deleted="0"
-data-isowner="0"
-data-helpful="1"
-data-copyable="0"
->
-<a class="zg-anchor-hidden" name="answer-20907952"></a>
-
-<div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2636">2636</a>
-</div>
-
-<div class="zm-votebar">
-<button class="up ">
-<i class="icon vote-arrow"></i>
-<span class="label">赞同</span>
-<span class="count">2636</span>
-</button>
-<button class="down ">
-<i class="icon vote-arrow"></i>
-<span class="label">反对</span>
-</button>
-</div>
-
-
-<div class="answer-head">
-
-<div class="zm-item-answer-author-info">
-<h3 class="zm-item-answer-author-wrap">
-
-
-<a data-tip="p$t$zhang-jia-wei"
-class="zm-item-link-avatar"
-href="/people/zhang-jia-wei">
-<img src="https://pic2.zhimg.com/424c70919_s.jpg"
-class="zm-list-avatar"
-data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
-</a>
-
-
-
-<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
-
-</h3>
-<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
-</div>
-
-<div class="zm-item-vote-info " data-votecount="2636">
-
-<span class="voters">
-<span class="user-block"><a data-tip="p$t$kuroky-4" href="http://www.zhihu.com/people/kuroky-4" class="zg-link" title="Kuroky">Kuroky</a>、</span><span class="user-block"><a data-tip="p$t$wang-ke-zhao-stan" href="http://www.zhihu.com/people/wang-ke-zhao-stan" class="zg-link" title="王可钊stan">王可钊stan</a>、</span><span class="user-block"><a data-tip="p$t$jiang-tang-tang-59" href="http://www.zhihu.com/people/jiang-tang-tang-59" class="zg-link" title="姜汤汤">姜汤汤</a></span>
-</span>
-
-
-<a href="javascript:;" class="more"> 等人赞同</a>
-
-
-</div>
-</div>
-<div class="zm-item-rich-text" data-resourceid="6452822" data-action="/answer/content">
-
-<textarea class="content hidden">
-谢邀。&lt;br&gt;&lt;br&gt;既然提了较真的问题，咱也较真一下好了。&lt;br&gt;&lt;br&gt;其一，&lt;b&gt;猪八戒吃素就不许胖了？&lt;/b&gt;&lt;br&gt;&lt;b&gt;稍微懂点营养学就知道，吃素食并不能保证瘦。&lt;/b&gt;&lt;br&gt;要减肥，控制碳水化合物（淀粉）比控制肉食更有用。&lt;br&gt;看看猪八戒吃的是什么？唐僧在女儿国招亲时：&lt;br&gt;&lt;blockquote&gt;“那八戒那管好歹，放开肚子，只情吃起。也不管甚么玉屑米饭、蒸饼、糖糕、蘑菇、香蕈、笋芽，木耳、黄花菜、石花菜、紫菜、蔓菁、芋头、萝菔、山药、黄精、一骨辣噇了个罄尽，喝了五七杯酒。”&lt;/blockquote&gt;米饭、蒸饼、糖糕、酒、芋头——这些吃多了，&lt;b&gt;大量淀粉摄入&lt;/b&gt;，恐怕不太容易瘦吧？&lt;br&gt;&lt;blockquote&gt;食肠却又甚大：一顿要吃三五斗米饭，早间点心，也得百十个烧饼才彀。&lt;/blockquote&gt;百十个烧饼。&lt;br&gt;&lt;br&gt;其二，猪八戒路走得很长吗？&lt;br&gt;此去西天，十万八千里路。&lt;br&gt;唐僧师徒走了十四年。&lt;b&gt;平均每天走不到十一公里。&lt;/b&gt;&lt;br&gt;这个速度和距离，一般吧？每天跑步的就不提了，正常城市居民每天各类走走，都要小十公里呢。&lt;br&gt;还不算猪八戒们偶尔有腾云驾雾呢。&lt;br&gt;&lt;br&gt;&lt;b&gt;所以无论从饮食还是运动里程，都看不出猪八戒有瘦的必然性。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;然后……谁跟您说猪八戒一直胖也没减肥的？&lt;/b&gt;&lt;br&gt;&lt;b&gt;猪八戒真的胖吗？？？&lt;/b&gt;&lt;br&gt;&lt;br&gt;猪八戒出场：&lt;br&gt;&lt;blockquote&gt;那阵狂风过处，只见半空里来了一个妖精，果然生得丑陋：黑脸短毛，长喙大耳，穿一领青不青、蓝不蓝的梭布直裰，系一条花布手巾。&lt;/blockquote&gt;有一个胖字么？&lt;br&gt;&lt;br&gt;唐僧原话：&lt;br&gt;&lt;blockquote&gt;“他生得长嘴獠牙，刚鬃扇耳，身粗肚大，行路生风”。&lt;/blockquote&gt;最多说猪八戒粗壮肚大，这还是取经早期。&lt;br&gt;&lt;br&gt;《西游记》全书，说到胖，都是说唐僧“白胖和尚”，从来没有一个字直接说猪八戒胖的。&lt;br&gt;除了猪八戒自己说：&lt;br&gt;&lt;blockquote&gt;八戒道：“哥啊，又来捣鬼了！麻绳捆住，松些儿还着水喷，想你这瘦人儿不觉，我这胖的遭瘟哩！不信，你看两膊上，入肉已有二寸，如何脱身？”&lt;/blockquote&gt;然而他这里也是和孙悟空做对比。&lt;br&gt;&lt;br&gt;&lt;br&gt;按猪八戒运动分量不算大，吃得还多，可是除了自己说自己胖，最多被别人说粗壮（而且越后期越少）。&lt;br&gt;凭什么非说他胖呢？&lt;br&gt;&lt;br&gt;我可以明确告诉一句：&lt;br&gt;&lt;b&gt;《西游记》原书里，“胖和尚”这词出现七次。&lt;br&gt;三次是描述猪八戒变成个胖和尚（注意，没有说猪八戒自己胖，只是他变化的姿态）。&lt;br&gt;另外四次，是描述唐僧。&lt;br&gt;&lt;br&gt;原著说唐僧胖的次数比猪八戒都多，凭什么说猪八戒胖啊！！！！！！！！&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;说猪八戒胖的，都是被下面这个蒙蔽了！！！！&lt;/b&gt;&lt;br&gt;&lt;img src=&quot;https://pic4.zhimg.com/88c02004e0d7c7aba32a00fbd32a68ff_b.jpg&quot; data-rawheight=&quot;300&quot; data-rawwidth=&quot;250&quot; class=&quot;content_image&quot; width=&quot;250&quot;&gt;
-
-
-<span class="answer-date-link-wrap">
-<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-15" target="_blank" href="/question/35615289/answer/63733035">编辑于 2015-09-15</a>
-</span>
-
-</textarea>
-<div class="zh-summary summary clearfix">
-<img src="https://pic4.zhimg.com/88c02004e0d7c7aba32a00fbd32a68ff_xld.jpg" data-rawheight="300" data-rawwidth="250" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic4.zhimg.com/88c02004e0d7c7aba32a00fbd32a68ff_r.jpg">
-谢邀。既然提了较真的问题，咱也较真一下好了。其一，<b>猪八戒吃素就不许胖了？</b><b>稍微懂点营养学就知道，吃素食并不能保证瘦。</b>要减肥，控制碳水化合物（淀粉）比控制肉食更有用。看看猪八戒吃的是什么？唐僧在女儿国招亲时：“那八戒那管好歹，放开肚子，只情吃…
-
-<a href="/question/35615289/answer/63733035" class="toggle-expand">显示全部</a>
-
-</div>
-
-</div>
-<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
-<div class="zm-meta-panel">
-
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6452822"><i class="z-icon-follow"></i>关注问题</a>
-
-<a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>263 条评论</a>
-
-
-<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
-
-
-
-<a href="#" class="meta-item zu-autohide" name="share">
-<i class="z-icon-share"></i>分享</a>
-<a href="#" class="meta-item zu-autohide" name="favo">
-<i class="z-icon-collect"></i>收藏</a>
-
-
-
-
-<span class="zg-bull zu-autohide">&bull;</span>
-
-<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
-
-<span class="zg-bull zu-autohide">&bull;</span>
-<a href="#" name="report" class="meta-item zu-autohide">举报</a>
-
-
-
-<span class="zg-bull">&bull;</span>
-
-<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic2.zhimg.com/424c70919_m.jpg"> 禁止转载 </a>
-
-
-<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
-</div>
-
-</div>
-</div>
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1442232635" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">1 周前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a title="张佳玮"
-data-tip="p$t$zhang-jia-wei"
-class="zm-item-link-avatar"
-href="/people/zhang-jia-wei">
-<img src="https://pic2.zhimg.com/424c70919_s.jpg" class="zm-item-img-avatar">
-</a><a data-tip="p$t$zhang-jia-wei" href="http://www.zhihu.com/people/zhang-jia-wei" class="zg-link" title="张佳玮">张佳玮</a> 回答了问题
-
-<a class="question_link" target="_blank" href="/question/35578931/answer/63635675">如何评价摩西马龙？</a>
-</div>
-<div tabindex="-1" class="zm-item-answer "
-data-aid="20868817"
-data-atoken="63635675"
-data-collapsed="0"
-data-created="1442232635"
-data-deleted="0"
-data-isowner="0"
-data-helpful="1"
-data-copyable="0"
->
-<a class="zg-anchor-hidden" name="answer-20868817"></a>
-
-<div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="490">490</a>
-</div>
-
-<div class="zm-votebar">
-<button class="up ">
-<i class="icon vote-arrow"></i>
-<span class="label">赞同</span>
-<span class="count">490</span>
-</button>
-<button class="down ">
-<i class="icon vote-arrow"></i>
-<span class="label">反对</span>
-</button>
-</div>
-
-
-<div class="answer-head">
-
-<div class="zm-item-answer-author-info">
-<h3 class="zm-item-answer-author-wrap">
-
-
-<a data-tip="p$t$zhang-jia-wei"
-class="zm-item-link-avatar"
-href="/people/zhang-jia-wei">
-<img src="https://pic2.zhimg.com/424c70919_s.jpg"
-class="zm-list-avatar"
-data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
-</a>
-
-
-
-<a data-tip="p$t$zhang-jia-wei" href="/people/zhang-jia-wei">张佳玮</a>，<strong title="公众号：张佳玮写字的地方" class="zu-question-my-bio">公众号：张佳玮写字的地方</strong>
-
-</h3>
-<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
-</div>
-
-<div class="zm-item-vote-info " data-votecount="490">
-
-<span class="voters">
-<span class="user-block"><a data-tip="p$t$shi-cheng-rui" href="http://www.zhihu.com/people/shi-cheng-rui" class="zg-link" title="施成瑞">施成瑞</a>、</span><span class="user-block"><a data-tip="p$t$trompi-mi" href="http://www.zhihu.com/people/trompi-mi" class="zg-link" title="trompi">trompi</a>、</span><span class="user-block"><a data-tip="p$t$hu-tu-95-66" href="http://www.zhihu.com/people/hu-tu-95-66" class="zg-link" title="糊涂">糊涂</a></span>
-</span>
-
-
-<a href="javascript:;" class="more"> 等人赞同</a>
-
-
-</div>
-</div>
-<div class="zm-item-rich-text" data-resourceid="6438232" data-action="/answer/content">
-
-<textarea class="content hidden">
-谢邀。&lt;br&gt;&lt;br&gt;&lt;b&gt;摩西-欧仁-马龙。&lt;/b&gt;&lt;br&gt;&lt;b&gt; (1955年3月23日 – 2015年9月13日) &lt;/b&gt;&lt;br&gt;&lt;b&gt;NBA史上最常被人忘怀的巨星。&lt;/b&gt;&lt;br&gt;&lt;b&gt;1979-83的NBA实际最强者。&lt;/b&gt;&lt;br&gt;&lt;b&gt;“篮板永远在那儿”&lt;/b&gt;&lt;br&gt;&lt;br&gt;一些枯燥的数字先放着：&lt;br&gt;NBA史上得分第八（27409分，如果算上ABA得分的话二万九，史上第七）。&lt;br&gt;篮板第五（16212，仅次于张伯伦、拉塞尔、天勾和海耶斯）。&lt;br&gt;罚球数和罚中数都是第二（只少过邮差）。&lt;br&gt;三个常规赛MVP（比他多的人有：天勾、乔丹、拉塞尔、张伯伦、勒布朗，就这些）。&lt;br&gt;一个总决赛MVP，史上第一多的前场篮板，六届篮板王（张伯伦十一届，罗德曼七届）。&lt;br&gt;以及：&lt;br&gt;&lt;b&gt;在1979-1983年，他是NBA实际上的最强球员：&lt;/b&gt;那几年，他、J博士和天钩三足鼎立，但他还是胜出了一筹。这五年里，他拿到三个常规赛MVP、四个篮板王，场均24分15篮板。在那之后，才真正进入伯德VS魔术师时代。&lt;br&gt;但在谈论历史前十乃至前十五时，很多人会下意识的遗忘掉他。就像世界总是只记住J博士的飞翔一样，摩西-马龙给历史留下的印象，也无非就是“这家伙的前场篮板很霸道”。&lt;br&gt;但除此之外，他当然还有许多别的细节。&lt;br&gt;&lt;br&gt;13岁前，他打橄榄球，之后他身高长得太快，举动笨拙，他的哥们大卫-佩尔说“我们都嘲笑他，打他，看他尴尬的样子。”但到18岁，除非他允诺“我不进禁区”，没人肯跟他打街头篮球了：他太凶暴了。&lt;br&gt;1974年，全美有超过250个大学想要摩西。那时他代表彼德斯堡高中，统治了弗吉尼亚州高中篮球界，高四时，场均36分26篮板10封盖。&lt;br&gt;他注册身高208公分，实际上并没有。&lt;b&gt;他的特色是快，匪夷所思的快。&lt;/b&gt;北卡的斯隆教练说他“太快了，只要一动念，就能瞬移到那里。”有人误会他很笨，因为他少言寡语，声音低厚，好像从脚底升到口腔来的。当然事实并非如此。&lt;br&gt;“我不问很多问题，只是观察周围，然后得出结论。”&lt;br&gt;&lt;br&gt;他的母亲要求“别让我的儿子去哈佛。”他自己则认为，“对，大学篮球对我来说太简单了。我想打职业篮球。”&lt;br&gt;&lt;b&gt;他被ABA的犹他星队选中，成为史上首位高中生职业篮球手，是的，第一位高中生。两年后去了NBA。&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;刚打上职业篮球时，他得到的评价：“他比后卫还快。”&lt;/b&gt;为犹他星队打的前6场，他抓了65个前场篮板。他漠无表情的面对肘子、膝盖、推搡和捶打，而且对队里的老将们说：“你们可以继续说我是菜鸟，但我绝对是你们见过最他妈强悍的菜鸟。”&lt;br&gt;ABA与NBA合并，1976年他到了休斯顿，一年后这里成为了他的球队。1978-79季，他场均25+18的数据，带领火箭47胜，拿到自己第一个常规赛MVP。&lt;br&gt;实际上，那年他刚24岁。&lt;br&gt;&lt;br&gt;1981年他做出伟大创举：带着40胜42负的休斯顿火箭，搞了个黑六，淘汰卫冕冠军湖人，进了总决赛湖人当时的风格已初见“表演时刻”的端倪，后场篮板+一传+魔术师推进闪电战。可是遭了克星，火箭没啥长处，就是前场篮板霸道，摩西-马龙可是史上前场篮板之王。系列赛第一场，马龙带着保尔茨、琼斯两位猛男去冲贾巴尔一把老骨头，马龙全场38分23篮板，火箭全场篮板55比46压倒湖人，让湖人推不起快攻来。这是NBA史上最经典的下克上之一：摩西带领火箭，2比1（那会儿首轮还是三场定胜负）搞定了湖人，然后他又摧毁了马刺和国王，直抵总决赛——带领一支常规赛40胜的队伍。总决赛，被帕里什、伯德、麦克海尔、马斯维尔包围之下，他场均只有22分，40%命中率，但不妨碍他山呼海啸抓到98个篮板球，包括46个前场篮板。&lt;br&gt;下一个赛季，1981-82季，他场均31.1分（1980年之后，再没有中锋得到过这种成绩）14.7篮板，第二个常规赛MVP。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“我爱抓篮板。”他说，“得分手可能会有起伏的夜晚，篮板则永远在那儿。”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1982年夏天，他成为自由人时，和2010年的勒布朗很相似：高中生巨星；两个常规赛MVP；进过一次总决赛；需要一个总冠军。那年，NBA第一次尝试用惠普电脑做一些数据计算，按照尼克斯天晓得怎么计算的结果，如果纽约得到摩西，会在1982-83季每场多出3783个观众，战绩从33胜提升到50胜。&lt;br&gt;当然，尼克斯永远无法验证这事的准确度了：&lt;br&gt;摩西去了J博士的费城，而且一到地方就说：&lt;br&gt;“这是J博士的球队……你们别考虑给我喂球，我只要抓前场篮板就可以了！”&lt;br&gt;&lt;br&gt;但他依然成了费城的老大。一方面是J博士的谦退性格使然，一方面是摩西的感染力太大。费城大将卡德维尔-琼斯有过以下看法：“J博士需要一个教练来确立他的核心位置，他不喜欢自己开口，来张扬自己是老大。”J博士是个绅士，是个吐属斯文的好人，是个优美的飞翔者，却不是个大权独揽的老大哥型领袖。所以他和摩西-马龙，反而非常合拍。康宁汉姆教练承认“摩西让我们的每个环节都增加了侵略性。”费城经理帕特-威廉姆斯认为：&lt;br&gt;“之前，我们挑战波士顿，如同大卫挑战歌利亚；但现在有了摩西，我们变成了歌利亚。”&lt;br&gt;&lt;br&gt;摩西迅速将费城带成了一个——用他自己的说法——篮球黑帮。他粗鲁凶猛的碾压对手，在场上场下抖包袱说笑话。&lt;br&gt;比如，他在密尔沃基打完雄鹿时，却会在酒店前台跟人算现金时斤斤计较，“我是要买单，不是要买酒店！”&lt;br&gt;他回忆在休斯顿大学看见年轻的奥拉朱旺时说，“这小子学打球很快，可是还是只会两句英文：‘女人’和‘我的球！’”&lt;br&gt;&lt;br&gt;1982-83季的费城76人于是成为史上传奇之一：常规赛65胜，摩西和J博士双双踏进年度一阵，托尼和奇克斯双后场被选入全明星。摩西当选第三度常规赛MVP时，如此展望季后赛：“FO！FO！FO！”事实是，他们4比0碾压了尼克斯，4比1扫灭了密尔沃基，总决赛4比0干掉了湖人。他没能阻挡天勾，但天勾也无法阻挡他场均26分18篮板——在决定胜负的第四场，摩西抓到23个篮板，其中第四节10个篮板。是他的篮板球和J博士的最后时刻连得7分，锁定了这个冠军，以及摩西唯一一个总决赛MVP。&lt;br&gt;&lt;b&gt;1983年完全属于他。&lt;/b&gt;&lt;br&gt;&lt;br&gt;但他的冠军运，也就到此为止。自那以后，他又打了十二年篮球，来得及和巴克利搭档两年，成为巴克利精神上的父亲，保持20+10直到80年代末期，但只在1985年过了一次首轮，但他的巅峰岁月留在了1978-1983——五年内三个常规赛MVP一个总冠军四个篮板王，史上最伟大球队之一的领袖，到此为止。&lt;br&gt;&lt;br&gt;一个很少人注意的细节：&lt;br&gt;&lt;b&gt;身为史上最伟大篮板手之一，摩西的手小得异常，胳膊尤其短，号称208公分身高但实际并没有。这样一个家伙，如何成为篮板王，如何单季场均31分的？——最后这点，鲨鱼都没能做到。&lt;/b&gt;&lt;br&gt;&lt;b&gt;如果要描述他的风格，你可以想像：兰多夫拥有了格里芬的弹速、协调性与跑跳。就是如此。摩西-马龙习惯全场奔跑，移动迅捷，能在15尺中投。在“篮下出手、被干扰、二次起跳、三次起跳，补进或造罚球”方面，NBA历史上没有人能和他相比。&lt;/b&gt;&lt;br&gt;&lt;b&gt;他多年与贾巴尔对位的绝技，是依靠速率和低重心，闪开空间或强行一扛，在天勾愣神失位的瞬间，从劈叉下蹲压重心的状态猛然拔起，一个上篮——虽然他常描述自己“打球如老鼠，敏锐的感觉前场篮板会在哪里”，但这种急速移动、从滚地龙到蹦高虫的迅疾，才是他最独一无二的技艺，支撑着他粗鲁凶猛、无坚不摧的打法。他并不是个高效的攻击手，但他勤奋、活力十足、随时都能从15英尺外向篮筐滚去，不断从巨人们的身侧晃过，卡住位置，嵌进对手的骨头里——这就是他了。&lt;/b&gt;&lt;br&gt;&lt;br&gt;1983年夺冠之夜，他如此吹嘘自己：&lt;b&gt;“我屠戮对手的狠劲，恰如阿尔-卡彭（1925-31年的芝加哥黑帮教父）。”&lt;/b&gt;事实上，的确如此。他的这股子黑帮滚地龙脾气，让巴克利一度把他当作精神上的父亲。某种情况下，此后巴克利的打法，可以看作摩西-马龙在NBA的精神延续：一个随时将自己的身体镶嵌进对手肌肉与灵魂里，恶狠狠吞食一切的烈焰狂魔。就像90年代的罗德曼这个坏蛋，是大坏蛋兰比尔在NBA的一个影子似的。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://pic3.zhimg.com/9d5a35f5270c4f45e5cfe7c93fa89b22_b.jpg&quot; data-rawwidth=&quot;662&quot; data-rawheight=&quot;494&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;662&quot; data-original=&quot;https://pic3.zhimg.com/9d5a35f5270c4f45e5cfe7c93fa89b22_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;RIP MOSES。
-
-
-<span class="answer-date-link-wrap">
-<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-09-14" target="_blank" href="/question/35578931/answer/63635675">编辑于 2015-09-14</a>
-</span>
-
-</textarea>
-<div class="zh-summary summary clearfix">
-<img src="https://pic3.zhimg.com/9d5a35f5270c4f45e5cfe7c93fa89b22_xld.jpg" data-rawwidth="662" data-rawheight="494" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic3.zhimg.com/9d5a35f5270c4f45e5cfe7c93fa89b22_r.jpg">
-谢邀。<b>摩西-欧仁-马龙。</b><b> (1955年3月23日 – 2015年9月13日) </b><b>NBA史上最常被人忘怀的巨星。</b><b>1979-83的NBA实际最强者。</b><b>“篮板永远在那儿”</b>一些枯燥的数字先放着：NBA史上得分第八（27409分，如果算上ABA得分的话二万九，史上第七）。篮板第五（16212，仅次于张…
-
-<a href="/question/35578931/answer/63635675" class="toggle-expand">显示全部</a>
-
-</div>
-
-</div>
-<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
-<div class="zm-meta-panel">
-
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6438232"><i class="z-icon-follow"></i>关注问题</a>
-
-<a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>46 条评论</a>
-
-
-<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
-
-
-
-<a href="#" class="meta-item zu-autohide" name="share">
-<i class="z-icon-share"></i>分享</a>
-<a href="#" class="meta-item zu-autohide" name="favo">
-<i class="z-icon-collect"></i>收藏</a>
-
-
-
-
-<span class="zg-bull zu-autohide">&bull;</span>
-
-<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
-
-<span class="zg-bull zu-autohide">&bull;</span>
-<a href="#" name="report" class="meta-item zu-autohide">举报</a>
-
-
-
-<span class="zg-bull">&bull;</span>
-
-<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="https://pic2.zhimg.com/424c70919_m.jpg"> 禁止转载 </a>
-
-
-<a href="#" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
-</div>
-
-</div>
-</div>
-</div>
-
 
 </div>
 </div>
@@ -1927,7 +1927,7 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 </a>
 <a class="item" href="/people/zhang-jia-wei/followers">
 <span class="zg-gray-normal">关注者</span><br />
-<strong>878396</strong><label> 人</label>
+<strong>878540</strong><label> 人</label>
 </a>
 </div>
 
@@ -1986,7 +1986,7 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner">
-<span class="zg-gray-normal">个人主页被 <strong>208660</strong> 人浏览</span>
+<span class="zg-gray-normal">个人主页被 <strong>208718</strong> 人浏览</span>
 </div>
 </div>
 
@@ -2038,7 +2038,7 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <script type="text/json" class="json-inline" data-name="permissions">[]</script>
 
 
-<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1442399505000,"now":1442922178000,"abtest_mask":"---------0--------------------","user_attr":[1,0,0,"-",2],"user_hash":"67e387e4332e5c8cdbf653cc0a69b279"}</script>
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1442399505000,"now":1442937901000,"abtest_mask":"---------0--------------------","user_attr":[1,0,0,"-",2],"user_hash":"67e387e4332e5c8cdbf653cc0a69b279"}</script>
 
 <script src="http://static.zhihu.com/static/revved/js/-/vendor.min.e81122a3.js"></script>
 <script src="http://static.zhihu.com/static/revved/js/-/closure/app_core.e4ca33e5.js"></script>
@@ -2046,10 +2046,10 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <script src="http://static.zhihu.com/static/revved/js/-/closure/app.f1f9257b.js"></script>
 <script src="http://static.zhihu.com/static/revved/js/-/closure/rich_text_editor.ce1c668c.js"></script>
 
-<script type="text/zscript" znonce="f4749d9568be4de3bab2eef0fb0be8d5">
+<script type="text/zscript" znonce="e47110cdcd8742379b2e4c801f4d5bae">
 ZH.entryP();
 </script>
 
-<input type="hidden" name="_xsrf" value="917f86aa4fd11b6d0fffb96c1af355ca"/>
+<input type="hidden" name="_xsrf" value="3bf89671168d075602a40d67e30ffbf6"/>
 </body>
 </html>

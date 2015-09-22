@@ -60,10 +60,11 @@ def remove_userinfo(db, cond):
     
     
     
-# if __name__ == '__main__':
-#     db = mongo_connection().spider
+if __name__ == '__main__':
+    db = mongo_connection().spider
 #     db.test.update({'id':12}, {'$set':{'name':'kkkkkkkkk'}})
 #     ret = db.test.find()
 #     print [item for item in ret]
+    remove_userinfo(db, {'p_name':'linan'})
 
     
