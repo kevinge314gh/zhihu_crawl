@@ -14,7 +14,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/zhang-jia-wei">
-<meta id="znonce" name="znonce" content="ff8951645ed543d8b170e712e30dc088">
+<meta id="znonce" name="znonce" content="952adc5ec1a24cfa851da522990397c2">
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
@@ -540,8 +540,8 @@ style="visibility:hidden" data-count="0">
 <div class="zm-profile-header-operation zg-clear ">
 <div class="zm-profile-header-info-list">
 <span class="zm-profile-header-info-title">获得</span>
-<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>1360016</strong>赞同</span>
-<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>254133</strong>感谢</span>
+<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>1360092</strong>赞同</span>
+<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>254148</strong>感谢</span>
 
 </div>
 
@@ -606,7 +606,7 @@ href="/people/zhang-jia-wei/logs">
 
 <div class="zm-profile-section-item zg-clear">
 <a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">764</div>
+<div class="zm-profile-vote-num">793</div>
 <div class="zm-profile-vote-type">赞同</div>
 </a>
 <div class="zm-profile-section-main">
@@ -621,7 +621,7 @@ href="/people/zhang-jia-wei/logs">
 
 <div class="zm-profile-section-item zg-clear">
 <a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">522</div>
+<div class="zm-profile-vote-num">535</div>
 <div class="zm-profile-vote-type">赞同</div>
 </a>
 <div class="zm-profile-section-main">
@@ -636,7 +636,7 @@ href="/people/zhang-jia-wei/logs">
 
 <div class="zm-profile-section-item zg-clear">
 <a class="zm-profile-vote-count" href="javascript:void(0);">
-<div class="zm-profile-vote-num">383</div>
+<div class="zm-profile-vote-num">384</div>
 <div class="zm-profile-vote-type">赞同</div>
 </a>
 <div class="zm-profile-section-main">
@@ -662,7 +662,7 @@ href="/people/zhang-jia-wei/logs">
 <div id="zh-profile-activity-page-list">
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1442925110" data-type="a" >
-<span class="zm-profile-setion-time zg-gray zg-right">13 小时前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">14 小时前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a title="张佳玮"
 data-tip="p$t$zhang-jia-wei"
@@ -686,14 +686,14 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-21319951"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="764">764</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="793">793</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">764</span>
+<span class="count">793</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -724,10 +724,10 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="764">
+<div class="zm-item-vote-info " data-votecount="793">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$wangchao.aq" href="http://www.zhihu.com/people/wangchao.aq" class="zg-link" title="王超">王超</a>、</span><span class="user-block"><a data-tip="p$t$kong-hao-96" href="http://www.zhihu.com/people/kong-hao-96" class="zg-link" title="孔昊">孔昊</a>、</span><span class="user-block"><a data-tip="p$t$Oceanus-" href="http://www.zhihu.com/people/Oceanus-" class="zg-link" title="弦将手语">弦将手语</a></span>
+<span class="user-block"><a data-tip="p$t$chang-ming-55-35" href="http://www.zhihu.com/people/chang-ming-55-35" class="zg-link" title="常鸣">常鸣</a>、</span><span class="user-block"><a data-tip="p$t$zhao-ben-shan-44" href="http://www.zhihu.com/people/zhao-ben-shan-44" class="zg-link" title="夜寐星城">夜寐星城</a>、</span><span class="user-block"><a data-tip="p$t$yisheng-er-8" href="http://www.zhihu.com/people/yisheng-er-8" class="zg-link" title="一生二">一生二</a></span>
 </span>
 
 
@@ -762,7 +762,7 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6519530"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>89 条评论</a>
+<i class="z-icon-comment"></i>96 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -823,14 +823,14 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-21317799"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="522">522</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="535">535</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">522</span>
+<span class="count">535</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -861,10 +861,10 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="522">
+<div class="zm-item-vote-info " data-votecount="535">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$yang-wang-53-92" href="http://www.zhihu.com/people/yang-wang-53-92" class="zg-link" title="杨没了王">杨没了王</a>、</span><span class="user-block"><a data-tip="p$t$zhou-xiao-gou-81" href="http://www.zhihu.com/people/zhou-xiao-gou-81" class="zg-link" title="周小狗">周小狗</a>、</span><span class="user-block"><a data-tip="p$t$xuan-zhang-12" href="http://www.zhihu.com/people/xuan-zhang-12" class="zg-link" title="张玄">张玄</a></span>
+<span class="user-block"><a data-tip="p$t$lizychina" href="http://www.zhihu.com/people/lizychina" class="zg-link" title="沉默入迷">沉默入迷</a>、</span><span class="user-block"><a data-tip="p$t$qu-xie-40" href="http://www.zhihu.com/people/qu-xie-40" class="zg-link" title="曲谐">曲谐</a>、</span><span class="user-block"><a data-tip="p$t$zhou-hong-69-11" href="http://www.zhihu.com/people/zhou-hong-69-11" class="zg-link" title="周宏">周宏</a></span>
 </span>
 
 
@@ -899,7 +899,7 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-6517496"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class=" meta-item toggle-comment">
-<i class="z-icon-comment"></i>62 条评论</a>
+<i class="z-icon-comment"></i>64 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -960,14 +960,14 @@ data-copyable="0"
 <a class="zg-anchor-hidden" name="answer-21151199"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="383">383</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="384">384</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">383</span>
+<span class="count">384</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -998,10 +998,10 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="383">
+<div class="zm-item-vote-info " data-votecount="384">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$chen-xian-sheng-23-91" href="http://www.zhihu.com/people/chen-xian-sheng-23-91" class="zg-link" title="陈先生">陈先生</a>、</span><span class="user-block"><a data-tip="p$t$ru-lai-lai-liao" href="http://www.zhihu.com/people/ru-lai-lai-liao" class="zg-link" title="如来来了">如来来了</a>、</span><span class="user-block"><a data-tip="p$t$li-shi-ying-46" href="http://www.zhihu.com/people/li-shi-ying-46" class="zg-link" title="李世颖">李世颖</a></span>
+<span class="user-block"><a data-tip="p$t$milanner" href="http://www.zhihu.com/people/milanner" class="zg-link" title="糾結倫">糾結倫</a>、</span><span class="user-block"><a data-tip="p$t$chen-xian-sheng-23-91" href="http://www.zhihu.com/people/chen-xian-sheng-23-91" class="zg-link" title="陈先生">陈先生</a>、</span><span class="user-block"><a data-tip="p$t$ru-lai-lai-liao" href="http://www.zhihu.com/people/ru-lai-lai-liao" class="zg-link" title="如来来了">如来来了</a></span>
 </span>
 
 
@@ -1090,14 +1090,14 @@ href="/people/zhang-jia-wei">
 <a class="zg-anchor-hidden" name="post-20226684"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="694">694</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="695">695</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">694</span>
+<span class="count">695</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1112,10 +1112,10 @@ href="/people/zhang-jia-wei">
 <a href="/people/zhang-jia-wei" data-tip="p$t$zhang-jia-wei" class="name">张佳玮</a>，公众号：张佳玮写字的地方
 
 </div>
-<div class="zm-item-vote-info " data-votecount="694">
+<div class="zm-item-vote-info " data-votecount="695">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$ni-ting-guo-tian-kong" href="http://www.zhihu.com/people/ni-ting-guo-tian-kong" class="zg-link" title="你听过天空">你听过天空</a>、</span><span class="user-block"><a data-tip="p$t$jing-yuan-24" href="http://www.zhihu.com/people/jing-yuan-24" class="zg-link" title="景元">景元</a>、</span><span class="user-block"><a data-tip="p$t$xiangdemei" href="http://www.zhihu.com/people/xiangdemei" class="zg-link" title="MMM想的美丶">MMM想的美丶</a>、</span><span class="user-block"><a data-tip="p$t$qu-xiao-nong" href="http://www.zhihu.com/people/qu-xiao-nong" class="zg-link" title="屈小弄">屈小弄</a></span>
+<span class="user-block"><a data-tip="p$t$ceng-lu-35-11" href="http://www.zhihu.com/people/ceng-lu-35-11" class="zg-link" title="曾璐">曾璐</a>、</span><span class="user-block"><a data-tip="p$t$ni-ting-guo-tian-kong" href="http://www.zhihu.com/people/ni-ting-guo-tian-kong" class="zg-link" title="你听过天空">你听过天空</a>、</span><span class="user-block"><a data-tip="p$t$jing-yuan-24" href="http://www.zhihu.com/people/jing-yuan-24" class="zg-link" title="景元">景元</a>、</span><span class="user-block"><a data-tip="p$t$xiangdemei" href="http://www.zhihu.com/people/xiangdemei" class="zg-link" title="MMM想的美丶">MMM想的美丶</a></span>
 </span>
 
 
@@ -1179,14 +1179,14 @@ data-copyable="0"
 <a class="zg-anchor-hidden" name="answer-21042727"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="364">364</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="365">365</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">364</span>
+<span class="count">365</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1217,10 +1217,10 @@ data-source="https://pic2.zhimg.com/424c70919_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="364">
+<div class="zm-item-vote-info " data-votecount="365">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$fang-xiao-mu-66" href="http://www.zhihu.com/people/fang-xiao-mu-66" class="zg-link" title="方小牧">方小牧</a>、</span><span class="user-block"><a data-tip="p$t$Chris.Jiang" href="http://www.zhihu.com/people/Chris.Jiang" class="zg-link" title="杨沉降">杨沉降</a>、</span><span class="user-block"><a data-tip="p$t$feng-mu-pian-lin" href="http://www.zhihu.com/people/feng-mu-pian-lin" class="zg-link" title="风木頨林">风木頨林</a></span>
+<span class="user-block"><a data-tip="p$t$wugao002" href="http://www.zhihu.com/people/wugao002" class="zg-link" title="wugao002">wugao002</a>、</span><span class="user-block"><a data-tip="p$t$fang-xiao-mu-66" href="http://www.zhihu.com/people/fang-xiao-mu-66" class="zg-link" title="方小牧">方小牧</a>、</span><span class="user-block"><a data-tip="p$t$Chris.Jiang" href="http://www.zhihu.com/people/Chris.Jiang" class="zg-link" title="杨沉降">杨沉降</a></span>
 </span>
 
 
@@ -1448,14 +1448,14 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-19267143"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1360">1360</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1361">1361</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">1360</span>
+<span class="count">1361</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1486,10 +1486,10 @@ data-source="https://pic3.zhimg.com/0f56239e3d398832de52af8c0d428b52_s.jpg" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="1360">
+<div class="zm-item-vote-info " data-votecount="1361">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$allen-chang-23" href="http://www.zhihu.com/people/allen-chang-23" class="zg-link" title="Allen CHang">Allen CHang</a>、</span><span class="user-block"><a data-tip="p$t$su-ha-28" href="http://www.zhihu.com/people/su-ha-28" class="zg-link" title="苏哈">苏哈</a>、</span><span class="user-block"><a data-tip="p$t$jguo-jian" href="http://www.zhihu.com/people/jguo-jian" class="zg-link" title="玉儿小常">玉儿小常</a></span>
+<span class="user-block"><a data-tip="p$t$wang-yi-20-72" href="http://www.zhihu.com/people/wang-yi-20-72" class="zg-link" title="King Queen">King Queen</a>、</span><span class="user-block"><a data-tip="p$t$allen-chang-23" href="http://www.zhihu.com/people/allen-chang-23" class="zg-link" title="Allen CHang">Allen CHang</a>、</span><span class="user-block"><a data-tip="p$t$su-ha-28" href="http://www.zhihu.com/people/su-ha-28" class="zg-link" title="苏哈">苏哈</a></span>
 </span>
 
 
@@ -1718,14 +1718,14 @@ data-copyable="0"
 <a class="zg-anchor-hidden" name="answer-20904629"></a>
 
 <div class="zm-item-vote">
-<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="6861">6861</a>
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="6864">6864</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
 <span class="label">赞同</span>
-<span class="count">6861</span>
+<span class="count">6864</span>
 </button>
 <button class="down ">
 <i class="icon vote-arrow"></i>
@@ -1756,10 +1756,10 @@ data-source="https://pic4.zhimg.com/a71e0ad8f6fbe604a9c60ea4aad7ff1f_s.png" />
 <a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
 </div>
 
-<div class="zm-item-vote-info " data-votecount="6861">
+<div class="zm-item-vote-info " data-votecount="6864">
 
 <span class="voters">
-<span class="user-block"><a data-tip="p$t$hu-ha-ha-35-13" href="http://www.zhihu.com/people/hu-ha-ha-35-13" class="zg-link" title="呼哈哈">呼哈哈</a>、</span><span class="user-block"><a data-tip="p$t$tong-yu-85-71" href="http://www.zhihu.com/people/tong-yu-85-71" class="zg-link" title="童煜">童煜</a>、</span><span class="user-block"><a data-tip="p$t$cl-tong-11" href="http://www.zhihu.com/people/cl-tong-11" class="zg-link" title="cl Tong">cl Tong</a></span>
+<span class="user-block"><a data-tip="p$t$wang-bei-68" href="http://www.zhihu.com/people/wang-bei-68" class="zg-link" title="王备">王备</a>、</span><span class="user-block"><a data-tip="p$t$dong-e-15" href="http://www.zhihu.com/people/dong-e-15" class="zg-link" title="董饿">董饿</a>、</span><span class="user-block"><a data-tip="p$t$feng-shan-shui" href="http://www.zhihu.com/people/feng-shan-shui" class="zg-link" title="风山水">风山水</a></span>
 </span>
 
 
@@ -1927,7 +1927,7 @@ href="/people/zhang-jia-wei">
 </a>
 <a class="item" href="/people/zhang-jia-wei/followers">
 <span class="zg-gray-normal">关注者</span><br />
-<strong>878668</strong><label> 人</label>
+<strong>878685</strong><label> 人</label>
 </a>
 </div>
 
@@ -1986,7 +1986,7 @@ href="/people/zhang-jia-wei">
 
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner">
-<span class="zg-gray-normal">个人主页被 <strong>208758</strong> 人浏览</span>
+<span class="zg-gray-normal">个人主页被 <strong>208763</strong> 人浏览</span>
 </div>
 </div>
 
@@ -2038,7 +2038,7 @@ href="/people/zhang-jia-wei">
 <script type="text/json" class="json-inline" data-name="permissions">[]</script>
 
 
-<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1442399505000,"now":1442974195000,"abtest_mask":"---------0--------------------","user_attr":[1,0,0,"-",2],"user_hash":"67e387e4332e5c8cdbf653cc0a69b279"}</script>
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1442399505000,"now":1442976080000,"abtest_mask":"---------0--------------------","user_attr":[1,0,0,"-",2],"user_hash":"67e387e4332e5c8cdbf653cc0a69b279"}</script>
 
 <script src="http://static.zhihu.com/static/revved/js/-/vendor.min.e81122a3.js"></script>
 <script src="http://static.zhihu.com/static/revved/js/-/closure/app_core.e4ca33e5.js"></script>
@@ -2046,7 +2046,7 @@ href="/people/zhang-jia-wei">
 <script src="http://static.zhihu.com/static/revved/js/-/closure/app.f1f9257b.js"></script>
 <script src="http://static.zhihu.com/static/revved/js/-/closure/rich_text_editor.ce1c668c.js"></script>
 
-<script type="text/zscript" znonce="ff8951645ed543d8b170e712e30dc088">
+<script type="text/zscript" znonce="952adc5ec1a24cfa851da522990397c2">
 ZH.entryP();
 </script>
 

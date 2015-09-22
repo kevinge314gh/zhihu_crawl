@@ -1,0 +1,6 @@
+*.py[co]
+build/
+data/*
+.settings
+.project
+.pydevproject
