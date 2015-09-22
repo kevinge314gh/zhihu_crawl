@@ -13,13 +13,15 @@ import re
 import time
 from config import ROOT_PATH,HEADERS
 
-
 #set cookie
 def set_cookie():
-    cj = cookielib.CookieJar()
-    cookie_support = urllib2.HTTPCookieProcessor(cj)
-    opener = urllib2.build_opener(cookie_support, urllib2.HTTPHandler)
+    #设置保存cookie的文件
+    filename = '%s/data/cookie.txt'%ROOT_PATH
+    cookie = cookielib.MozillaCookieJar(filename)
+    handler = urllib2.HTTPCookieProcessor(cookie)
+    opener = urllib2.build_opener(handler, urllib2.HTTPHandler)
     urllib2.install_opener(opener)
+    return cookie
     
 class login_zhihu():
     hosturl = 'http://www.zhihu.com'
@@ -42,7 +44,7 @@ class login_zhihu():
         captchaurl = self.captcha_pre + str(int(time.time() * 1000))
         print captchaurl
         data = urllib2.urlopen(captchaurl).read()
-        f = open( '%s/data/captcha.gif'%ROOT_PATH, 'w')
+        f = open( '%s/data/captcha.png'%ROOT_PATH, 'w')
         f.write(data)
         f.close()
         captcha = raw_input( 'captcha is: ')
@@ -66,7 +68,7 @@ class login_zhihu():
     
     def login_zhihu(self):
         #set cookie
-        set_cookie()
+        cookie = set_cookie()
         #post it
         captcha=self.get_captcha()
         xsrf = self.get_xsrf()
@@ -80,9 +82,13 @@ class login_zhihu():
         html =  response.read()
         name = re.findall( r'<span class="name">(.*?)</span>', html)
         if name == ['kevin']:
+            #保存cookie到文件
+            cookie.save(ignore_discard=True, ignore_expires=True)
             return True
         else:
             return False
+
+
         
 if __name__ == '__main__':
     cls = login_zhihu()

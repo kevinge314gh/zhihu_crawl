@@ -9,6 +9,7 @@ Created on 2015年9月15日
 import urllib2
 import re
 import login
+import cookielib
 
 from config import ROOT_PATH,HEADERS
 
@@ -17,8 +18,13 @@ URL = 'http://www.zhihu.com'
 url_people = 'http://www.zhihu.com/people/'
 
 def get_html(url):
-    #set cookie
-    login.set_cookie()
+    #load cookie
+    cookie = cookielib.MozillaCookieJar()
+    #从文件中读取cookie内容到变量
+    cookie.load('%s/data/cookie.txt'%ROOT_PATH, ignore_discard=True, ignore_expires=True)
+    handler = urllib2.HTTPCookieProcessor(cookie)
+    opener = urllib2.build_opener(handler, urllib2.HTTPHandler)
+    urllib2.install_opener(opener)
     
     request = urllib2.Request(url= url , headers=HEADERS)
     response = urllib2.urlopen(request)
@@ -52,15 +58,20 @@ def getUserinfos(p_name):
     userinfo['followers'] = follow[1]
     for k,v in userinfo.items():
         print k, ':', v
+    check_oline(html)
     return userinfo
 
-
-
-
+def check_oline(html):
+    name = re.findall( r'<span class="name">(.*?)</span>\n<img', html)
+    if len(name):
+        print name[0], " is online"
+        return 1
+    print 'not online'
+    return 0
     
 if __name__ == '__main__':
     html = get_html(url_people+'linan')
-    name = re.findall( r'<span class="name">(.*?)</span>', html)
+    name = re.findall( r'<span class="name">(.*?)</span>\n<img', html)
     print name
 
     
