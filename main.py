@@ -18,8 +18,8 @@ if __name__ == '__main__':
     msg = update_userinfo(db, cond, **userinfo)
     #send email
     if msg not in [0,1]:
-        content = '%s的数据变化：\n赞同：%s\n感谢：%s\n关注：%s\n被关注：%s'\
-        %(p_name, msg['agree_change'], msg['thank_change'], msg['followees_change'], msg['followers_change'])
+        content = '%s的数据变化：\n赞同：%s\n感谢：%s\n关注：%s\n被关注：%s\n回答：%s\n专栏文章：%s'\
+        %(p_name, msg['agree_change'], msg['thank_change'], msg['followees_change'], msg['followers_change'], msg['answers'], msg['posts'])
         subject = '%s的知乎有更新'%p_name
         rt = send_163mail(subject, content)
 	print content

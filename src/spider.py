@@ -64,7 +64,7 @@ def getUserinfos(p_name):
 def check_oline(html):
     name = re.findall( r'<span class="name">(.*?)</span>\n<img', html)
     if len(name):
-        print name[0], " is online"
+        print name[0], " is online >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
         return 1
     print 'not online'
     return 0

@@ -27,18 +27,23 @@ def update_userinfo(db, cond, **data):
         return 0
     agree = int(data['agree'])
     thank = int(data['thank'])
+    answers = int(data['answers'])
+    posts = int(data['posts'])
     followees = int(data['followees'])
     followers = int(data['followers'])
     #if the agree,thank,followees,followers changed?
     change = {}
     change['agree_change'] = agree - int(mongo_data[0]['agree'])
     change['thank_change'] = thank - int(mongo_data[0]['thank'])
+    change['answers'] = answers - int(mongo_data[0]['answers'])
+    change['posts'] = posts - int(mongo_data[0]['posts'])
     change['followees_change'] = followees - int(mongo_data[0]['followees'])
     change['followers_change'] = followers - int(mongo_data[0]['followers'])
     for k,v in change.items():
         #if changed, update db and return message
         if v:
             db.user_infos.update(cond, {'$set':{'agree':agree, 'thank':thank, \
+                                                'answers':answers, 'posts':posts,\
                                                 'followees':followees, 'followers':followers}})
             return change
         continue
