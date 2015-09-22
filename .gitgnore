@@ -1,3 +1,6 @@
 *.pyc
 *.txt
 *.gif
+.project
+.pydevproject
+.settings
