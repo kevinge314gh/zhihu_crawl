@@ -21,4 +21,4 @@ if __name__ == '__main__':
 #     print pytesseract.image_to_string(Image.open('captcha.png'))
     print os.path.abspath('...')
     print sys.argv[0]
-    
+    print 'name----', os.name

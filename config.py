@@ -12,4 +12,4 @@ MONGO_PORT = 27017
 HEADERS = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1',
                    'Referer' : 'http:www.zhihu.com'}
 
-ROOT_PATH = '/var/app/workspace/github/zhihu_crawl'
+ROOT_PATH = '/var/app/github/zhihu_crawl'
