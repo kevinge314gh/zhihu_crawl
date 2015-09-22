@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #coding:utf-8
 '''
 Created on 2015年9月15日
@@ -5,17 +6,14 @@ Created on 2015年9月15日
 @author: root
 '''
 #!/usr/bin/python
-
+import sys
+sys.path.append('/var/app/github/zhihu_crawl')
 import urllib2
 import re
-import login
 import cookielib
+import tools
 
-from config import ROOT_PATH,HEADERS
-
-
-URL = 'http://www.zhihu.com'
-url_people = 'http://www.zhihu.com/people/'
+from config import ROOT_PATH,HEADERS,URL_PEOPLE
 
 def get_html(url):
     #load cookie
@@ -35,7 +33,7 @@ def get_html(url):
     return html
 
 def getUserinfos(p_name):
-    url = url_people + p_name
+    url = URL_PEOPLE + p_name
     html = get_html(url)
     userinfo = {}
     userinfo['user_url'] = url
@@ -61,18 +59,52 @@ def getUserinfos(p_name):
     check_oline(html)
     return userinfo
 
+def get_answers(p_name):
+    url = URL_PEOPLE + p_name + '/answers?order_by=created'
+    html = get_html(url)
+    check_oline(html)
+    answers = []
+    pattern = re.compile(r'id="mi-(.*)">\n<h2><a class="question_link" href="/question/(.*)/answer/(.*)">(.*)</a></h2>')
+    rets = re.findall(pattern, html)
+    for ret in rets[:3]:
+        ans = {}
+        ans['create_time'] = tools.time_format(int(ret[0]))
+        ans['ans_id'] = ret[1] + '-' + ret[2]
+        ans['ans_title'] = ret[3]
+        answers.append(ans)
+    return answers
+    
+def get_followees(p_name):
+    url = URL_PEOPLE + p_name + '/followees'
+    html = get_html(url)
+    print html
+    check_oline(html)
+    followees = []
+#     pattern = re.compile(r'<a title="(.*)".*href="/people/(.*)">\n.*\n</a>\n.*\n.*\n\n.*\n.*\n.*>(.*)关注者</a>\n/\n.*\n/\n.*\n/\n.*(.*)赞同</a>')
+    pattern = re.compile(r'<a title="(.*)"\n.*\n.*\nhref="/people/(.*)">')
+    rets = re.findall(pattern, html)
+    print rets
+#     for ret in rets[:3]:
+#         ans = {}
+#         ans['create_time'] = tools.time_format(int(ret[0]))
+#         ans['ans_id'] = ret[1] + '-' + ret[2]
+#         ans['ans_title'] = ret[3]
+#         answers.append(ans)
+#     return answers
+    
 def check_oline(html):
     name = re.findall( r'<span class="name">(.*?)</span>\n<img', html)
     if len(name):
         print name[0], " is online >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
         return 1
-    print 'not online'
+    print 'not online xxxxxxxxxxxxxxxxxxxxxxxxx'
     return 0
+
     
 if __name__ == '__main__':
-    html = get_html(url_people+'linan')
-    name = re.findall( r'<span class="name">(.*?)</span>\n<img', html)
-    print name
+    answers = get_followees('zhang-jia-wei')
+    
+    
 
     
    

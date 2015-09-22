@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #coding:utf-8
 '''
 Created on 2015年9月18日
@@ -10,15 +11,16 @@ import os
 import sys
 import cookielib
 import urllib2
+import time
 from config import ROOT_PATH,HEADERS
+from db.mongo import *
+from src.spider import *
 
 from PIL import Image
 # import pytesseract
 
 
 if __name__ == '__main__':
-    
-#     print pytesseract.image_to_string(Image.open('captcha.png'))
-    print os.path.abspath('...')
-    print sys.argv[0]
-    print 'name----', os.name
+    db = mongo_connection().spider
+    answers = get_answers('linan')
+    save_answers(db, answers)

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding:utf-8 -*-
 '''
 Created on 2015年9月18日
@@ -12,4 +13,9 @@ MONGO_PORT = 27017
 HEADERS = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1',
                    'Referer' : 'http:www.zhihu.com'}
 
+'''PATH'''
 ROOT_PATH = '/var/app/github/zhihu_crawl'
+
+'''URL'''
+URL = 'http://www.zhihu.com'
+URL_PEOPLE = 'http://www.zhihu.com/people/'

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #coding:utf-8
 '''
 Created on 2015年9月17日
@@ -57,6 +58,11 @@ def remove_userinfo(db, cond):
     db.user_infos.remove(cond)
     
     
+def save_answers(db, cond):
+    db.answers.insert(cond)
+    
+    
+    
     
     
     
@@ -65,6 +71,7 @@ if __name__ == '__main__':
 #     db.test.update({'id':12}, {'$set':{'name':'kkkkkkkkk'}})
 #     ret = db.test.find()
 #     print [item for item in ret]
-    remove_userinfo(db, {'p_name':'linan'})
+#     remove_userinfo(db, {'p_name':'linan'})
+    
 
     

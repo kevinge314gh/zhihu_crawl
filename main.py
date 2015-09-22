@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #coding:utf-8
 '''
 Created on 2015年9月21日
@@ -6,12 +7,13 @@ Created on 2015年9月21日
 '''
 
 import sys
+sys.path.append('/var/app/github/zhihu_crawl')
 from db.mongo import *
 from src.spider import getUserinfos
 from src.sendEmail import send_163mail
 
 if __name__ == '__main__':
-    p_name = 'zhang-jia-wei'
+    p_name = 'linan'
     db = mongo_connection().spider
     userinfo = getUserinfos(p_name)
     cond = {'p_name':p_name}
