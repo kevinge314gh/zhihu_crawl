@@ -77,20 +77,14 @@ def get_answers(p_name):
 def get_followees(p_name):
     url = URL_PEOPLE + p_name + '/followees'
     html = get_html(url)
-    print html
     check_oline(html)
-    followees = []
-#     pattern = re.compile(r'<a title="(.*)".*href="/people/(.*)">\n.*\n</a>\n.*\n.*\n\n.*\n.*\n.*>(.*)关注者</a>\n/\n.*\n/\n.*\n/\n.*(.*)赞同</a>')
-    pattern = re.compile(r'<a title="(.*)"\n.*\n.*\nhref="/people/(.*)">')
+    users = []
+    pattern = re.compile(r'<a target="_blank" href="/people/(.*)/followers" class="zg-link-gray-normal">(.*) 关注者</a>')
     rets = re.findall(pattern, html)
-    print rets
-#     for ret in rets[:3]:
-#         ans = {}
-#         ans['create_time'] = tools.time_format(int(ret[0]))
-#         ans['ans_id'] = ret[1] + '-' + ret[2]
-#         ans['ans_title'] = ret[3]
-#         answers.append(ans)
-#     return answers
+    for ret in rets:
+        users.append({'p_name':ret[0], 'followers_num':int(ret[1]), 'big_followers':[p_name]})
+    print users
+    return users
     
 def check_oline(html):
     name = re.findall( r'<span class="name">(.*?)</span>\n<img', html)
@@ -103,6 +97,7 @@ def check_oline(html):
     
 if __name__ == '__main__':
     answers = get_followees('zhang-jia-wei')
+    
     
     
 

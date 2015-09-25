@@ -22,5 +22,5 @@ from PIL import Image
 
 if __name__ == '__main__':
     db = mongo_connection().spider
-    answers = get_answers('linan')
-    save_answers(db, answers)
+    followees = get_followees('zhang-jia-wei')
+    save_followees(db, cond=followees)

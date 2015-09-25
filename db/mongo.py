@@ -57,9 +57,14 @@ def get_userinfo(db, cond):
 def remove_userinfo(db, cond):
     db.user_infos.remove(cond)
     
-    
+'''anwsers'''  
 def save_answers(db, cond):
     db.answers.insert(cond)
+    
+    
+'''followees'''
+def save_followees(db, cond):
+    db.users.insert(cond)
     
     
     

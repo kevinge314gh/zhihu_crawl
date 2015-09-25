@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+HEADERS	config.py	/^HEADERS = {'User-Agent' : 'Mozilla\/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko\/20100101 Firefox\/14.0.1',$/;"	v
+MONGO_IP	config.py	/^MONGO_IP = '127.0.0.1'$/;"	v
+MONGO_PORT	config.py	/^MONGO_PORT = 27017$/;"	v
+ROOT_PATH	config.py	/^ROOT_PATH = '\/var\/app\/github\/zhihu_crawl'$/;"	v
+URL	config.py	/^URL = 'http:\/\/www.zhihu.com'$/;"	v
+URL_PEOPLE	config.py	/^URL_PEOPLE = 'http:\/\/www.zhihu.com\/people\/'$/;"	v
+answers	src/spider.py	/^    answers = get_followees('zhang-jia-wei')$/;"	v
+answers	test.py	/^    answers = get_answers('linan')$/;"	v
+check_oline	src/spider.py	/^def check_oline(html):$/;"	f
+cls	src/login.py	/^    cls = login_zhihu()$/;"	v	class:login_zhihu
+cond	main.py	/^    cond = {'p_name': p_name}$/;"	v
+content	main.py	/^            % (p_name, msg['agree_change'], msg['thank_change'], msg['followees_change'], msg['followers_change'], msg['answers'], msg['posts'])$/;"	v
+db	main.py	/^    db = mongo_connection().spider$/;"	v
+db	test.py	/^    db = mongo_connection().spider$/;"	v
+email	src/login.py	/^    email = 'kevinge314wy@163.com'$/;"	v	class:login_zhihu
+fro	src/sendEmail.py	/^    fro = ['kevinge314wy@163.com']$/;"	v
+getUserinfos	src/spider.py	/^def getUserinfos(p_name):$/;"	f
+get_answers	src/spider.py	/^def get_answers(p_name):$/;"	f
+get_captcha	src/login.py	/^    def get_captcha(self):$/;"	m	class:login_zhihu
+get_followees	src/spider.py	/^def get_followees(p_name):$/;"	f
+get_html	src/spider.py	/^def get_html(url):$/;"	f
+get_userinfo	db/mongo.py	/^def get_userinfo(db, cond):$/;"	f
+get_xsrf	src/login.py	/^    def get_xsrf(self):$/;"	m	class:login_zhihu
+headers	src/login.py	/^    headers = HEADERS$/;"	v	class:login_zhihu
+hosturl	src/login.py	/^    hosturl = 'http:\/\/www.zhihu.com'$/;"	v	class:login_zhihu
+login_zhihu	src/login.py	/^    def login_zhihu(self):$/;"	m	class:login_zhihu
+login_zhihu	src/login.py	/^class login_zhihu():$/;"	c
+mongo_connection	db/mongo.py	/^def mongo_connection():$/;"	f
+msg	main.py	/^    msg = update_userinfo(db, cond, **userinfo)$/;"	v
+p_name	main.py	/^    p_name = 'linan'$/;"	v
+password	src/login.py	/^    password = '123456'$/;"	v	class:login_zhihu
+post_data	src/login.py	/^    def post_data(self,captcha,xsrf):$/;"	m	class:login_zhihu
+posturl	src/login.py	/^    posturl = 'http:\/\/www.zhihu.com\/login\/email'$/;"	v	class:login_zhihu
+remove_userinfo	db/mongo.py	/^def remove_userinfo(db, cond):$/;"	f
+rt	main.py	/^        Thank you for your subscription!' % p_name)$/;"	v
+rt	main.py	/^        rt = send_163mail(subject, content)$/;"	v
+rt	src/login.py	/^    rt = cls.login_zhihu()$/;"	v	class:login_zhihu
+save_answers	db/mongo.py	/^def save_answers(db, cond):$/;"	f
+save_userinfo	db/mongo.py	/^def save_userinfo(db, data):$/;"	f
+send_163mail	src/sendEmail.py	/^def send_163mail(subject, content):$/;"	f
+send_email	src/sendEmail.py	/^def send_email(server, fro, to, subject, text, files=[]):$/;"	f
+server	src/sendEmail.py	/^    server = {}$/;"	v
+set_cookie	src/login.py	/^def set_cookie():$/;"	f
+subject	main.py	/^        subject = '%s的知乎有更新' % p_name$/;"	v
+subject	src/sendEmail.py	/^    subject = 'Changes from guowenkai'$/;"	v
+text	src/sendEmail.py	/^    sadfdsfsdfasdfsadfsdfsdfsdfsdfsnfasdfjdsifds'$/;"	v
+time_format	src/tools.py	/^def time_format(timestamp):$/;"	f
+to	src/sendEmail.py	/^    to = ['912023833@qq.com']$/;"	v
+update_userinfo	db/mongo.py	/^def update_userinfo(db, cond, **data):$/;"	f
+userinfo	main.py	/^    userinfo = getUserinfos(p_name)$/;"	v
