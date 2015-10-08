@@ -19,7 +19,7 @@ def save_userinfo(db, data):
     db.user_infos.save(data)
 
 '''
-@return: 0:add new, 1:no change  change:change message
+@return: 0:add new, 1:no change  change:change message   kkkkkkkkkkkkkk
 '''  
 def update_userinfo(db, cond, **data):
     mongo_data = get_userinfo(db, cond)
